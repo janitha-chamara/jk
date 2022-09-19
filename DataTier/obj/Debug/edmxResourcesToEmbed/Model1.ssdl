@@ -1,0 +1,1867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AHPL_DBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="AHPL_DBModelStoreContainer">
+    <EntitySet Name="Addendum_Details" EntityType="AHPL_DBModel.Store.Addendum_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Addendum_Details_Audit" EntityType="AHPL_DBModel.Store.Addendum_Details_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Addendum_Details_Audit">
+      <DefiningQuery>SELECT 
+      [Addendum_Details_Audit].[AddendumDetIDAudit] AS [AddendumDetIDAudit], 
+      [Addendum_Details_Audit].[AddendumDetID] AS [AddendumDetID], 
+      [Addendum_Details_Audit].[AddendumID] AS [AddendumID], 
+      [Addendum_Details_Audit].[Contract_RentSchemeID] AS [Contract_RentSchemeID], 
+      [Addendum_Details_Audit].[RentperSqFeetO] AS [RentperSqFeetO], 
+      [Addendum_Details_Audit].[RentperSqFeetN] AS [RentperSqFeetN], 
+      [Addendum_Details_Audit].[SCperSqFeetO] AS [SCperSqFeetO], 
+      [Addendum_Details_Audit].[SCperSqFeetN] AS [SCperSqFeetN], 
+      [Addendum_Details_Audit].[ContractID] AS [ContractID], 
+      [Addendum_Details_Audit].[FromDateO] AS [FromDateO], 
+      [Addendum_Details_Audit].[FromDateN] AS [FromDateN], 
+      [Addendum_Details_Audit].[ToDateO] AS [ToDateO], 
+      [Addendum_Details_Audit].[ToDateN] AS [ToDateN], 
+      [Addendum_Details_Audit].[CreatedBy] AS [CreatedBy], 
+      [Addendum_Details_Audit].[CreatedDate] AS [CreatedDate], 
+      [Addendum_Details_Audit].[UpdatedBy] AS [UpdatedBy], 
+      [Addendum_Details_Audit].[UpdatedDate] AS [UpdatedDate], 
+      [Addendum_Details_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[Addendum_Details_Audit] AS [Addendum_Details_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Addendums" EntityType="AHPL_DBModel.Store.Addendums" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Addendums_Audit" EntityType="AHPL_DBModel.Store.Addendums_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Addendums_Audit">
+      <DefiningQuery>SELECT 
+      [Addendums_Audit].[AddendumIDAudit] AS [AddendumIDAudit], 
+      [Addendums_Audit].[AddendumID] AS [AddendumID], 
+      [Addendums_Audit].[AddendumDate] AS [AddendumDate], 
+      [Addendums_Audit].[AddendumName] AS [AddendumName], 
+      [Addendums_Audit].[ContractClosureID] AS [ContractClosureID], 
+      [Addendums_Audit].[Remarks] AS [Remarks], 
+      [Addendums_Audit].[CreatedBy] AS [CreatedBy], 
+      [Addendums_Audit].[CreatedDate] AS [CreatedDate], 
+      [Addendums_Audit].[LastUpdated] AS [LastUpdated], 
+      [Addendums_Audit].[LastUpdateDate] AS [LastUpdateDate], 
+      [Addendums_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[Addendums_Audit] AS [Addendums_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Attachments" EntityType="AHPL_DBModel.Store.Attachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ClosureMappingItems" EntityType="AHPL_DBModel.Store.ClosureMappingItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Companies" EntityType="AHPL_DBModel.Store.Companies" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Company_Taxes" EntityType="AHPL_DBModel.Store.Company_Taxes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Conract_Closure_Sub_Templates" EntityType="AHPL_DBModel.Store.Conract_Closure_Sub_Templates" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Conract_Closure_Sub_Templates_Audit" EntityType="AHPL_DBModel.Store.Conract_Closure_Sub_Templates_Audit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contract_Closure_Items" EntityType="AHPL_DBModel.Store.Contract_Closure_Items" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contract_Rates" EntityType="AHPL_DBModel.Store.Contract_Rates" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contract_RentSchemes" EntityType="AHPL_DBModel.Store.Contract_RentSchemes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contract_Shops" EntityType="AHPL_DBModel.Store.Contract_Shops" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ContractClosure_Details" EntityType="AHPL_DBModel.Store.ContractClosure_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ContractClosures" EntityType="AHPL_DBModel.Store.ContractClosures" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ContractClosures_Audit" EntityType="AHPL_DBModel.Store.ContractClosures_Audit" store:Type="Tables" store:Schema="dbo" store:Name="ContractClosures_Audit">
+      <DefiningQuery>SELECT 
+      [ContractClosures_Audit].[ContractClosureIDAudit] AS [ContractClosureIDAudit], 
+      [ContractClosures_Audit].[ContractClosureID] AS [ContractClosureID], 
+      [ContractClosures_Audit].[ContractClosureName] AS [ContractClosureName], 
+      [ContractClosures_Audit].[ContractClosureTempID] AS [ContractClosureTempID], 
+      [ContractClosures_Audit].[IsProcessed] AS [IsProcessed], 
+      [ContractClosures_Audit].[IsReleased] AS [IsReleased], 
+      [ContractClosures_Audit].[IsReleasedToAccounts] AS [IsReleasedToAccounts], 
+      [ContractClosures_Audit].[ContractID] AS [ContractID], 
+      [ContractClosures_Audit].[IsCancelled] AS [IsCancelled], 
+      [ContractClosures_Audit].[CompanyID] AS [CompanyID], 
+      [ContractClosures_Audit].[LocationID] AS [LocationID], 
+      [ContractClosures_Audit].[LevelID] AS [LevelID], 
+      [ContractClosures_Audit].[ShopNo] AS [ShopNo], 
+      [ContractClosures_Audit].[ShopID] AS [ShopID], 
+      [ContractClosures_Audit].[FloorArea] AS [FloorArea], 
+      [ContractClosures_Audit].[Deposit] AS [Deposit], 
+      [ContractClosures_Audit].[ContractPeriod] AS [ContractPeriod], 
+      [ContractClosures_Audit].[LastModDate] AS [LastModDate], 
+      [ContractClosures_Audit].[AgreementNo] AS [AgreementNo], 
+      [ContractClosures_Audit].[AgreementSignDate] AS [AgreementSignDate], 
+      [ContractClosures_Audit].[ShopName] AS [ShopName], 
+      [ContractClosures_Audit].[ExtendedCustomerID] AS [ExtendedCustomerID], 
+      [ContractClosures_Audit].[GlobalCustomerID] AS [GlobalCustomerID], 
+      [ContractClosures_Audit].[CustomerName] AS [CustomerName], 
+      [ContractClosures_Audit].[Naration] AS [Naration], 
+      [ContractClosures_Audit].[IsPromotion] AS [IsPromotion], 
+      [ContractClosures_Audit].[PoRentTypeID] AS [PoRentTypeID], 
+      [ContractClosures_Audit].[CustomerAddress] AS [CustomerAddress], 
+      [ContractClosures_Audit].[Signature1] AS [Signature1], 
+      [ContractClosures_Audit].[Signature2] AS [Signature2], 
+      [ContractClosures_Audit].[IsRenew] AS [IsRenew], 
+      [ContractClosures_Audit].[IsExtention] AS [IsExtention], 
+      [ContractClosures_Audit].[IsNew] AS [IsNew], 
+      [ContractClosures_Audit].[RefNo] AS [RefNo], 
+      [ContractClosures_Audit].[IsActive] AS [IsActive], 
+      [ContractClosures_Audit].[IsTerminated] AS [IsTerminated], 
+      [ContractClosures_Audit].[TerminatedDate] AS [TerminatedDate], 
+      [ContractClosures_Audit].[CreatedBy] AS [CreatedBy], 
+      [ContractClosures_Audit].[CreatedDate] AS [CreatedDate], 
+      [ContractClosures_Audit].[LastUpdated] AS [LastUpdated], 
+      [ContractClosures_Audit].[LastUpdateDate] AS [LastUpdateDate], 
+      [ContractClosures_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[ContractClosures_Audit] AS [ContractClosures_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ContractClosureTemplate_Details" EntityType="AHPL_DBModel.Store.ContractClosureTemplate_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contracts" EntityType="AHPL_DBModel.Store.Contracts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer_Attachments" EntityType="AHPL_DBModel.Store.Customer_Attachments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer_MailingOptions" EntityType="AHPL_DBModel.Store.Customer_MailingOptions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer_Profiles" EntityType="AHPL_DBModel.Store.Customer_Profiles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer_Taxes" EntityType="AHPL_DBModel.Store.Customer_Taxes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DeliveryOptions" EntityType="AHPL_DBModel.Store.DeliveryOptions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmailAlertItems" EntityType="AHPL_DBModel.Store.EmailAlertItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmailAlertRoles" EntityType="AHPL_DBModel.Store.EmailAlertRoles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmailConfiguration" EntityType="AHPL_DBModel.Store.EmailConfiguration" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmailSentItems" EntityType="AHPL_DBModel.Store.EmailSentItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="EmailsToBeSent" EntityType="AHPL_DBModel.Store.EmailsToBeSent" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Envelopes" EntityType="AHPL_DBModel.Store.Envelopes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ExtCustomer_Details" EntityType="AHPL_DBModel.Store.ExtCustomer_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Extended_Customers" EntityType="AHPL_DBModel.Store.Extended_Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ExtendedCustomer_GLCodes" EntityType="AHPL_DBModel.Store.ExtendedCustomer_GLCodes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Financial_Years" EntityType="AHPL_DBModel.Store.Financial_Years" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FinancialYear_Details" EntityType="AHPL_DBModel.Store.FinancialYear_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Floor_Levels" EntityType="AHPL_DBModel.Store.Floor_Levels" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Global_Customers" EntityType="AHPL_DBModel.Store.Global_Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Global_Customers_Audit" EntityType="AHPL_DBModel.Store.Global_Customers_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Global_Customers_Audit">
+      <DefiningQuery>SELECT 
+      [Global_Customers_Audit].[CustomerIDAudit] AS [CustomerIDAudit], 
+      [Global_Customers_Audit].[CustomerID] AS [CustomerID], 
+      [Global_Customers_Audit].[CustomerName] AS [CustomerName], 
+      [Global_Customers_Audit].[CompanyAddress] AS [CompanyAddress], 
+      [Global_Customers_Audit].[TelNos] AS [TelNos], 
+      [Global_Customers_Audit].[FaxNos] AS [FaxNos], 
+      [Global_Customers_Audit].[EmailAddress] AS [EmailAddress], 
+      [Global_Customers_Audit].[RegNo] AS [RegNo], 
+      [Global_Customers_Audit].[MajShareName] AS [MajShareName], 
+      [Global_Customers_Audit].[YearOfInc] AS [YearOfInc], 
+      [Global_Customers_Audit].[NameOfPrinciple] AS [NameOfPrinciple], 
+      [Global_Customers_Audit].[PaidUpShareCapital] AS [PaidUpShareCapital], 
+      [Global_Customers_Audit].[AuthShareCaptial] AS [AuthShareCaptial], 
+      [Global_Customers_Audit].[CreatedBy] AS [CreatedBy], 
+      [Global_Customers_Audit].[CreatedDate] AS [CreatedDate], 
+      [Global_Customers_Audit].[UpdatedBy] AS [UpdatedBy], 
+      [Global_Customers_Audit].[UpdatedDate] AS [UpdatedDate], 
+      [Global_Customers_Audit].[SAPCustomerCode] AS [SAPCustomerCode], 
+      [Global_Customers_Audit].[DefaultTaxRegNo] AS [DefaultTaxRegNo], 
+      [Global_Customers_Audit].[DefaultTaxID] AS [DefaultTaxID], 
+      [Global_Customers_Audit].[AlternateEmail] AS [AlternateEmail], 
+      [Global_Customers_Audit].[KnownAs] AS [KnownAs], 
+      [Global_Customers_Audit].[Discontinued] AS [Discontinued], 
+      [Global_Customers_Audit].[DiscontinuedDate] AS [DiscontinuedDate], 
+      [Global_Customers_Audit].[IsTaxCustomer] AS [IsTaxCustomer], 
+      [Global_Customers_Audit].[IsDeleted] AS [IsDeleted], 
+      [Global_Customers_Audit].[LogDate] AS [LogDate]
+      FROM [dbo].[Global_Customers_Audit] AS [Global_Customers_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Invoice_Cycles" EntityType="AHPL_DBModel.Store.Invoice_Cycles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoice_Details" EntityType="AHPL_DBModel.Store.Invoice_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoice_Types" EntityType="AHPL_DBModel.Store.Invoice_Types" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoices" EntityType="AHPL_DBModel.Store.Invoices" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoices_Audit" EntityType="AHPL_DBModel.Store.Invoices_Audit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Location_Details" EntityType="AHPL_DBModel.Store.Location_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Locations" EntityType="AHPL_DBModel.Store.Locations" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MISPerformanceDetail" EntityType="AHPL_DBModel.Store.MISPerformanceDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MisReportItems" EntityType="AHPL_DBModel.Store.MisReportItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Months" EntityType="AHPL_DBModel.Store.Months" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OtherServiceCategories" EntityType="AHPL_DBModel.Store.OtherServiceCategories" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Permission_Forms" EntityType="AHPL_DBModel.Store.Permission_Forms" store:Type="Tables" Schema="dbo" Table="Permission.Forms" />
+    <EntitySet Name="Permission_Roles" EntityType="AHPL_DBModel.Store.Permission_Roles" store:Type="Tables" Schema="dbo" Table="Permission.Roles" />
+    <EntitySet Name="Permission_UserForms" EntityType="AHPL_DBModel.Store.Permission_UserForms" store:Type="Tables" Schema="dbo" Table="Permission.UserForms" />
+    <EntitySet Name="Permission_UserGroups" EntityType="AHPL_DBModel.Store.Permission_UserGroups" store:Type="Tables" Schema="dbo" Table="Permission.UserGroups" />
+    <EntitySet Name="Permission_Users" EntityType="AHPL_DBModel.Store.Permission_Users" store:Type="Tables" Schema="dbo" Table="Permission.Users" />
+    <EntitySet Name="Permission_Users_Audit" EntityType="AHPL_DBModel.Store.Permission_Users_Audit" store:Type="Tables" Schema="dbo" Table="Permission.Users_Audit" />
+    <EntitySet Name="Promotion_RentTypes" EntityType="AHPL_DBModel.Store.Promotion_RentTypes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Ratios" EntityType="AHPL_DBModel.Store.Ratios" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Rent_Area_Types" EntityType="AHPL_DBModel.Store.Rent_Area_Types" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RentTax_Profiles" EntityType="AHPL_DBModel.Store.RentTax_Profiles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RentTaxProfile_Details" EntityType="AHPL_DBModel.Store.RentTaxProfile_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SAP_DocTypes" EntityType="AHPL_DBModel.Store.SAP_DocTypes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SAP_LineItems" EntityType="AHPL_DBModel.Store.SAP_LineItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SAP_TAXGLCODES" EntityType="AHPL_DBModel.Store.SAP_TAXGLCODES" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SAP_Uploads" EntityType="AHPL_DBModel.Store.SAP_Uploads" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SCAndRentValues" EntityType="AHPL_DBModel.Store.SCAndRentValues" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ServiceCharges" EntityType="AHPL_DBModel.Store.ServiceCharges" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shop_Details" EntityType="AHPL_DBModel.Store.Shop_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shops" EntityType="AHPL_DBModel.Store.Shops" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shops_Audit" EntityType="AHPL_DBModel.Store.Shops_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Shops_Audit">
+      <DefiningQuery>SELECT 
+      [Shops_Audit].[ShopIDAudit] AS [ShopIDAudit], 
+      [Shops_Audit].[ShopID] AS [ShopID], 
+      [Shops_Audit].[ShopName] AS [ShopName], 
+      [Shops_Audit].[LevelID] AS [LevelID], 
+      [Shops_Audit].[LocationID] AS [LocationID], 
+      [Shops_Audit].[CompanyID] AS [CompanyID], 
+      [Shops_Audit].[CustomerID] AS [CustomerID], 
+      [Shops_Audit].[ShopNo] AS [ShopNo], 
+      [Shops_Audit].[SqFeet] AS [SqFeet], 
+      [Shops_Audit].[IsBooth] AS [IsBooth], 
+      [Shops_Audit].[RentAreaTypeID] AS [RentAreaTypeID], 
+      [Shops_Audit].[ZoneID] AS [ZoneID], 
+      [Shops_Audit].[IsDeleted] AS [IsDeleted], 
+      [Shops_Audit].[CreatedBy] AS [CreatedBy], 
+      [Shops_Audit].[CreatedDate] AS [CreatedDate], 
+      [Shops_Audit].[LastUpdated] AS [LastUpdated], 
+      [Shops_Audit].[LastUpdateDate] AS [LastUpdateDate], 
+      [Shops_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[Shops_Audit] AS [Shops_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Shops_UtilityReadings" EntityType="AHPL_DBModel.Store.Shops_UtilityReadings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shops_UtilityReadings_Audit" EntityType="AHPL_DBModel.Store.Shops_UtilityReadings_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Shops_UtilityReadings_Audit">
+      <DefiningQuery>SELECT 
+      [Shops_UtilityReadings_Audit].[ShopUtilityReadingIDAudit] AS [ShopUtilityReadingIDAudit], 
+      [Shops_UtilityReadings_Audit].[ShopUtilityReadingID] AS [ShopUtilityReadingID], 
+      [Shops_UtilityReadings_Audit].[ShopID] AS [ShopID], 
+      [Shops_UtilityReadings_Audit].[UtilityID] AS [UtilityID], 
+      [Shops_UtilityReadings_Audit].[UtilityRateID] AS [UtilityRateID], 
+      [Shops_UtilityReadings_Audit].[LastReading] AS [LastReading], 
+      [Shops_UtilityReadings_Audit].[LastReadingDate] AS [LastReadingDate], 
+      [Shops_UtilityReadings_Audit].[IsRatioApplied] AS [IsRatioApplied], 
+      [Shops_UtilityReadings_Audit].[RatioID] AS [RatioID], 
+      [Shops_UtilityReadings_Audit].[MeterName] AS [MeterName], 
+      [Shops_UtilityReadings_Audit].[IsDeleted] AS [IsDeleted], 
+      [Shops_UtilityReadings_Audit].[CreatedBy] AS [CreatedBy], 
+      [Shops_UtilityReadings_Audit].[CreatedDate] AS [CreatedDate], 
+      [Shops_UtilityReadings_Audit].[LastUpdated] AS [LastUpdated], 
+      [Shops_UtilityReadings_Audit].[LastUpdateDate] AS [LastUpdateDate], 
+      [Shops_UtilityReadings_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[Shops_UtilityReadings_Audit] AS [Shops_UtilityReadings_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Sub_Invoice_Types" EntityType="AHPL_DBModel.Store.Sub_Invoice_Types" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Taxes" EntityType="AHPL_DBModel.Store.Taxes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Taxes_Audit" EntityType="AHPL_DBModel.Store.Taxes_Audit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TaxRates" EntityType="AHPL_DBModel.Store.TaxRates" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TaxRates_Audit" EntityType="AHPL_DBModel.Store.TaxRates_Audit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tbl_smtp" EntityType="AHPL_DBModel.Store.tbl_smtp" store:Type="Tables" store:Schema="dbo" store:Name="tbl_smtp">
+      <DefiningQuery>SELECT 
+      [tbl_smtp].[host] AS [host], 
+      [tbl_smtp].[port] AS [port], 
+      [tbl_smtp].[username] AS [username], 
+      [tbl_smtp].[password] AS [password]
+      FROM [dbo].[tbl_smtp] AS [tbl_smtp]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="UserLocations" EntityType="AHPL_DBModel.Store.UserLocations" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Utilities" EntityType="AHPL_DBModel.Store.Utilities" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Utility_Rates" EntityType="AHPL_DBModel.Store.Utility_Rates" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Utility_Rates_Audit" EntityType="AHPL_DBModel.Store.Utility_Rates_Audit" store:Type="Tables" store:Schema="dbo" store:Name="Utility_Rates_Audit">
+      <DefiningQuery>SELECT 
+      [Utility_Rates_Audit].[UtilityRateIDAudit] AS [UtilityRateIDAudit], 
+      [Utility_Rates_Audit].[UtilityRateID] AS [UtilityRateID], 
+      [Utility_Rates_Audit].[UtilityID] AS [UtilityID], 
+      [Utility_Rates_Audit].[UnitRate] AS [UnitRate], 
+      [Utility_Rates_Audit].[IsTaxApplied] AS [IsTaxApplied], 
+      [Utility_Rates_Audit].[CompanyID] AS [CompanyID], 
+      [Utility_Rates_Audit].[LocatoinID] AS [LocatoinID], 
+      [Utility_Rates_Audit].[UtilityRateProfileName] AS [UtilityRateProfileName], 
+      [Utility_Rates_Audit].[CreatedBy] AS [CreatedBy], 
+      [Utility_Rates_Audit].[CreatedDate] AS [CreatedDate], 
+      [Utility_Rates_Audit].[LastUpdated] AS [LastUpdated], 
+      [Utility_Rates_Audit].[LastUpdateDate] AS [LastUpdateDate], 
+      [Utility_Rates_Audit].[LoggedDate] AS [LoggedDate]
+      FROM [dbo].[Utility_Rates_Audit] AS [Utility_Rates_Audit]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="UtlityRate_Details" EntityType="AHPL_DBModel.Store.UtlityRate_Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Zones" EntityType="AHPL_DBModel.Store.Zones" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="view_aplicable_tax_utility" EntityType="AHPL_DBModel.Store.view_aplicable_tax_utility" store:Type="Views" store:Schema="dbo" store:Name="view_aplicable_tax_utility">
+      <DefiningQuery>SELECT 
+      [view_aplicable_tax_utility].[ShopUtilityReadingID] AS [ShopUtilityReadingID], 
+      [view_aplicable_tax_utility].[TaxID] AS [TaxID], 
+      [view_aplicable_tax_utility].[IsMandatory] AS [IsMandatory]
+      FROM [dbo].[view_aplicable_tax_utility] AS [view_aplicable_tax_utility]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="view_user_signature" EntityType="AHPL_DBModel.Store.view_user_signature" store:Type="Views" store:Schema="dbo" store:Name="view_user_signature">
+      <DefiningQuery>SELECT 
+      [view_user_signature].[LocationID] AS [LocationID], 
+      [view_user_signature].[UserID] AS [UserID], 
+      [view_user_signature].[Discontinued] AS [Discontinued], 
+      [view_user_signature].[UserGroupID] AS [UserGroupID], 
+      [view_user_signature].[signature] AS [signature]
+      FROM [dbo].[view_user_signature] AS [view_user_signature]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="view_userRoleEmail" EntityType="AHPL_DBModel.Store.view_userRoleEmail" store:Type="Views" store:Schema="dbo" store:Name="view_userRoleEmail">
+      <DefiningQuery>SELECT 
+      [view_userRoleEmail].[UserID] AS [UserID], 
+      [view_userRoleEmail].[LocationID] AS [LocationID], 
+      [view_userRoleEmail].[Email1] AS [Email1], 
+      [view_userRoleEmail].[Discontinued] AS [Discontinued], 
+      [view_userRoleEmail].[UserGroupID] AS [UserGroupID], 
+      [view_userRoleEmail].[UserGroupName] AS [UserGroupName]
+      FROM [dbo].[view_userRoleEmail] AS [view_userRoleEmail]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <EntityType Name="Addendum_Details">
+    <Key>
+      <PropertyRef Name="AddendumDetID" />
+    </Key>
+    <Property Name="AddendumDetID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AddendumID" Type="int" Nullable="false" />
+    <Property Name="Contract_RentSchemeID" Type="int" Nullable="false" />
+    <Property Name="RentperSqFeetO" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="RentperSqFeetN" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="SCperSqFeetO" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="SCperSqFeetN" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="FromDateO" Type="date" />
+    <Property Name="FromDateN" Type="date" />
+    <Property Name="ToDateO" Type="date" />
+    <Property Name="ToDateN" Type="date" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Addendum_Details_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Addendum_Details_Audit">
+    <Key>
+      <PropertyRef Name="AddendumDetID" />
+    </Key>
+    <Property Name="AddendumDetIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AddendumDetID" Type="int" Nullable="false" />
+    <Property Name="AddendumID" Type="int" />
+    <Property Name="Contract_RentSchemeID" Type="int" />
+    <Property Name="RentperSqFeetO" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="RentperSqFeetN" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="SCperSqFeetO" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="SCperSqFeetN" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="ContractID" Type="int" />
+    <Property Name="FromDateO" Type="date" />
+    <Property Name="FromDateN" Type="date" />
+    <Property Name="ToDateO" Type="date" />
+    <Property Name="ToDateN" Type="date" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Addendums">
+    <Key>
+      <PropertyRef Name="AddendumID" />
+    </Key>
+    <Property Name="AddendumID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AddendumDate" Type="date" />
+    <Property Name="AddendumName" Type="nvarchar" MaxLength="100" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+    <Property Name="Remarks" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Addendums_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Addendums_Audit">
+    <Key>
+      <PropertyRef Name="AddendumID" />
+    </Key>
+    <Property Name="AddendumIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AddendumID" Type="int" Nullable="false" />
+    <Property Name="AddendumDate" Type="date" />
+    <Property Name="AddendumName" Type="nvarchar" MaxLength="100" />
+    <Property Name="ContractClosureID" Type="int" />
+    <Property Name="Remarks" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Attachments">
+    <Key>
+      <PropertyRef Name="AttachmentID" />
+    </Key>
+    <Property Name="AttachmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AttachmentName" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="ClosureMappingItems">
+    <Key>
+      <PropertyRef Name="ClosureMappingItemID" />
+    </Key>
+    <Property Name="ClosureMappingItemID" Type="int" Nullable="false" />
+    <Property Name="ClosureMappingItemName" Type="nvarchar" MaxLength="400" />
+    <Property Name="IsValueType" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Companies">
+    <Key>
+      <PropertyRef Name="CompanyID" />
+    </Key>
+    <Property Name="CompanyID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="CompanyName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="DefaultTaxID" Type="int" />
+    <Property Name="DefaultTaxRegNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="InvoiceFooterText2" Type="nvarchar(max)" />
+    <Property Name="InvoiceFooterText1" Type="nvarchar(max)" />
+    <Property Name="BusinessRegNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="SA_CompanyCode" Type="nvarchar" Nullable="false" MaxLength="4" />
+    <Property Name="SAP_BusinessArea" Type="nvarchar" Nullable="false" MaxLength="4" />
+    <Property Name="IsSAPUploaded" Type="bit" Nullable="false" />
+    <Property Name="Tele1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tele2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_ISR" Type="bit" Nullable="false" />
+    <Property Name="SAP_R3" Type="bit" Nullable="false" />
+    <Property Name="SAP_URL" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Company_Taxes">
+    <Key>
+      <PropertyRef Name="CompanyTaxRegID" />
+    </Key>
+    <Property Name="CompanyTaxRegID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxRegNo" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Conract_Closure_Sub_Templates">
+    <Key>
+      <PropertyRef Name="ContractClosureTempID" />
+    </Key>
+    <Property Name="ContractClosureTempID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="TemplateName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="PageTitle" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PageNo" Type="int" Nullable="false" />
+    <Property Name="Signature1" Type="nvarchar(max)" />
+    <Property Name="Signature2" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Conract_Closure_Sub_Templates_Audit">
+    <Key>
+      <PropertyRef Name="ContractClosureTempIDAudit" />
+    </Key>
+    <Property Name="ContractClosureTempIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureTempID" Type="int" />
+    <Property Name="CompanyID" Type="int" />
+    <Property Name="TemplateName" Type="nvarchar" MaxLength="100" />
+    <Property Name="PageTitle" Type="nvarchar" MaxLength="50" />
+    <Property Name="PageNo" Type="int" />
+    <Property Name="Signature1" Type="nvarchar(max)" />
+    <Property Name="Signature2" Type="nvarchar(max)" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Contract_Closure_Items">
+    <Key>
+      <PropertyRef Name="ContractClosureItemID" />
+    </Key>
+    <Property Name="ContractClosureItemID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosreItemName" Type="nvarchar" Nullable="false" MaxLength="400" />
+    <Property Name="SortOrder" Type="int" Nullable="false" />
+    <Property Name="ClosureMappingItemID" Type="int" Nullable="false" />
+    <Property Name="IsMapped" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Contract_Rates">
+    <Key>
+      <PropertyRef Name="ContractRateID" />
+    </Key>
+    <Property Name="ContractRateID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="AreaInSqFt" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="RentPerSqFt" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="SCPerSqFt" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="RentPerMonth" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="SCPerMonth" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="RentWIthSCPerSqFt" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="RentWithSCPerMonth" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ActiveFrom" Type="datetime" />
+    <Property Name="ActiveTo" Type="datetime" />
+    <Property Name="IsRenew" Type="bit" />
+    <Property Name="PreviousContractRateID" Type="int" />
+    <Property Name="Period" Type="int" Nullable="false" />
+    <Property Name="Contract_RentSchemeID" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Contract_RentSchemes">
+    <Key>
+      <PropertyRef Name="Contract_RentSchemeID" />
+    </Key>
+    <Property Name="Contract_RentSchemeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+    <Property Name="FromDate" Type="date" Nullable="false" />
+    <Property Name="ToDate" Type="date" Nullable="false" />
+    <Property Name="RentPerSqFeet" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="IncreasedRent" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="SCPerSqFeet" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="IncreasedSC" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="BaseRent" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="Period" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="LastModifiedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Contract_Shops">
+    <Key>
+      <PropertyRef Name="ContractShopID" />
+    </Key>
+    <Property Name="ContractShopID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="ShopID" Type="int" />
+    <Property Name="AreaInSqFt" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="ContractClosure_Details">
+    <Key>
+      <PropertyRef Name="ContractClosureDetailID" />
+    </Key>
+    <Property Name="ContractClosureDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+    <Property Name="ContractClosureItemID" Type="int" Nullable="false" />
+    <Property Name="ClosureMappingID" Type="int" Nullable="false" />
+    <Property Name="ContentValue" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="IsSelected" Type="bit" Nullable="false" />
+    <Property Name="Contents" Type="nvarchar(max)" />
+    <Property Name="PrintNumber" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ContractClosures">
+    <Key>
+      <PropertyRef Name="ContractClosureID" />
+    </Key>
+    <Property Name="ContractClosureID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="ContractClosureTempID" Type="int" Nullable="false" />
+    <Property Name="IsProcessed" Type="bit" Nullable="false" />
+    <Property Name="IsReleased" Type="bit" Nullable="false" />
+    <Property Name="IsReleasedToAccounts" Type="bit" Nullable="false" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="IsCancelled" Type="bit" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="100" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="FloorArea" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="Deposit" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="ContractPeriod" Type="int" Nullable="false" />
+    <Property Name="LastModDate" Type="datetime" />
+    <Property Name="AgreementNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="AgreementSignDate" Type="date" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="GlobalCustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Naration" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsPromotion" Type="bit" Nullable="false" />
+    <Property Name="IsPoAdvertisement" Type="bit" Nullable="false" />
+    <Property Name="PoRentTypeID" Type="int" Nullable="false" />
+    <Property Name="CustomerAddress" Type="varchar(max)" />
+    <Property Name="Signature1" Type="nvarchar(max)" />
+    <Property Name="Signature2" Type="nvarchar(max)" />
+    <Property Name="IsRenew" Type="bit" Nullable="false" />
+    <Property Name="IsExtention" Type="bit" Nullable="false" />
+    <Property Name="IsNew" Type="bit" Nullable="false" />
+    <Property Name="RefNo" Type="int" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="IsTerminated" Type="bit" Nullable="false" />
+    <Property Name="TerminatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="PromotionCnt" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.ContractClosures_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="ContractClosures_Audit">
+    <Key>
+      <PropertyRef Name="ContractClosureIDAudit" />
+      <PropertyRef Name="ContractClosureID" />
+      <PropertyRef Name="ContractClosureName" />
+      <PropertyRef Name="ContractClosureTempID" />
+      <PropertyRef Name="IsProcessed" />
+      <PropertyRef Name="IsReleased" />
+      <PropertyRef Name="IsReleasedToAccounts" />
+      <PropertyRef Name="ContractID" />
+      <PropertyRef Name="IsCancelled" />
+      <PropertyRef Name="CompanyID" />
+      <PropertyRef Name="LocationID" />
+      <PropertyRef Name="LevelID" />
+      <PropertyRef Name="ShopID" />
+      <PropertyRef Name="FloorArea" />
+      <PropertyRef Name="Deposit" />
+      <PropertyRef Name="ContractPeriod" />
+      <PropertyRef Name="ExtendedCustomerID" />
+      <PropertyRef Name="GlobalCustomerID" />
+      <PropertyRef Name="Naration" />
+      <PropertyRef Name="IsPromotion" />
+      <PropertyRef Name="PoRentTypeID" />
+      <PropertyRef Name="IsRenew" />
+      <PropertyRef Name="IsExtention" />
+      <PropertyRef Name="IsNew" />
+      <PropertyRef Name="RefNo" />
+      <PropertyRef Name="IsActive" />
+      <PropertyRef Name="IsTerminated" />
+    </Key>
+    <Property Name="ContractClosureIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+    <Property Name="ContractClosureName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="ContractClosureTempID" Type="int" Nullable="false" />
+    <Property Name="IsProcessed" Type="bit" Nullable="false" />
+    <Property Name="IsReleased" Type="bit" Nullable="false" />
+    <Property Name="IsReleasedToAccounts" Type="bit" Nullable="false" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="IsCancelled" Type="bit" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="100" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="FloorArea" Type="decimal" Precision="10" Scale="4" Nullable="false" />
+    <Property Name="Deposit" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="ContractPeriod" Type="int" Nullable="false" />
+    <Property Name="LastModDate" Type="datetime" />
+    <Property Name="AgreementNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="AgreementSignDate" Type="date" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="GlobalCustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Naration" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsPromotion" Type="bit" Nullable="false" />
+    <Property Name="PoRentTypeID" Type="int" Nullable="false" />
+    <Property Name="CustomerAddress" Type="varchar(max)" />
+    <Property Name="Signature1" Type="nvarchar(max)" />
+    <Property Name="Signature2" Type="nvarchar(max)" />
+    <Property Name="IsRenew" Type="bit" Nullable="false" />
+    <Property Name="IsExtention" Type="bit" Nullable="false" />
+    <Property Name="IsNew" Type="bit" Nullable="false" />
+    <Property Name="RefNo" Type="int" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="IsTerminated" Type="bit" Nullable="false" />
+    <Property Name="TerminatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ContractClosureTemplate_Details">
+    <Key>
+      <PropertyRef Name="ContractClosureTempDetailID" />
+    </Key>
+    <Property Name="ContractClosureTempDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ContractClosureTempID" Type="int" Nullable="false" />
+    <Property Name="ContractClosureItemID" Type="int" Nullable="false" />
+    <Property Name="SortOrder" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Contracts">
+    <Key>
+      <PropertyRef Name="ContractID" />
+    </Key>
+    <Property Name="ContractID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="30" />
+    <Property Name="Deposit" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="AgreementNo" Type="nvarchar" MaxLength="20" />
+    <Property Name="AgreementSignDate" Type="datetime" />
+    <Property Name="Remarks" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="IsRenew" Type="bit" />
+    <Property Name="RenewDate" Type="datetime" />
+    <Property Name="IsTaxCustomer" Type="bit" Nullable="false" />
+    <Property Name="IsTerminated" Type="bit" Nullable="false" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer_Attachments">
+    <Key>
+      <PropertyRef Name="CustAttachmentID" />
+    </Key>
+    <Property Name="CustAttachmentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="AttachmentID" Type="int" />
+    <Property Name="Remarks" Type="nvarchar(max)" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="AttachedDocument" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Customer_MailingOptions">
+    <Key>
+      <PropertyRef Name="MailingOptionID" />
+    </Key>
+    <Property Name="MailingOptionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="TransactionCategoryID" Type="int" />
+    <Property Name="DeliveryOptionID" Type="int" />
+    <Property Name="Address" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Customer_Profiles">
+    <Key>
+      <PropertyRef Name="CustomerProfileID" />
+    </Key>
+    <Property Name="CustomerProfileID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="ElectricitiyProfileID" Type="int" Nullable="false" />
+    <Property Name="WaterProfileID" Type="int" Nullable="false" />
+    <Property Name="RentalRateID" Type="int" Nullable="false" />
+    <Property Name="IsVATActive" Type="bit" Nullable="false" />
+    <Property Name="IsTaxActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer_Taxes">
+    <Key>
+      <PropertyRef Name="CustomerTaxRegID" />
+    </Key>
+    <Property Name="CustomerTaxRegID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxRegNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DeliveryOptions">
+    <Key>
+      <PropertyRef Name="DeliveryOptionID" />
+    </Key>
+    <Property Name="DeliveryOptionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DeliveryOptionName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EmailAlertItems">
+    <Key>
+      <PropertyRef Name="EmailAlertItemID" />
+    </Key>
+    <Property Name="EmailAlertItemID" Type="int" Nullable="false" />
+    <Property Name="EmailArertItemName" Type="nvarchar" MaxLength="100" />
+    <Property Name="AlertCycle" Type="int" Nullable="false" />
+    <Property Name="IsInstant" Type="bit" Nullable="false" />
+    <Property Name="StdOrder" Type="int" Nullable="false" />
+    <Property Name="IsEnabled" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmailAlertRoles">
+    <Key>
+      <PropertyRef Name="EmailAlertRoleID" />
+    </Key>
+    <Property Name="EmailAlertRoleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoleID" Type="int" Nullable="false" />
+    <Property Name="EmailAlertItemID" Type="int" Nullable="false" />
+    <Property Name="IsEnabled" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmailConfiguration">
+    <Key>
+      <PropertyRef Name="EmailConfigID" />
+    </Key>
+    <Property Name="EmailConfigID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FromEmail" Type="nvarchar" MaxLength="100" />
+    <Property Name="ClientHost" Type="nvarchar" MaxLength="100" />
+    <Property Name="PorNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="StartServiceApp" Type="bit" Nullable="false" />
+    <Property Name="MailUser" Type="varchar(max)" />
+    <Property Name="EncKey" Type="varchar(max)" />
+    <Property Name="SmtpPassword" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="EmailSentItems">
+    <Key>
+      <PropertyRef Name="EmailSentItemID" />
+    </Key>
+    <Property Name="EmailSentItemID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EmailToBeSendID" Type="bigint" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="EmailsToBeSent">
+    <Key>
+      <PropertyRef Name="EmailTobeSendID" />
+    </Key>
+    <Property Name="EmailTobeSendID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EmailAlertItemID" Type="int" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="100" />
+    <Property Name="Body" Type="nvarchar(max)" />
+    <Property Name="Attachment" Type="varbinary(max)" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="IsEmailSent" Type="bit" Nullable="false" />
+    <Property Name="EmailSentDate" Type="datetime" />
+    <Property Name="IsHourly" Type="bit" Nullable="false" />
+    <Property Name="IsMonthly" Type="bit" Nullable="false" />
+    <Property Name="ContractClauseID" Type="int" Nullable="false" />
+    <Property Name="ScheduledDateToSend" Type="datetime" />
+    <Property Name="AlertSequence" Type="int" Nullable="false" />
+    <Property Name="Selected" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Envelopes">
+    <Key>
+      <PropertyRef Name="EnvelopeID" />
+    </Key>
+    <Property Name="EnvelopeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceTypeID" Type="int" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="CompanyName" Type="nvarchar" MaxLength="100" />
+    <Property Name="CompanyAddress" Type="nvarchar" MaxLength="100" />
+    <Property Name="CustomerCompanyName" Type="nvarchar" MaxLength="100" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="LocationCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="LevelName" Type="nvarchar" MaxLength="50" />
+    <Property Name="GlobalCustomerID" Type="int" Nullable="false" />
+    <Property Name="DeliveryOptionID" Type="int" Nullable="false" />
+    <Property Name="DeliveryOptionName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Adressee" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="PostalAddress" Type="nvarchar(max)" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsPrint" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExtCustomer_Details">
+    <Key>
+      <PropertyRef Name="ExdCustomerDetailID" />
+    </Key>
+    <Property Name="ExdCustomerDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="UtilityRateID" Type="int" />
+    <Property Name="OBReading" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="Extended_Customers">
+    <Key>
+      <PropertyRef Name="ExtendedCustomerID" />
+    </Key>
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" />
+    <Property Name="LocationID" Type="int" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAPAlternateCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="Remarks" Type="nvarchar(max)" />
+    <Property Name="IsDefaultTaxDisplayInPrint" Type="bit" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsGLACCDefualt" Type="bit" Nullable="false" />
+    <Property Name="GL_Code" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsTaxApplicable" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ExtendedCustomer_GLCodes">
+    <Key>
+      <PropertyRef Name="ExtendedCustomerGLCodeDetailID" />
+    </Key>
+    <Property Name="ExtendedCustomerGLCodeDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="GL_CODE" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Financial_Years">
+    <Key>
+      <PropertyRef Name="FinancialYearID" />
+    </Key>
+    <Property Name="FinancialYearID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Financial_Year" Type="int" Nullable="false" />
+    <Property Name="FromDate" Type="datetime" />
+    <Property Name="ToDate" Type="datetime" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FinancialYear_Details">
+    <Key>
+      <PropertyRef Name="FinancialYearDetailID" />
+    </Key>
+    <Property Name="FinancialYearDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FinancialYearID" Type="int" Nullable="false" />
+    <Property Name="MonthID" Type="int" Nullable="false" />
+    <Property Name="CurrentYear" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Floor_Levels">
+    <Key>
+      <PropertyRef Name="LevelID" />
+    </Key>
+    <Property Name="LevelID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LevelCode" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="LevelName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="StdOrder" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Global_Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="CompanyAddress" Type="varchar(max)" />
+    <Property Name="TelNos" Type="nvarchar" MaxLength="50" />
+    <Property Name="FaxNos" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="nvarchar(max)" />
+    <Property Name="RegNo" Type="nvarchar" MaxLength="20" />
+    <Property Name="MajShareName" Type="nvarchar" MaxLength="50" />
+    <Property Name="YearOfInc" Type="int" />
+    <Property Name="NameOfPrinciple" Type="nvarchar" MaxLength="50" />
+    <Property Name="PaidUpShareCapital" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="AuthShareCaptial" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="SAPCustomerCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="DefaultTaxRegNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="DefaultTaxID" Type="int" />
+    <Property Name="AlternateEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="KnownAs" Type="nvarchar" MaxLength="50" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="DiscontinuedDate" Type="datetime" />
+    <Property Name="IsTaxCustomer" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Global_Customers_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Global_Customers_Audit">
+    <Key>
+      <PropertyRef Name="CustomerIDAudit" />
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="CustomerName" />
+      <PropertyRef Name="Discontinued" />
+      <PropertyRef Name="IsTaxCustomer" />
+      <PropertyRef Name="IsDeleted" />
+    </Key>
+    <Property Name="CustomerIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="CompanyAddress" Type="varchar(max)" />
+    <Property Name="TelNos" Type="nvarchar" MaxLength="50" />
+    <Property Name="FaxNos" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="RegNo" Type="nvarchar" MaxLength="20" />
+    <Property Name="MajShareName" Type="nvarchar" MaxLength="50" />
+    <Property Name="YearOfInc" Type="int" />
+    <Property Name="NameOfPrinciple" Type="nvarchar" MaxLength="50" />
+    <Property Name="PaidUpShareCapital" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="AuthShareCaptial" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="SAPCustomerCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="DefaultTaxRegNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="DefaultTaxID" Type="int" />
+    <Property Name="AlternateEmail" Type="nvarchar" MaxLength="50" />
+    <Property Name="KnownAs" Type="nvarchar" MaxLength="50" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="DiscontinuedDate" Type="datetime" />
+    <Property Name="IsTaxCustomer" Type="bit" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+    <Property Name="LogDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Invoice_Cycles">
+    <Key>
+      <PropertyRef Name="InvCycID" />
+    </Key>
+    <Property Name="InvCycID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceTypeID" Type="int" Nullable="false" />
+    <Property Name="UtilityID" Type="int" Nullable="false" />
+    <Property Name="FromDay" Type="int" Nullable="false" />
+    <Property Name="ToDay" Type="int" Nullable="false" />
+    <Property Name="Remarks" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Invoice_Details">
+    <Key>
+      <PropertyRef Name="InvoiceDetailID" />
+    </Key>
+    <Property Name="InvoiceDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceID" Type="int" Nullable="false" />
+    <Property Name="ItemName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TaxCode" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxRateID" Type="int" Nullable="false" />
+    <Property Name="Amount" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="IsPrint" Type="bit" Nullable="false" />
+    <Property Name="TaxRate" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Invoice_Types">
+    <Key>
+      <PropertyRef Name="InvoiceTypeID" />
+    </Key>
+    <Property Name="InvoiceTypeID" Type="int" Nullable="false" />
+    <Property Name="InvoiceTypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="DocType" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Invoices">
+    <Key>
+      <PropertyRef Name="InvoiceID" />
+    </Key>
+    <Property Name="InvoiceID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceNo" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="InvoiceTypeID" Type="int" Nullable="false" />
+    <Property Name="SubInvTypeID" Type="int" Nullable="false" />
+    <Property Name="UtilityID" Type="int" Nullable="false" />
+    <Property Name="UtilityName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="UtilityMeterName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SequenceNo" Type="int" Nullable="false" />
+    <Property Name="ContractID" Type="int" Nullable="false" />
+    <Property Name="ContractRateID" Type="int" Nullable="false" />
+    <Property Name="ContractClosureID" Type="int" Nullable="false" />
+    <Property Name="Contract_RentSchemeID" Type="int" Nullable="false" />
+    <Property Name="InvoiceDate" Type="datetime" />
+    <Property Name="ProcessYear" Type="int" Nullable="false" />
+    <Property Name="ProcessMonth" Type="int" Nullable="false" />
+    <Property Name="ExtendedCustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="CustomerAddress" Type="nvarchar(max)" />
+    <Property Name="CustomerAddress2" Type="nvarchar(max)" />
+    <Property Name="DateFrom" Type="datetime" />
+    <Property Name="DateTo" Type="datetime" />
+    <Property Name="ShopUtilityReadingID" Type="int" Nullable="false" />
+    <Property Name="StartReading" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="EndReading" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="NosUnitsConsumed1" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="Reset" Type="bit" Nullable="false" />
+    <Property Name="StartReading2" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="EndReading2" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="NosUnitsConsumed2" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="UtilityRateID" Type="int" Nullable="false" />
+    <Property Name="UtilityUnitRate" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="IsMaintenance" Type="bit" Nullable="false" />
+    <Property Name="M_StartReading" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="M_EndReading" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="M_NosUnitsConsumed" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalNosUnitConsumed" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="CompanyCode" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="LocationCode" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="LevelName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Naration" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsInvoiced" Type="bit" Nullable="false" />
+    <Property Name="FooterText1" Type="nvarchar" Nullable="false" MaxLength="150" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="ShopNo" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ShopName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Ratio" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="AreaInSqFt" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="RentPerSqFt" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="SCPerSqFt" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="RentPerMonth" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="SCPerMonth" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="RentWIthSCPerSqFt" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="RentWithSCPerMonth" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalAmount" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalTax" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="OtherTax" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="OtherTaxCodes" Type="nvarchar" MaxLength="100" />
+    <Property Name="MandatoryTaxID" Type="int" Nullable="false" />
+    <Property Name="MandatoryTaxRateID" Type="int" Nullable="false" />
+    <Property Name="MandatoryTaxAmount" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalWithMandatoryTax" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalAmtWithTaxExcludedMandatoryTax" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="TotalRentPerMonth" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="IsSCVariance" Type="bit" Nullable="false" />
+    <Property Name="IsRentVariance" Type="bit" Nullable="false" />
+    <Property Name="IsModified" Type="bit" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+    <Property Name="IsPerDay" Type="bit" Nullable="false" />
+    <Property Name="NosDay" Type="int" Nullable="false" />
+    <Property Name="MandatoryTaxCode" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="OtherServiceID" Type="int" Nullable="false" />
+    <Property Name="ContractName" Type="nvarchar" MaxLength="100" />
+    <Property Name="RefInvNo" Type="nvarchar" MaxLength="200" />
+    <Property Name="SAP_CompanyCode" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_PstnDateInDoc" Type="date" />
+    <Property Name="SAP_DocHeaderText" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_DocType" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_Text" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SAP_RefKey1" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_RefKey2" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_RefKey3" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_Assignment" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_PostingKey" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAP_GLACC" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="BatchUpdateLabel" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SAPUploadMsg" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="SAPUploadErr" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="TaxRegNo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsTaxCustomer" Type="bit" Nullable="false" />
+    <Property Name="IsTaxApplicable" Type="bit" Nullable="false" />
+    <Property Name="IsUtilityTaxApplicable" Type="bit" Nullable="false" />
+    <Property Name="IsProcessed" Type="bit" Nullable="false" />
+    <Property Name="IsConfirmed" Type="bit" Nullable="false" />
+    <Property Name="Is_R3" Type="bit" Nullable="false" />
+    <Property Name="Is_ISR" Type="bit" Nullable="false" />
+    <Property Name="Is_SAPUploaded" Type="bit" Nullable="false" />
+    <Property Name="IsPeriodClosed" Type="bit" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="RentalDiscount" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="SCDiscount" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="IsProforma" Type="bit" />
+    <Property Name="InvoiceState" Type="int" />
+    <Property Name="ProfomaNo" Type="varchar" MaxLength="12" />
+    <Property Name="ProfomaSequenceNo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Invoices_Audit">
+    <Key>
+      <PropertyRef Name="InvoiceIDAudit" />
+    </Key>
+    <Property Name="InvoiceIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceID" Type="int" />
+    <Property Name="InvoiceNo" Type="nvarchar" MaxLength="10" />
+    <Property Name="InvoiceTypeID" Type="int" />
+    <Property Name="SubInvTypeID" Type="int" />
+    <Property Name="UtilityID" Type="int" />
+    <Property Name="UtilityName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UtilityMeterName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SequenceNo" Type="int" />
+    <Property Name="ContractID" Type="int" />
+    <Property Name="ContractRateID" Type="int" />
+    <Property Name="ContractClosureID" Type="int" />
+    <Property Name="Contract_RentSchemeID" Type="int" />
+    <Property Name="InvoiceDate" Type="datetime" />
+    <Property Name="ProcessYear" Type="int" />
+    <Property Name="ProcessMonth" Type="int" />
+    <Property Name="ExtendedCustomerID" Type="int" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="100" />
+    <Property Name="CustomerAddress" Type="nvarchar(max)" />
+    <Property Name="CustomerAddress2" Type="nvarchar(max)" />
+    <Property Name="DateFrom" Type="datetime" />
+    <Property Name="DateTo" Type="datetime" />
+    <Property Name="ShopUtilityReadingID" Type="int" />
+    <Property Name="StartReading" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="EndReading" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="NosUnitsConsumed1" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="Reset" Type="bit" />
+    <Property Name="StartReading2" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="EndReading2" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="NosUnitsConsumed2" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="UtilityRateID" Type="int" />
+    <Property Name="UtilityUnitRate" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="IsMaintenance" Type="bit" />
+    <Property Name="M_StartReading" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="M_EndReading" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="M_NosUnitsConsumed" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalNosUnitConsumed" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="CompanyID" Type="int" />
+    <Property Name="CompanyCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="LocationID" Type="int" />
+    <Property Name="LocationCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="LevelID" Type="int" />
+    <Property Name="LevelName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Naration" Type="nvarchar(max)" />
+    <Property Name="IsInvoiced" Type="bit" />
+    <Property Name="FooterText1" Type="nvarchar" MaxLength="150" />
+    <Property Name="ShopID" Type="int" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Ratio" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="AreaInSqFt" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="RentPerSqFt" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="SCPerSqFt" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="RentPerMonth" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="SCPerMonth" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="RentWIthSCPerSqFt" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="RentWithSCPerMonth" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalAmount" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalTax" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="OtherTax" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="OtherTaxCodes" Type="nvarchar" MaxLength="100" />
+    <Property Name="MandatoryTaxID" Type="int" />
+    <Property Name="MandatoryTaxRateID" Type="int" />
+    <Property Name="MandatoryTaxAmount" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalWithMandatoryTax" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalAmtWithTaxExcludedMandatoryTax" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="TotalRentPerMonth" Type="decimal" Precision="12" Scale="4" />
+    <Property Name="IsModified" Type="bit" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="IsPerDay" Type="bit" />
+    <Property Name="NosDay" Type="int" />
+    <Property Name="MandatoryTaxCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="OtherServiceID" Type="int" />
+    <Property Name="ContractName" Type="nvarchar" MaxLength="50" />
+    <Property Name="RefInvNo" Type="nvarchar" MaxLength="200" />
+    <Property Name="SAP_CompanyCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_PstnDateInDoc" Type="date" />
+    <Property Name="SAP_DocHeaderText" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_DocType" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_Text" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_RefKey1" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_RefKey2" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_RefKey3" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_Assignment" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_PostingKey" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_GLACC" Type="nvarchar" MaxLength="50" />
+    <Property Name="BatchUpdateLabel" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAPUploadMsg" Type="nvarchar" MaxLength="100" />
+    <Property Name="SAPUploadErr" Type="nvarchar" MaxLength="100" />
+    <Property Name="TaxRegNo" Type="nvarchar(max)" />
+    <Property Name="IsTaxCustomer" Type="bit" />
+    <Property Name="IsTaxApplicable" Type="bit" />
+    <Property Name="IsUtilityTaxApplicable" Type="bit" />
+    <Property Name="IsProcessed" Type="bit" />
+    <Property Name="IsConfirmed" Type="bit" />
+    <Property Name="Is_R3" Type="bit" />
+    <Property Name="Is_ISR" Type="bit" />
+    <Property Name="Is_SAPUploaded" Type="bit" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Location_Details">
+    <Key>
+      <PropertyRef Name="LocationDetailID" />
+    </Key>
+    <Property Name="LocationDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LocationID" Type="int" />
+    <Property Name="SqFeet" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="ActiveFrom" Type="datetime" Nullable="false" />
+    <Property Name="ActiveTo" Type="datetime" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Locations">
+    <Key>
+      <PropertyRef Name="LocationID" />
+    </Key>
+    <Property Name="LocationID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LocationName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="70" />
+    <Property Name="LocationCode" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="Logo" Type="image" />
+    <Property Name="InvoicePrefix" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="SCperSqFt" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="TotalFloorArea" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="MISPerformanceDetail">
+    <Key>
+      <PropertyRef Name="PerformanceDetailID" />
+    </Key>
+    <Property Name="PerformanceDetailID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FinancialYearDetailID" Type="int" Nullable="false" />
+    <Property Name="ReportItemID" Type="int" Nullable="false" />
+    <Property Name="ReforecastingValue" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="BudgetValue" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="ActualValue" Type="decimal" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MisReportItems">
+    <Key>
+      <PropertyRef Name="ReportItemID" />
+    </Key>
+    <Property Name="ReportItemID" Type="int" Nullable="false" />
+    <Property Name="ReportItemName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SortOrder" Type="int" Nullable="false" />
+    <Property Name="ExceptionItem" Type="int" />
+  </EntityType>
+  <EntityType Name="Months">
+    <Key>
+      <PropertyRef Name="MonthID" />
+    </Key>
+    <Property Name="MonthID" Type="int" Nullable="false" />
+    <Property Name="MonthCode" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="MonthName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="OtherServiceCategories">
+    <Key>
+      <PropertyRef Name="OtherServiceID" />
+    </Key>
+    <Property Name="OtherServiceID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OtherServiceName" Type="nvarchar" MaxLength="100" />
+    <Property Name="InvoicePrefix" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="DocType" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Permission_Forms">
+    <Key>
+      <PropertyRef Name="FormID" />
+    </Key>
+    <Property Name="FormID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InternalFormName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FormDescriotion" Type="nvarchar" MaxLength="50" />
+    <Property Name="MenuName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SubModuleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SubModuleOrderID" Type="int" Nullable="false" />
+    <Property Name="ModuleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ModuleOrderID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Permission_Roles">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Name="RoleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Permission_UserForms">
+    <Key>
+      <PropertyRef Name="UserFormID" />
+    </Key>
+    <Property Name="UserFormID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FormID" Type="int" Nullable="false" />
+    <Property Name="SubModuleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ModuleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="C" Type="bit" Nullable="false" />
+    <Property Name="R" Type="bit" Nullable="false" />
+    <Property Name="U" Type="bit" Nullable="false" />
+    <Property Name="D" Type="bit" Nullable="false" />
+    <Property Name="RoleID" Type="int" />
+    <Property Name="ModuleOrderID" Type="int" Nullable="false" />
+    <Property Name="SubModuleOrderID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Permission_UserGroups">
+    <Key>
+      <PropertyRef Name="UserGroupID" />
+    </Key>
+    <Property Name="UserGroupID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserGroupName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Permission_Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="RoleID" Type="int" Nullable="false" />
+    <Property Name="UserGroupID" Type="int" Nullable="false" />
+    <Property Name="IsUserHead" Type="bit" Nullable="false" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="DiscontinuedDate" Type="datetime" />
+    <Property Name="DNSUserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email1" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email2" Type="nvarchar" MaxLength="100" />
+    <Property Name="R3_UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="R3_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="ISR_UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ISR_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="signature" Type="image" />
+    <Property Name="default_asignee" Type="bit" />
+  </EntityType>
+  <EntityType Name="Permission_Users_Audit">
+    <Key>
+      <PropertyRef Name="AuditRowID" />
+    </Key>
+    <Property Name="AuditRowID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="RoleID" Type="int" Nullable="false" />
+    <Property Name="UserGroupID" Type="int" Nullable="false" />
+    <Property Name="IsUserHead" Type="bit" Nullable="false" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="DiscontinuedDate" Type="datetime" />
+    <Property Name="DNSUserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email1" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email2" Type="nvarchar" MaxLength="100" />
+    <Property Name="R3_UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="R3_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="ISR_UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ISR_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="signature" Type="image" />
+    <Property Name="default_asignee" Type="bit" />
+  </EntityType>
+  <EntityType Name="Promotion_RentTypes">
+    <Key>
+      <PropertyRef Name="PoRentTypeID" />
+    </Key>
+    <Property Name="PoRentTypeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RentTypeName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Ratios">
+    <Key>
+      <PropertyRef Name="RatioID" />
+    </Key>
+    <Property Name="RatioID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RatioNo" Type="decimal" Precision="10" Scale="4" />
+    <Property Name="RatioCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Rent_Area_Types">
+    <Key>
+      <PropertyRef Name="RentAreaTypeID" />
+    </Key>
+    <Property Name="RentAreaTypeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RentAreaTypeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsSqFeetApply" Type="bit" />
+    <Property Name="IsAdvertisement" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="RentTax_Profiles">
+    <Key>
+      <PropertyRef Name="RentTaxProfileID" />
+    </Key>
+    <Property Name="RentTaxProfileID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RentProfileName" Type="varchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="ActiveFrom" Type="datetime" />
+  </EntityType>
+  <EntityType Name="RentTaxProfile_Details">
+    <Key>
+      <PropertyRef Name="RentTaxProfileDetailID" />
+    </Key>
+    <Property Name="RentTaxProfileDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RentTaxProfileID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SAP_DocTypes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="DocID" Type="int" Nullable="false" />
+    <Property Name="InvoicePrefix" Type="nvarchar" MaxLength="10" />
+    <Property Name="InvoiceTypeID" Type="int" />
+    <Property Name="InvoiceType" Type="nvarchar" MaxLength="50" />
+    <Property Name="InvoiceTypeCategory" Type="nvarchar" MaxLength="50" />
+    <Property Name="DOCTYPE" Type="nvarchar" MaxLength="50" />
+    <Property Name="GL_CODE" Type="nvarchar" MaxLength="50" />
+    <Property Name="PROFIT_CENTER" Type="nvarchar" MaxLength="50" />
+    <Property Name="COST_CENTER" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SAP_LineItems">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="SubInvTypeID" Type="int" Nullable="false" />
+    <Property Name="SubInvType" Type="nvarchar" MaxLength="50" />
+    <Property Name="Customer_LineItem" Type="nvarchar" MaxLength="50" />
+    <Property Name="GL_LineItem" Type="nvarchar" MaxLength="50" />
+    <Property Name="StdOrder" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SAP_TAXGLCODES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="SAP_GLCode" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="SAP_Uploads">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceID" Type="int" Nullable="false" />
+    <Property Name="InvDetID" Type="int" />
+    <Property Name="BussAct" Type="nvarchar" MaxLength="4" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="12" />
+    <Property Name="CompanyCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="CurrKey" Type="nvarchar" MaxLength="10" />
+    <Property Name="DocDate" Type="date" />
+    <Property Name="PostingDate" Type="date" />
+    <Property Name="RefDocNo" Type="nvarchar" MaxLength="16" />
+    <Property Name="DocHeaderText" Type="nvarchar" MaxLength="25" />
+    <Property Name="DocType" Type="nvarchar" MaxLength="2" />
+    <Property Name="ExchRate" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="TransltDate" Type="date" />
+    <Property Name="PostingKey" Type="nvarchar" MaxLength="10" />
+    <Property Name="CustomerCode_GLAccount" Type="nvarchar" MaxLength="50" />
+    <Property Name="AmtInDocCur" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="AmtInLocCur" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Assignment" Type="nvarchar" MaxLength="50" />
+    <Property Name="Text" Type="nvarchar" MaxLength="50" />
+    <Property Name="BusinessArea" Type="nvarchar" MaxLength="10" />
+    <Property Name="CostCenter" Type="nvarchar" MaxLength="10" />
+    <Property Name="InternalOrder" Type="nvarchar" MaxLength="10" />
+    <Property Name="ProfitCenter" Type="nvarchar" MaxLength="10" />
+    <Property Name="RefKey1" Type="nvarchar" MaxLength="10" />
+    <Property Name="RefKey2" Type="nvarchar" MaxLength="10" />
+    <Property Name="RefKey3" Type="nvarchar" MaxLength="10" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ModifiedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="IsSAPUploaded" Type="bit" Nullable="false" />
+    <Property Name="UploadedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="SCAndRentValues">
+    <Key>
+      <PropertyRef Name="SC_RentID" />
+    </Key>
+    <Property Name="SC_RentID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyID" Type="int" />
+    <Property Name="SCValue" Type="decimal" Scale="4" />
+    <Property Name="RentValue" Type="decimal" Scale="4" />
+    <Property Name="FromDate" Type="datetime" />
+    <Property Name="ToDate" Type="datetime" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ServiceCharges">
+    <Key>
+      <PropertyRef Name="RentalServiceChargeID" />
+    </Key>
+    <Property Name="RentalServiceChargeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ServiceCharge" Type="decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="Shop_Details">
+    <Key>
+      <PropertyRef Name="ShopDetailID" />
+    </Key>
+    <Property Name="ShopDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="SqFeet" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="ActiveFrom" Type="datetime" Nullable="false" />
+    <Property Name="ActiveTo" Type="datetime" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shops">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Name="ShopID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="100" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="20" />
+    <Property Name="SqFeet" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="IsBooth" Type="bit" Nullable="false" />
+    <Property Name="RentAreaTypeID" Type="int" Nullable="false" />
+    <Property Name="ZoneID" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Shops_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Shops_Audit">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Name="ShopIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="ShopName" Type="nvarchar" MaxLength="100" />
+    <Property Name="LevelID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="ShopNo" Type="nvarchar" MaxLength="20" />
+    <Property Name="SqFeet" Type="decimal" Nullable="false" Precision="10" Scale="4" />
+    <Property Name="IsBooth" Type="bit" Nullable="false" />
+    <Property Name="RentAreaTypeID" Type="int" Nullable="false" />
+    <Property Name="ZoneID" Type="int" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Shops_UtilityReadings">
+    <Key>
+      <PropertyRef Name="ShopUtilityReadingID" />
+    </Key>
+    <Property Name="ShopUtilityReadingID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ShopID" Type="int" Nullable="false" />
+    <Property Name="UtilityID" Type="int" Nullable="false" />
+    <Property Name="UtilityRateID" Type="int" Nullable="false" />
+    <Property Name="LastReading" Type="numeric" Nullable="false" Precision="12" Scale="4" />
+    <Property Name="LastReadingDate" Type="datetime" />
+    <Property Name="IsRatioApplied" Type="bit" Nullable="false" />
+    <Property Name="RatioID" Type="int" Nullable="false" />
+    <Property Name="MeterName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Shops_UtilityReadings_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Shops_UtilityReadings_Audit">
+    <Key>
+      <PropertyRef Name="ShopUtilityReadingID" />
+    </Key>
+    <Property Name="ShopUtilityReadingIDAudit" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ShopUtilityReadingID" Type="int" Nullable="false" />
+    <Property Name="ShopID" Type="int" />
+    <Property Name="UtilityID" Type="int" />
+    <Property Name="UtilityRateID" Type="int" />
+    <Property Name="LastReading" Type="numeric" Precision="12" Scale="4" />
+    <Property Name="LastReadingDate" Type="datetime" />
+    <Property Name="IsRatioApplied" Type="bit" />
+    <Property Name="RatioID" Type="int" />
+    <Property Name="MeterName" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsDeleted" Type="bit" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Sub_Invoice_Types">
+    <Key>
+      <PropertyRef Name="SubInvTypeID" />
+    </Key>
+    <Property Name="SubInvTypeID" Type="int" Nullable="false" />
+    <Property Name="SubInvTypeName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="StdOrder" Type="int" Nullable="false" />
+    <Property Name="CustomerLineItem" Type="nvarchar" MaxLength="10" />
+    <Property Name="GLLineItem" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Taxes">
+    <Key>
+      <PropertyRef Name="TaxID" />
+    </Key>
+    <Property Name="TaxID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TaxName" Type="nvarchar" MaxLength="20" />
+    <Property Name="TaxCode" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="IsMandatory" Type="bit" />
+    <Property Name="SAP_GLCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Taxes_Audit">
+    <Key>
+      <PropertyRef Name="TaxIDAudit" />
+    </Key>
+    <Property Name="TaxIDAudit" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TaxID" Type="int" />
+    <Property Name="TaxName" Type="nvarchar" MaxLength="20" />
+    <Property Name="TaxCode" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsMandatory" Type="bit" />
+    <Property Name="SAP_GLCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TaxRates">
+    <Key>
+      <PropertyRef Name="TaxRateID" />
+    </Key>
+    <Property Name="TaxRateID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxRate1" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="ActiveFrom" Type="datetime" Nullable="false" />
+    <Property Name="ActiveTo" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TaxRates_Audit">
+    <Key>
+      <PropertyRef Name="TaxRateIDAudit" />
+    </Key>
+    <Property Name="TaxRateIDAudit" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TaxRateID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="TaxRate1" Type="decimal" Nullable="false" Precision="8" Scale="4" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="ActiveFrom" Type="datetime" Nullable="false" />
+    <Property Name="ActiveTo" Type="datetime" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.tbl_smtp' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="tbl_smtp">
+    <Key>
+      <PropertyRef Name="host" />
+      <PropertyRef Name="port" />
+    </Key>
+    <Property Name="host" Type="varchar(max)" Nullable="false" />
+    <Property Name="port" Type="int" Nullable="false" />
+    <Property Name="username" Type="nvarchar(max)" />
+    <Property Name="password" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="UserLocations">
+    <Key>
+      <PropertyRef Name="UserLocationID" />
+    </Key>
+    <Property Name="UserLocationID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="IsHead" Type="bit" Nullable="false" />
+    <Property Name="IsDelete" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Utilities">
+    <Key>
+      <PropertyRef Name="UtilityID" />
+    </Key>
+    <Property Name="UtilityID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UtilityName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="InvoicePrefix" Type="nvarchar" Nullable="false" MaxLength="1" />
+    <Property Name="InvoiceFooterText" Type="nvarchar(max)" />
+    <Property Name="DocType" Type="nvarchar" MaxLength="10" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Utility_Rates">
+    <Key>
+      <PropertyRef Name="UtilityRateID" />
+    </Key>
+    <Property Name="UtilityRateID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UtilityID" Type="int" Nullable="false" />
+    <Property Name="UnitRate" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="IsTaxApplied" Type="bit" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocatoinID" Type="int" Nullable="false" />
+    <Property Name="UtilityRateProfileName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.Utility_Rates_Audit' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Utility_Rates_Audit">
+    <Key>
+      <PropertyRef Name="UtilityRateIDAudit" />
+      <PropertyRef Name="UtilityRateID" />
+      <PropertyRef Name="UtilityID" />
+      <PropertyRef Name="CompanyID" />
+      <PropertyRef Name="LocatoinID" />
+    </Key>
+    <Property Name="UtilityRateIDAudit" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UtilityRateID" Type="int" Nullable="false" />
+    <Property Name="UtilityID" Type="int" Nullable="false" />
+    <Property Name="UnitRate" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="IsTaxApplied" Type="bit" />
+    <Property Name="CompanyID" Type="int" Nullable="false" />
+    <Property Name="LocatoinID" Type="int" Nullable="false" />
+    <Property Name="UtilityRateProfileName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+    <Property Name="LoggedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UtlityRate_Details">
+    <Key>
+      <PropertyRef Name="UtilityRateDetailID" />
+    </Key>
+    <Property Name="UtilityRateDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UtilityRateID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" />
+    <Property Name="TaxRateID" Type="int" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Zones">
+    <Key>
+      <PropertyRef Name="ZoneID" />
+    </Key>
+    <Property Name="ZoneID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ZoneName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="LastUpdated" Type="int" />
+    <Property Name="LastUpdateDate" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.view_aplicable_tax_utility' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="view_aplicable_tax_utility">
+    <Key>
+      <PropertyRef Name="ShopUtilityReadingID" />
+      <PropertyRef Name="TaxID" />
+    </Key>
+    <Property Name="ShopUtilityReadingID" Type="int" Nullable="false" />
+    <Property Name="TaxID" Type="int" Nullable="false" />
+    <Property Name="IsMandatory" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.view_user_signature' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="view_user_signature">
+    <Key>
+      <PropertyRef Name="LocationID" />
+      <PropertyRef Name="UserID" />
+      <PropertyRef Name="Discontinued" />
+      <PropertyRef Name="UserGroupID" />
+    </Key>
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="UserGroupID" Type="int" Nullable="false" />
+    <Property Name="signature" Type="image" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'AHPL_DB.dbo.view_userRoleEmail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="view_userRoleEmail">
+    <Key>
+      <PropertyRef Name="UserID" />
+      <PropertyRef Name="LocationID" />
+      <PropertyRef Name="Discontinued" />
+      <PropertyRef Name="UserGroupID" />
+      <PropertyRef Name="UserGroupName" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="Email1" Type="nvarchar" MaxLength="100" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+    <Property Name="UserGroupID" Type="int" Nullable="false" />
+    <Property Name="UserGroupName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+</Schema>

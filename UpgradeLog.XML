@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AHPL">
+</Property><Property Name="Solution File" Value="C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\AHPL.sln">
+</Property><Property Name="Date" Value="Tuesday, February 11, 2014">
+</Property><Property Name="Time" Value="19:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="MMS" Source="AHPL\MMS.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MMS" Source="AHPL\MMS.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataTier" Source="DataTier\DataTier.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataTier" Source="DataTier\DataTier.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EmailApp" Source="EmailApp\EmailApp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EmailApp" Source="EmailApp\EmailApp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AHPL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AHPL.sln" Description="Converted">
+</Event></UpgradeLog>

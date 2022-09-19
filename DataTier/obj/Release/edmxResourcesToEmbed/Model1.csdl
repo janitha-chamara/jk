@@ -1,0 +1,1959 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AHPL_DBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="AHPL_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attachments" EntityType="AHPL_DBModel.Attachment" />
+    <EntitySet Name="Customer_Attachments" EntityType="AHPL_DBModel.Customer_Attachments" />
+    <EntitySet Name="Global_Customers" EntityType="AHPL_DBModel.Global_Customers" />
+    <AssociationSet Name="Global_CustomersCustomer_Attachments" Association="AHPL_DBModel.Global_CustomersCustomer_Attachments">
+      <End Role="Global_Customers" EntitySet="Global_Customers" />
+      <End Role="Customer_Attachments" EntitySet="Customer_Attachments" />
+    </AssociationSet>
+    <EntitySet Name="Companies" EntityType="AHPL_DBModel.Company" />
+    <EntitySet Name="Floor_Levels" EntityType="AHPL_DBModel.Floor_Levels" />
+    <EntitySet Name="Shops" EntityType="AHPL_DBModel.Shop" />
+    <EntitySet Name="Contracts" EntityType="AHPL_DBModel.Contract" />
+    <EntitySet Name="Customer_Profiles" EntityType="AHPL_DBModel.Customer_Profiles" />
+    <EntitySet Name="Utility_Rates" EntityType="AHPL_DBModel.Utility_Rates" />
+    <EntitySet Name="UtlityRate_Details" EntityType="AHPL_DBModel.UtlityRate_Details" />
+    <AssociationSet Name="Utility_RatesUtlityRate_Details" Association="AHPL_DBModel.Utility_RatesUtlityRate_Details">
+      <End Role="Utility_Rates" EntitySet="Utility_Rates" />
+      <End Role="UtlityRate_Details" EntitySet="UtlityRate_Details" />
+    </AssociationSet>
+    <EntitySet Name="DeliveryOptions" EntityType="AHPL_DBModel.DeliveryOption" />
+    <EntitySet Name="ServiceCharges" EntityType="AHPL_DBModel.ServiceCharge" />
+    <EntitySet Name="Customer_MailingOptions" EntityType="AHPL_DBModel.Customer_MailingOptions" />
+    <EntitySet Name="ExtCustomer_Details" EntityType="AHPL_DBModel.ExtCustomer_Details" />
+    <EntitySet Name="Extended_Customers" EntityType="AHPL_DBModel.Extended_Customers" />
+    <AssociationSet Name="Extended_CustomersExtCustomer_Details" Association="AHPL_DBModel.Extended_CustomersExtCustomer_Details">
+      <End Role="Extended_Customers" EntitySet="Extended_Customers" />
+      <End Role="ExtCustomer_Details" EntitySet="ExtCustomer_Details" />
+    </AssociationSet>
+    <AssociationSet Name="Extended_CustomersCustomer_MailingOptions" Association="AHPL_DBModel.Extended_CustomersCustomer_MailingOptions">
+      <End Role="Extended_Customers" EntitySet="Extended_Customers" />
+      <End Role="Customer_MailingOptions" EntitySet="Customer_MailingOptions" />
+    </AssociationSet>
+    <EntitySet Name="Contract_Rates" EntityType="AHPL_DBModel.Contract_Rates" />
+    <AssociationSet Name="ContractContract_Rates" Association="AHPL_DBModel.ContractContract_Rates">
+      <End Role="Contract" EntitySet="Contracts" />
+      <End Role="Contract_Rates" EntitySet="Contract_Rates" />
+    </AssociationSet>
+    <EntitySet Name="Contract_Shops" EntityType="AHPL_DBModel.Contract_Shops" />
+    <AssociationSet Name="ContractContract_Shops" Association="AHPL_DBModel.ContractContract_Shops">
+      <End Role="Contract" EntitySet="Contracts" />
+      <End Role="Contract_Shops" EntitySet="Contract_Shops" />
+    </AssociationSet>
+    <EntitySet Name="OtherServiceCategories" EntityType="AHPL_DBModel.OtherServiceCategory" />
+    <EntitySet Name="Utilities" EntityType="AHPL_DBModel.Utility" />
+    <EntitySet Name="Invoice_Details" EntityType="AHPL_DBModel.Invoice_Details" />
+    <EntitySet Name="Invoice_Types" EntityType="AHPL_DBModel.Invoice_Types" />
+    <EntitySet Name="Invoices" EntityType="AHPL_DBModel.Invoice" />
+    <EntitySet Name="Months" EntityType="AHPL_DBModel.Month" />
+    <AssociationSet Name="InvoiceInvoice_Details" Association="AHPL_DBModel.InvoiceInvoice_Details">
+      <End Role="Invoice" EntitySet="Invoices" />
+      <End Role="Invoice_Details" EntitySet="Invoice_Details" />
+    </AssociationSet>
+    <EntitySet Name="Invoice_Cycles" EntityType="AHPL_DBModel.Invoice_Cycles" />
+    <EntitySet Name="Ratios" EntityType="AHPL_DBModel.Ratio" />
+    <EntitySet Name="Company_Taxes" EntityType="AHPL_DBModel.Company_Taxes" />
+    <EntitySet Name="Customer_Taxes" EntityType="AHPL_DBModel.Customer_Taxes" />
+    <AssociationSet Name="Global_CustomersCustomer_Taxes" Association="AHPL_DBModel.Global_CustomersCustomer_Taxes">
+      <End Role="Global_Customers" EntitySet="Global_Customers" />
+      <End Role="Customer_Taxes" EntitySet="Customer_Taxes" />
+    </AssociationSet>
+    <AssociationSet Name="CompanyCompany_Taxes" Association="AHPL_DBModel.CompanyCompany_Taxes">
+      <End Role="Company" EntitySet="Companies" />
+      <End Role="Company_Taxes" EntitySet="Company_Taxes" />
+    </AssociationSet>
+    <EntitySet Name="Sub_Invoice_Types" EntityType="AHPL_DBModel.Sub_Invoice_Types" />
+    <EntitySet Name="RentTax_Profiles" EntityType="AHPL_DBModel.RentTax_Profiles" />
+    <EntitySet Name="RentTaxProfile_Details" EntityType="AHPL_DBModel.RentTaxProfile_Details" />
+    <AssociationSet Name="RentTax_ProfilesRentTaxProfile_Details" Association="AHPL_DBModel.RentTax_ProfilesRentTaxProfile_Details">
+      <End Role="RentTax_Profiles" EntitySet="RentTax_Profiles" />
+      <End Role="RentTaxProfile_Details" EntitySet="RentTaxProfile_Details" />
+    </AssociationSet>
+    <EntitySet Name="Locations" EntityType="AHPL_DBModel.Location" />
+    <EntitySet Name="Rent_Area_Types" EntityType="AHPL_DBModel.Rent_Area_Types" />
+    <EntitySet Name="Zones" EntityType="AHPL_DBModel.Zone" />
+    <EntitySet Name="Contract_Closure_Items" EntityType="AHPL_DBModel.Contract_Closure_Items" />
+    <EntitySet Name="ContractClosureTemplate_Details" EntityType="AHPL_DBModel.ContractClosureTemplate_Details" />
+    <EntitySet Name="Conract_Closure_Sub_Templates" EntityType="AHPL_DBModel.Conract_Closure_Sub_Templates" />
+    <AssociationSet Name="Conract_Closure_Sub_TemplatesContractClosureTemplate_Details" Association="AHPL_DBModel.Conract_Closure_Sub_TemplatesContractClosureTemplate_Details">
+      <End Role="Conract_Closure_Sub_Templates" EntitySet="Conract_Closure_Sub_Templates" />
+      <End Role="ContractClosureTemplate_Details" EntitySet="ContractClosureTemplate_Details" />
+    </AssociationSet>
+    <EntitySet Name="ContractClosures" EntityType="AHPL_DBModel.ContractClosure" />
+    <EntitySet Name="ContractClosure_Details" EntityType="AHPL_DBModel.ContractClosure_Details" />
+    <AssociationSet Name="ContractClosureContractClosure_Details" Association="AHPL_DBModel.ContractClosureContractClosure_Details">
+      <End Role="ContractClosure" EntitySet="ContractClosures" />
+      <End Role="ContractClosure_Details" EntitySet="ContractClosure_Details" />
+    </AssociationSet>
+    <EntitySet Name="ClosureMappingItems" EntityType="AHPL_DBModel.ClosureMappingItem" />
+    <EntitySet Name="Contract_RentSchemes" EntityType="AHPL_DBModel.Contract_RentSchemes" />
+    <AssociationSet Name="ContractClosureContract_RentSchemes" Association="AHPL_DBModel.ContractClosureContract_RentSchemes">
+      <End Role="ContractClosure" EntitySet="ContractClosures" />
+      <End Role="Contract_RentSchemes" EntitySet="Contract_RentSchemes" />
+    </AssociationSet>
+    <EntitySet Name="Shops_UtilityReadings" EntityType="AHPL_DBModel.Shops_UtilityReadings" />
+    <AssociationSet Name="FK_Shops_UtilityReadings_Shops" Association="AHPL_DBModel.FK_Shops_UtilityReadings_Shops">
+      <End Role="Shop" EntitySet="Shops" />
+      <End Role="Shops_UtilityReadings" EntitySet="Shops_UtilityReadings" />
+    </AssociationSet>
+    <EntitySet Name="Addendums" EntityType="AHPL_DBModel.Addendum" />
+    <EntitySet Name="Promotion_RentTypes" EntityType="AHPL_DBModel.Promotion_RentTypes" />
+    <EntitySet Name="SAP_Uploads" EntityType="AHPL_DBModel.SAP_Uploads" />
+    <EntitySet Name="SAP_DocTypes" EntityType="AHPL_DBModel.SAP_DocTypes" />
+    <EntitySet Name="SAP_LineItems" EntityType="AHPL_DBModel.SAP_LineItems" />
+    <EntitySet Name="SAP_TAXGLCODES" EntityType="AHPL_DBModel.SAP_TAXGLCODES" />
+    <EntitySet Name="Permission_Forms" EntityType="AHPL_DBModel.Permission_Forms" />
+    <EntitySet Name="Permission_Roles" EntityType="AHPL_DBModel.Permission_Roles" />
+    <EntitySet Name="Permission_UserForms" EntityType="AHPL_DBModel.Permission_UserForms" />
+    <EntitySet Name="Permission_Users" EntityType="AHPL_DBModel.Permission_Users" />
+    <EntitySet Name="Addendum_Details" EntityType="AHPL_DBModel.Addendum_Details" />
+    <AssociationSet Name="AddendumAddendum_Details" Association="AHPL_DBModel.AddendumAddendum_Details">
+      <End Role="Addendum" EntitySet="Addendums" />
+      <End Role="Addendum_Details" EntitySet="Addendum_Details" />
+    </AssociationSet>
+    <EntitySet Name="ExtendedCustomer_GLCodes" EntityType="AHPL_DBModel.ExtendedCustomer_GLCodes" />
+    <AssociationSet Name="Extended_CustomersExtendedCustomer_GLCodes" Association="AHPL_DBModel.Extended_CustomersExtendedCustomer_GLCodes">
+      <End Role="Extended_Customers" EntitySet="Extended_Customers" />
+      <End Role="ExtendedCustomer_GLCodes" EntitySet="ExtendedCustomer_GLCodes" />
+    </AssociationSet>
+    <EntitySet Name="Permission_UserGroups" EntityType="AHPL_DBModel.Permission_UserGroups" />
+    <EntitySet Name="EmailAlertItems" EntityType="AHPL_DBModel.EmailAlertItem" />
+    <EntitySet Name="Envelopes" EntityType="AHPL_DBModel.Envelope" />
+    <EntitySet Name="EmailConfigurations" EntityType="AHPL_DBModel.EmailConfiguration" />
+    <EntitySet Name="UserLocations" EntityType="AHPL_DBModel.UserLocation" />
+    <AssociationSet Name="Permission_UsersUserLocation" Association="AHPL_DBModel.Permission_UsersUserLocation">
+      <End Role="Permission_Users" EntitySet="Permission_Users" />
+      <End Role="UserLocation" EntitySet="UserLocations" />
+    </AssociationSet>
+    <EntitySet Name="EmailsToBeSents" EntityType="AHPL_DBModel.EmailsToBeSent" />
+    <EntitySet Name="EmailAlertRoles" EntityType="AHPL_DBModel.EmailAlertRole" />
+    <EntitySet Name="EmailSentItems" EntityType="AHPL_DBModel.EmailSentItem" />
+    <EntitySet Name="Financial_Years" EntityType="AHPL_DBModel.Financial_Years" />
+    <EntitySet Name="Shop_Details" EntityType="AHPL_DBModel.Shop_Details" />
+    <EntitySet Name="Location_Details" EntityType="AHPL_DBModel.Location_Details" />
+    <EntitySet Name="FinancialYear_Details" EntityType="AHPL_DBModel.FinancialYear_Details" />
+    <AssociationSet Name="Financial_YearsFinancialYear_Details" Association="AHPL_DBModel.Financial_YearsFinancialYear_Details">
+      <End Role="Financial_Years" EntitySet="Financial_Years" />
+      <End Role="FinancialYear_Details" EntitySet="FinancialYear_Details" />
+    </AssociationSet>
+    <EntitySet Name="Addendum_Details_Audit" EntityType="AHPL_DBModel.Addendum_Details_Audit" />
+    <EntitySet Name="Addendums_Audit" EntityType="AHPL_DBModel.Addendums_Audit" />
+    <EntitySet Name="ContractClosures_Audit" EntityType="AHPL_DBModel.ContractClosures_Audit" />
+    <EntitySet Name="Global_Customers_Audit" EntityType="AHPL_DBModel.Global_Customers_Audit" />
+    <EntitySet Name="MisReportItems" EntityType="AHPL_DBModel.MisReportItem" />
+    <EntitySet Name="Shops_Audit" EntityType="AHPL_DBModel.Shops_Audit" />
+    <EntitySet Name="Shops_UtilityReadings_Audit" EntityType="AHPL_DBModel.Shops_UtilityReadings_Audit" />
+    <EntitySet Name="Utility_Rates_Audit" EntityType="AHPL_DBModel.Utility_Rates_Audit" />
+    <AssociationSet Name="Addendums_AuditAddendum_Details_Audit" Association="AHPL_DBModel.Addendums_AuditAddendum_Details_Audit">
+      <End Role="Addendums_Audit" EntitySet="Addendums_Audit" />
+      <End Role="Addendum_Details_Audit" EntitySet="Addendum_Details_Audit" />
+    </AssociationSet>
+    <AssociationSet Name="Shops_AuditShops_UtilityReadings_Audit" Association="AHPL_DBModel.Shops_AuditShops_UtilityReadings_Audit">
+      <End Role="Shops_Audit" EntitySet="Shops_Audit" />
+      <End Role="Shops_UtilityReadings_Audit" EntitySet="Shops_UtilityReadings_Audit" />
+    </AssociationSet>
+    <EntitySet Name="Conract_Closure_Sub_Templates_Audit" EntityType="AHPL_DBModel.Conract_Closure_Sub_Templates_Audit" />
+    <EntitySet Name="Invoices_Audit" EntityType="AHPL_DBModel.Invoices_Audit" />
+    <EntitySet Name="MISPerformanceDetails" EntityType="AHPL_DBModel.MISPerformanceDetail" />
+    <AssociationSet Name="FinancialYear_DetailsMISPerformanceDetail" Association="AHPL_DBModel.FinancialYear_DetailsMISPerformanceDetail">
+      <End Role="FinancialYear_Details" EntitySet="FinancialYear_Details" />
+      <End Role="MISPerformanceDetail" EntitySet="MISPerformanceDetails" />
+    </AssociationSet>
+    <FunctionImport Name="sp_GetRentPerMonth">
+      <Parameter Name="LocID" Mode="In" Type="Int32" />
+      <Parameter Name="CompID" Mode="In" Type="Int32" />
+      <Parameter Name="DateFrom" Mode="In" Type="DateTime" />
+      <Parameter Name="DateTo" Mode="In" Type="DateTime" />
+      <Parameter Name="RentPerMonth" Mode="InOut" Type="Decimal" />
+    </FunctionImport>
+    <EntitySet Name="TaxRates" EntityType="AHPL_DBModel.TaxRate" />
+    <EntitySet Name="Taxes_Audit" EntityType="AHPL_DBModel.Taxes_Audit" />
+    <EntitySet Name="TaxRates_Audit" EntityType="AHPL_DBModel.TaxRates_Audit" />
+    <EntitySet Name="Taxes" EntityType="AHPL_DBModel.Tax" />
+    <EntitySet Name="Permission_Users_Audit" EntityType="AHPL_DBModel.Permission_Users_Audit" />
+    <EntitySet Name="SCAndRentValues" EntityType="AHPL_DBModel.SCAndRentValue" />
+  </EntityContainer>
+  <EntityType Name="Attachment">
+    <Key>
+      <PropertyRef Name="AttachmentID" />
+    </Key>
+    <Property Name="AttachmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AttachmentName" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Customer_Attachments">
+    <Key>
+      <PropertyRef Name="CustAttachmentID" />
+    </Key>
+    <Property Name="CustAttachmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AttachmentID" Type="Int32" />
+    <Property Name="Remarks" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Binary" Name="AttachedDocument" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Global_Customers" Relationship="AHPL_DBModel.Global_CustomersCustomer_Attachments" FromRole="Customer_Attachments" ToRole="Global_Customers" />
+  </EntityType>
+  <EntityType Name="Global_Customers">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="CompanyAddress" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="TelNos" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="FaxNos" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="RegNo" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="MajShareName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="YearOfInc" Type="Int32" />
+    <Property Name="NameOfPrinciple" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PaidUpShareCapital" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="AuthShareCaptial" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="UpdatedBy" Type="Int32" />
+    <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Customer_Attachments" Relationship="AHPL_DBModel.Global_CustomersCustomer_Attachments" FromRole="Global_Customers" ToRole="Customer_Attachments" />
+    <Property Type="String" Name="SAPCustomerCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DefaultTaxRegNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="DefaultTaxID" DefaultValue="0" />
+    <NavigationProperty Name="Customer_Taxes" Relationship="AHPL_DBModel.Global_CustomersCustomer_Taxes" FromRole="Global_Customers" ToRole="Customer_Taxes" />
+    <Property Type="String" Name="KnownAs" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AlternateEmail" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Discontinued" Nullable="false" />
+    <Property Type="DateTime" Name="DiscontinuedDate" Precision="3" />
+    <Property Type="Boolean" Name="IsTaxCustomer" Nullable="false" />
+  </EntityType>
+  <Association Name="Global_CustomersCustomer_Attachments">
+    <End Type="AHPL_DBModel.Global_Customers" Role="Global_Customers" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Customer_Attachments" Role="Customer_Attachments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Global_Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Customer_Attachments">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="CompanyID" />
+    </Key>
+    <Property Type="Int32" Name="CompanyID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CompanyCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="DefaultTaxID" DefaultValue="0" />
+    <Property Type="String" Name="DefaultTaxRegNo" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="0" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue=" " />
+    <NavigationProperty Name="Company_Taxes" Relationship="AHPL_DBModel.CompanyCompany_Taxes" FromRole="Company" ToRole="Company_Taxes" />
+    <Property Type="String" Name="InvoiceFooterText1" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BusinessRegNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InvoiceFooterText2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SA_CompanyCode" MaxLength="4" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="Boolean" Name="IsSAPUploaded" Nullable="false" />
+    <Property Type="String" Name="Tele1" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Tele2" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="String" Name="SAP_BusinessArea" Nullable="false" MaxLength="4" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="Boolean" Name="SAP_ISR" Nullable="false" DefaultValue="False" />
+    <Property Type="Boolean" Name="SAP_R3" Nullable="false" DefaultValue="True" />
+    <Property Type="String" Name="SAP_URL" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" DefaultValue="N/A" />
+  </EntityType>
+  <EntityType Name="Floor_Levels">
+    <Key>
+      <PropertyRef Name="LevelID" />
+    </Key>
+    <Property Type="Int32" Name="LevelID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LevelCode" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Type="String" Name="LevelName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="Int32" Name="StdOrder" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shop">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Type="Int32" Name="ShopID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ShopName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CustomerID" DefaultValue="0" />
+    <Property Type="String" Name="ShopNo" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="SqFeet" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Boolean" Name="IsBooth" Nullable="false" />
+    <Property Type="Int32" Name="RentAreaTypeID" Nullable="false" />
+    <Property Type="Int32" Name="ZoneID" Nullable="false" />
+    <NavigationProperty Name="Shops_UtilityReadings" Relationship="AHPL_DBModel.FK_Shops_UtilityReadings_Shops" FromRole="Shop" ToRole="Shops_UtilityReadings" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Contract">
+    <Key>
+      <PropertyRef Name="ContractID" />
+    </Key>
+    <Property Type="Int32" Name="ContractID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" DefaultValue="0" />
+    <Property Type="Decimal" Name="Deposit" Nullable="false" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="String" Name="AgreementNo" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="AgreementSignDate" Nullable="true" Precision="3" />
+    <Property Type="String" Name="Remarks" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsActive" DefaultValue="True" />
+    <Property Type="Boolean" Name="IsRenew" DefaultValue="False" />
+    <Property Type="DateTime" Name="RenewDate" Precision="3" Nullable="true" />
+    <NavigationProperty Name="Contract_Rates" Relationship="AHPL_DBModel.ContractContract_Rates" FromRole="Contract" ToRole="Contract_Rates" />
+    <Property Type="String" Name="ShopName" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Contract_Shops" Relationship="AHPL_DBModel.ContractContract_Shops" FromRole="Contract" ToRole="Contract_Shops" />
+    <Property Type="Boolean" Name="IsTerminated" DefaultValue="False" Nullable="false" />
+    <Property Type="Boolean" Name="IsTaxCustomer" DefaultValue="False" Nullable="false" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer_Profiles">
+    <Key>
+      <PropertyRef Name="CustomerProfileID" />
+    </Key>
+    <Property Type="Int32" Name="CustomerProfileID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="ElectricitiyProfileID" Nullable="false" />
+    <Property Type="Int32" Name="WaterProfileID" Nullable="false" />
+    <Property Type="Int32" Name="RentalRateID" Nullable="false" />
+    <Property Type="Boolean" Name="IsVATActive" Nullable="false" />
+    <Property Type="Boolean" Name="IsTaxActive" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Utility_Rates">
+    <Key>
+      <PropertyRef Name="UtilityRateID" />
+    </Key>
+    <Property Type="Int32" Name="UtilityRateID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Decimal" Name="UnitRate" Precision="10" Scale="2" DefaultValue="0" />
+    <NavigationProperty Name="UtlityRate_Details" Relationship="AHPL_DBModel.Utility_RatesUtlityRate_Details" FromRole="Utility_Rates" ToRole="UtlityRate_Details" />
+    <Property Type="Int32" Name="UtilityID" Nullable="false" />
+    <Property Type="Boolean" Name="IsTaxApplied" DefaultValue="False" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocatoinID" Nullable="false" />
+    <Property Type="String" Name="UtilityRateProfileName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="UtlityRate_Details">
+    <Key>
+      <PropertyRef Name="UtilityRateDetailID" />
+    </Key>
+    <Property Type="Int32" Name="UtilityRateDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="TaxID" />
+    <Property Type="Int32" Name="TaxRateID" DefaultValue="0" />
+    <NavigationProperty Name="Utility_Rates" Relationship="AHPL_DBModel.Utility_RatesUtlityRate_Details" FromRole="UtlityRate_Details" ToRole="Utility_Rates" />
+    <Property Type="Int32" Name="UtilityRateID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <Association Name="Utility_RatesUtlityRate_Details">
+    <End Type="AHPL_DBModel.Utility_Rates" Role="Utility_Rates" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="AHPL_DBModel.UtlityRate_Details" Role="UtlityRate_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Utility_Rates">
+        <PropertyRef Name="UtilityRateID" />
+      </Principal>
+      <Dependent Role="UtlityRate_Details">
+        <PropertyRef Name="UtilityRateID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="DeliveryOption">
+    <Key>
+      <PropertyRef Name="DeliveryOptionID" />
+    </Key>
+    <Property Type="Int32" Name="DeliveryOptionID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DeliveryOptionName" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ServiceCharge">
+    <Key>
+      <PropertyRef Name="RentalServiceChargeID" />
+    </Key>
+    <Property Type="Int32" Name="RentalServiceChargeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Decimal" Name="ServiceCharge1" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="Customer_MailingOptions">
+    <Key>
+      <PropertyRef Name="MailingOptionID" />
+    </Key>
+    <Property Type="Int32" Name="MailingOptionID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="TransactionCategoryID" />
+    <Property Type="Int32" Name="DeliveryOptionID" />
+    <Property Type="String" Name="Address" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Extended_Customers" Relationship="AHPL_DBModel.Extended_CustomersCustomer_MailingOptions" FromRole="Customer_MailingOptions" ToRole="Extended_Customers" />
+  </EntityType>
+  <EntityType Name="ExtCustomer_Details">
+    <Key>
+      <PropertyRef Name="ExdCustomerDetailID" />
+    </Key>
+    <Property Type="Int32" Name="ExdCustomerDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="UtilityRateID" DefaultValue="0" />
+    <Property Type="Decimal" Name="OBReading" Precision="10" Scale="2" />
+    <NavigationProperty Name="Extended_Customers" Relationship="AHPL_DBModel.Extended_CustomersExtCustomer_Details" FromRole="ExtCustomer_Details" ToRole="Extended_Customers" />
+  </EntityType>
+  <EntityType Name="Extended_Customers">
+    <Key>
+      <PropertyRef Name="ExtendedCustomerID" />
+    </Key>
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" DefaultValue="0" Nullable="false" />
+    <Property Type="String" Name="EmailAddress" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAPAlternateCode" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CustomerID" DefaultValue="0" Nullable="false" />
+    <Property Type="String" Name="Remarks" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ExtCustomer_Details" Relationship="AHPL_DBModel.Extended_CustomersExtCustomer_Details" FromRole="Extended_Customers" ToRole="ExtCustomer_Details" />
+    <NavigationProperty Name="Customer_MailingOptions" Relationship="AHPL_DBModel.Extended_CustomersCustomer_MailingOptions" FromRole="Extended_Customers" ToRole="Customer_MailingOptions" />
+    <Property Type="Boolean" Name="IsDefaultTaxDisplayInPrint" DefaultValue="False" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsGLACCDefualt" Nullable="false" DefaultValue="True" />
+    <Property Type="Boolean" Name="IsTaxApplicable" Nullable="false" DefaultValue="True" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <NavigationProperty Name="ExtendedCustomer_GLCodes" Relationship="AHPL_DBModel.Extended_CustomersExtendedCustomer_GLCodes" FromRole="Extended_Customers" ToRole="ExtendedCustomer_GLCodes" />
+    <Property Type="String" Name="GL_Code" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="Extended_CustomersExtCustomer_Details">
+    <End Type="AHPL_DBModel.Extended_Customers" Role="Extended_Customers" Multiplicity="1" />
+    <End Type="AHPL_DBModel.ExtCustomer_Details" Role="ExtCustomer_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Extended_Customers">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Principal>
+      <Dependent Role="ExtCustomer_Details">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Extended_CustomersCustomer_MailingOptions">
+    <End Type="AHPL_DBModel.Extended_Customers" Role="Extended_Customers" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Customer_MailingOptions" Role="Customer_MailingOptions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Extended_Customers">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Principal>
+      <Dependent Role="Customer_MailingOptions">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Contract_Rates">
+    <Key>
+      <PropertyRef Name="ContractRateID" />
+    </Key>
+    <Property Type="Int32" Name="ContractRateID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <Property Type="Decimal" Name="AreaInSqFt" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Decimal" Name="RentPerSqFt" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Decimal" Name="SCPerSqFt" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Decimal" Name="RentPerMonth" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Decimal" Name="SCPerMonth" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Decimal" Name="RentWithSCPerMonth" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Boolean" Name="IsActive" DefaultValue="False" />
+    <Property Type="DateTime" Name="ActiveFrom" Precision="3" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveTo" Precision="3" Nullable="false" />
+    <Property Type="Boolean" Name="IsRenew" DefaultValue="False" />
+    <Property Type="Int32" Name="PreviousContractRateID" DefaultValue="0" />
+    <NavigationProperty Name="Contract" Relationship="AHPL_DBModel.ContractContract_Rates" FromRole="Contract_Rates" ToRole="Contract" />
+    <Property Type="Decimal" Name="RentWIthSCPerSqFt" Precision="10" Scale="2" DefaultValue="0" />
+    <Property Type="Int32" Name="Period" Nullable="false" />
+    <Property Type="Int32" Name="Contract_RentSchemeID" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" Nullable="true" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" Nullable="true" />
+  </EntityType>
+  <Association Name="ContractContract_Rates">
+    <End Type="AHPL_DBModel.Contract" Role="Contract" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Contract_Rates" Role="Contract_Rates" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Contract">
+        <PropertyRef Name="ContractID" />
+      </Principal>
+      <Dependent Role="Contract_Rates">
+        <PropertyRef Name="ContractID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Contract_Shops">
+    <Key>
+      <PropertyRef Name="ContractShopID" />
+    </Key>
+    <Property Type="Int32" Name="ContractShopID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Decimal" Name="AreaInSqFt" Precision="10" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Contract" Relationship="AHPL_DBModel.ContractContract_Shops" FromRole="Contract_Shops" ToRole="Contract" />
+  </EntityType>
+  <Association Name="ContractContract_Shops">
+    <End Type="AHPL_DBModel.Contract" Role="Contract" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Contract_Shops" Role="Contract_Shops" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Contract">
+        <PropertyRef Name="ContractID" />
+      </Principal>
+      <Dependent Role="Contract_Shops">
+        <PropertyRef Name="ContractID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="OtherServiceCategory">
+    <Key>
+      <PropertyRef Name="OtherServiceID" />
+    </Key>
+    <Property Type="Int32" Name="OtherServiceID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="OtherServiceName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InvoicePrefix" Nullable="false" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DocType" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Utility">
+    <Key>
+      <PropertyRef Name="UtilityID" />
+    </Key>
+    <Property Type="Int32" Name="UtilityID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UtilityName" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="String" Name="InvoicePrefix" MaxLength="1" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="String" Name="InvoiceFooterText" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DocType" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Invoice_Details">
+    <Key>
+      <PropertyRef Name="InvoiceDetailID" />
+    </Key>
+    <Property Type="Int32" Name="InvoiceDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="Int32" Name="TaxRateID" Nullable="false" />
+    <Property Type="Decimal" Name="Amount" Precision="12" Scale="4" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="ItemName" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" />
+    <NavigationProperty Name="Invoice" Relationship="AHPL_DBModel.InvoiceInvoice_Details" FromRole="Invoice_Details" ToRole="Invoice" />
+    <Property Type="Boolean" Name="IsPrint" Nullable="false" />
+    <Property Type="String" Name="TaxCode" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Decimal" Name="TaxRate" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Invoice_Types">
+    <Key>
+      <PropertyRef Name="InvoiceTypeID" />
+    </Key>
+    <Property Type="Int32" Name="InvoiceTypeID" Nullable="false" />
+    <Property Type="String" Name="InvoiceTypeName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DocType" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Invoice">
+    <Key>
+      <PropertyRef Name="InvoiceID" />
+    </Key>
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="InvoiceNo" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" DefaultValue=" " />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <Property Type="Int32" Name="ContractRateID" Nullable="false" />
+    <Property Type="DateTime" Name="InvoiceDate" Precision="3" Nullable="false" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="DateTime" Name="DateFrom" Precision="3" Nullable="false" />
+    <Property Type="DateTime" Name="DateTo" Precision="3" Nullable="false" />
+    <Property Type="Decimal" Name="TotalAmount" Precision="12" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="TotalTax" Precision="12" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="InvoiceTypeID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="UtilityID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="SequenceNo" Nullable="false" DefaultValue="0" />
+    <Property Type="Boolean" Name="IsProcessed" DefaultValue="True" Nullable="false" />
+    <Property Type="Int32" Name="ProcessYear" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="ProcessMonth" DefaultValue="0" Nullable="false" />
+    <Property Type="Boolean" Name="IsConfirmed" DefaultValue="False" Nullable="false" />
+    <NavigationProperty Name="Invoice_Details" Relationship="AHPL_DBModel.InvoiceInvoice_Details" FromRole="Invoice" ToRole="Invoice_Details" />
+    <Property Type="Decimal" Name="StartReading" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="EndReading" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Boolean" Name="Reset" DefaultValue="False" Nullable="false" />
+    <Property Type="Decimal" Name="StartReading2" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="EndReading2" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="UtilityUnitRate" Precision="10" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" DefaultValue="0" Nullable="false" />
+    <Property Type="Int32" Name="SubInvTypeID" Nullable="false" />
+    <Property Type="String" Name="Naration" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="Boolean" Name="IsInvoiced" Nullable="false" DefaultValue="True" />
+    <Property Type="String" Name="ShopNo" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Type="String" Name="ShopName" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="-" />
+    <Property Type="Boolean" Name="IsTaxCustomer" Nullable="false" />
+    <Property Type="String" Name="TaxRegNo" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Type="Decimal" Name="Ratio" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="AreaInSqFt" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentPerSqFt" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="SCPerSqFt" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentPerMonth" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="SCPerMonth" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentWIthSCPerSqFt" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentWithSCPerMonth" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalRentPerMonth" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" />
+    <Property Type="Boolean" Name="IsModified" Nullable="false" />
+    <Property Type="DateTime" Name="ModifiedDate" Nullable="false" Precision="3" />
+    <Property Type="Boolean" Name="IsPerDay" Nullable="false" DefaultValue="False" />
+    <Property Type="Int32" Name="NosDay" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="MandatoryTaxID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="MandatoryTaxRateID" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="MandatoryTaxAmount" Precision="12" Scale="4" DefaultValue="0" Nullable="false" />
+    <Property Type="Decimal" Name="TotalWithMandatoryTax" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="TotalAmtWithTaxExcludedMandatoryTax" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="String" Name="MandatoryTaxCode" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="'N/A'" />
+    <Property Type="Int32" Name="OtherServiceID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="UtilityRateID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="CustomerName" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+    <Property Type="Int32" Name="Contract_RentSchemeID" Nullable="false" />
+    <Property Type="Decimal" Name="OtherTax" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="String" Name="CustomerAddress" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="String" Name="CustomerAddress2" MaxLength="Max" FixedLength="false" Unicode="true" DefaultValue="'N/A'" />
+    <Property Type="String" Name="ContractName" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="'N/A'" />
+    <Property Type="String" Name="SAP_CompanyCode" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="DateTime" Name="SAP_PstnDateInDoc" Precision="0" />
+    <Property Type="String" Name="SAP_DocHeaderText" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="" />
+    <Property Type="String" Name="SAP_DocType" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="" />
+    <Property Type="String" Name="SAP_Text" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="" />
+    <Property Type="String" Name="SAP_RefKey1" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="String" Name="SAP_RefKey2" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="" />
+    <Property Type="String" Name="SAP_RefKey3" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="Boolean" Name="Is_SAPUploaded" Nullable="false" DefaultValue="False" />
+    <Property Type="String" Name="SAP_Assignment" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="String" Name="SAP_PostingKey" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" DefaultValue="" />
+    <Property Type="String" Name="SAP_GLACC" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="" Nullable="false" />
+    <Property Type="String" Name="RefInvNo" MaxLength="200" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="String" Name="BatchUpdateLabel" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Boolean" Name="IsTaxApplicable" Nullable="false" DefaultValue="True" />
+    <Property Type="Boolean" Name="IsMaintenance" Nullable="false" DefaultValue="False" />
+    <Property Type="Decimal" Name="M_StartReading" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="M_EndReading" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="String" Name="UtilityName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="SAPUploadMsg" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="SAPUploadErr" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Int32" Name="ShopUtilityReadingID" Nullable="false" DefaultValue="0" />
+    <Property Type="Decimal" Name="NosUnitsConsumed1" Nullable="false" Precision="10" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="NosUnitsConsumed2" Nullable="false" Precision="10" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="M_NosUnitsConsumed" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="TotalNosUnitConsumed" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="String" Name="FooterText1" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Boolean" Name="IsUtilityTaxApplicable" Nullable="false" DefaultValue="False" />
+    <Property Type="String" Name="CompanyCode" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="LocationCode" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="LevelName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="UtilityMeterName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="OtherTaxCodes" MaxLength="100" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Boolean" Name="Is_R3" Nullable="false" DefaultValue="True" />
+    <Property Type="Boolean" Name="Is_ISR" Nullable="false" DefaultValue="False" />
+    <Property Type="Boolean" Name="IsSCVariance" Nullable="false" />
+    <Property Type="Boolean" Name="IsRentVariance" Nullable="false" />
+    <Property Type="Boolean" Name="IsPeriodClosed" />
+  </EntityType>
+  <EntityType Name="Month">
+    <Key>
+      <PropertyRef Name="MonthID" />
+    </Key>
+    <Property Type="Int32" Name="MonthID" Nullable="false" />
+    <Property Type="String" Name="MonthCode" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MonthName" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="InvoiceInvoice_Details">
+    <End Type="AHPL_DBModel.Invoice" Role="Invoice" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Invoice_Details" Role="Invoice_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invoice">
+        <PropertyRef Name="InvoiceID" />
+      </Principal>
+      <Dependent Role="Invoice_Details">
+        <PropertyRef Name="InvoiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Invoice_Cycles">
+    <Key>
+      <PropertyRef Name="InvCycID" />
+    </Key>
+    <Property Type="Int32" Name="InvCycID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="InvoiceTypeID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="FromDay" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="ToDay" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="Remarks" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="UtilityID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ratio">
+    <Key>
+      <PropertyRef Name="RatioID" />
+    </Key>
+    <Property Type="Int32" Name="RatioID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Decimal" Name="RatioNo" Precision="10" Scale="4" />
+    <Property Type="String" Name="RatioCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Company_Taxes">
+    <Key>
+      <PropertyRef Name="CompanyTaxRegID" />
+    </Key>
+    <Property Type="Int32" Name="CompanyTaxRegID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="String" Name="TaxRegNo" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Company" Relationship="AHPL_DBModel.CompanyCompany_Taxes" FromRole="Company_Taxes" ToRole="Company" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Customer_Taxes">
+    <Key>
+      <PropertyRef Name="CustomerTaxRegID" />
+    </Key>
+    <Property Type="Int32" Name="CustomerTaxRegID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <NavigationProperty Name="Global_Customers" Relationship="AHPL_DBModel.Global_CustomersCustomer_Taxes" FromRole="Customer_Taxes" ToRole="Global_Customers" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="TaxRegNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+  </EntityType>
+  <Association Name="Global_CustomersCustomer_Taxes">
+    <End Type="AHPL_DBModel.Global_Customers" Role="Global_Customers" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Customer_Taxes" Role="Customer_Taxes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Global_Customers">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="Customer_Taxes">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CompanyCompany_Taxes">
+    <End Type="AHPL_DBModel.Company" Role="Company" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Company_Taxes" Role="Company_Taxes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyID" />
+      </Principal>
+      <Dependent Role="Company_Taxes">
+        <PropertyRef Name="CompanyID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Sub_Invoice_Types">
+    <Key>
+      <PropertyRef Name="SubInvTypeID" />
+    </Key>
+    <Property Type="Int32" Name="SubInvTypeID" Nullable="false" />
+    <Property Type="String" Name="SubInvTypeName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="StdOrder" Nullable="false" />
+    <Property Type="String" Name="CustomerLineItem" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="GLLineItem" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="RentTax_Profiles">
+    <Key>
+      <PropertyRef Name="RentTaxProfileID" />
+    </Key>
+    <Property Type="Int32" Name="RentTaxProfileID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RentProfileName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveFrom" Precision="3" />
+    <NavigationProperty Name="RentTaxProfile_Details" Relationship="AHPL_DBModel.RentTax_ProfilesRentTaxProfile_Details" FromRole="RentTax_Profiles" ToRole="RentTaxProfile_Details" />
+  </EntityType>
+  <EntityType Name="RentTaxProfile_Details">
+    <Key>
+      <PropertyRef Name="RentTaxProfileDetailID" />
+    </Key>
+    <Property Type="Int32" Name="RentTaxProfileDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="RentTaxProfileID" Nullable="false" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <NavigationProperty Name="RentTax_Profiles" Relationship="AHPL_DBModel.RentTax_ProfilesRentTaxProfile_Details" FromRole="RentTaxProfile_Details" ToRole="RentTax_Profiles" />
+  </EntityType>
+  <Association Name="RentTax_ProfilesRentTaxProfile_Details">
+    <End Type="AHPL_DBModel.RentTax_Profiles" Role="RentTax_Profiles" Multiplicity="1" />
+    <End Type="AHPL_DBModel.RentTaxProfile_Details" Role="RentTaxProfile_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RentTax_Profiles">
+        <PropertyRef Name="RentTaxProfileID" />
+      </Principal>
+      <Dependent Role="RentTaxProfile_Details">
+        <PropertyRef Name="RentTaxProfileID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Location">
+    <Key>
+      <PropertyRef Name="LocationID" />
+    </Key>
+    <Property Type="Int32" Name="LocationID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LocationName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Address" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LocationCode" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Binary" Name="Logo" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="InvoicePrefix" Nullable="false" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="SCperSqFt" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="TotalFloorArea" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Rent_Area_Types">
+    <Key>
+      <PropertyRef Name="RentAreaTypeID" />
+    </Key>
+    <Property Type="Int32" Name="RentAreaTypeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RentAreaTypeName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsSqFeetApply" DefaultValue="True" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="Boolean" Name="IsAdvertisement" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Zone">
+    <Key>
+      <PropertyRef Name="ZoneID" />
+    </Key>
+    <Property Type="Int32" Name="ZoneID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ZoneName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Contract_Closure_Items">
+    <Key>
+      <PropertyRef Name="ContractClosureItemID" />
+    </Key>
+    <Property Type="Int32" Name="ContractClosureItemID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ContractClosreItemName" MaxLength="400" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Type="Int32" Name="SortOrder" Nullable="false" />
+    <Property Type="Int32" Name="ClosureMappingItemID" Nullable="false" />
+    <Property Type="Boolean" Name="IsMapped" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ContractClosureTemplate_Details">
+    <Key>
+      <PropertyRef Name="ContractClosureTempDetailID" />
+    </Key>
+    <Property Type="Int32" Name="ContractClosureTempDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractClosureTempID" Nullable="false" />
+    <Property Type="Int32" Name="ContractClosureItemID" Nullable="false" />
+    <Property Type="Int32" Name="SortOrder" Nullable="false" />
+    <NavigationProperty Name="Conract_Closure_Sub_Templates" Relationship="AHPL_DBModel.Conract_Closure_Sub_TemplatesContractClosureTemplate_Details" FromRole="ContractClosureTemplate_Details" ToRole="Conract_Closure_Sub_Templates" />
+  </EntityType>
+  <EntityType Name="Conract_Closure_Sub_Templates">
+    <Key>
+      <PropertyRef Name="ContractClosureTempID" />
+    </Key>
+    <Property Type="Int32" Name="ContractClosureTempID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="String" Name="TemplateName" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Type="String" Name="PageTitle" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ContractClosureTemplate_Details" Relationship="AHPL_DBModel.Conract_Closure_Sub_TemplatesContractClosureTemplate_Details" FromRole="Conract_Closure_Sub_Templates" ToRole="ContractClosureTemplate_Details" />
+    <Property Type="Int32" Name="PageNo" Nullable="false" />
+    <Property Type="String" Name="Signature1" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Signature2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <Association Name="Conract_Closure_Sub_TemplatesContractClosureTemplate_Details">
+    <End Type="AHPL_DBModel.Conract_Closure_Sub_Templates" Role="Conract_Closure_Sub_Templates" Multiplicity="1" />
+    <End Type="AHPL_DBModel.ContractClosureTemplate_Details" Role="ContractClosureTemplate_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Conract_Closure_Sub_Templates">
+        <PropertyRef Name="ContractClosureTempID" />
+      </Principal>
+      <Dependent Role="ContractClosureTemplate_Details">
+        <PropertyRef Name="ContractClosureTempID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ContractClosure">
+    <Key>
+      <PropertyRef Name="ContractClosureID" />
+    </Key>
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ContractClosureName" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ContractClosureTempID" Nullable="false" />
+    <Property Type="Boolean" Name="IsProcessed" Nullable="false" />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <NavigationProperty Name="ContractClosure_Details" Relationship="AHPL_DBModel.ContractClosureContractClosure_Details" FromRole="ContractClosure" ToRole="ContractClosure_Details" />
+    <Property Type="Boolean" Name="IsCancelled" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Decimal" Name="FloorArea" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="Deposit" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="ContractPeriod" Nullable="false" />
+    <Property Type="String" Name="AgreementNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="AgreementSignDate" Precision="0" />
+    <Property Type="String" Name="ShopName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="GlobalCustomerID" Nullable="false" />
+    <NavigationProperty Name="Contract_RentSchemes" Relationship="AHPL_DBModel.ContractClosureContract_RentSchemes" FromRole="ContractClosure" ToRole="Contract_RentSchemes" />
+    <Property Type="String" Name="ShopNo" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsPromotion" Nullable="false" />
+    <Property Type="Int32" Name="PoRentTypeID" Nullable="false" />
+    <Property Type="Boolean" Name="IsReleased" Nullable="false" />
+    <Property Type="Boolean" Name="IsTerminated" Nullable="false" />
+    <Property Type="String" Name="CustomerAddress" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Signature1" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="TerminatedDate" Precision="3" />
+    <Property Type="String" Name="Signature2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsRenew" Nullable="false" />
+    <Property Type="Boolean" Name="IsExtention" Nullable="false" />
+    <Property Type="Boolean" Name="IsNew" Nullable="false" />
+    <Property Type="Int32" Name="RefNo" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="String" Name="Naration" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Boolean" Name="IsReleasedToAccounts" Nullable="false" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="Boolean" Name="IsPoAdvertisement" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ContractClosure_Details">
+    <Key>
+      <PropertyRef Name="ContractClosureDetailID" />
+    </Key>
+    <Property Type="Int32" Name="ContractClosureDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+    <Property Type="Int32" Name="ContractClosureItemID" Nullable="false" />
+    <Property Type="String" Name="Contents" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ContractClosure" Relationship="AHPL_DBModel.ContractClosureContractClosure_Details" FromRole="ContractClosure_Details" ToRole="ContractClosure" />
+    <Property Type="Boolean" Name="IsSelected" Nullable="false" />
+    <Property Type="Decimal" Name="ContentValue" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="ClosureMappingID" Nullable="false" />
+    <Property Type="Int32" Name="PrintNumber" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <Association Name="ContractClosureContractClosure_Details">
+    <End Type="AHPL_DBModel.ContractClosure" Role="ContractClosure" Multiplicity="1" />
+    <End Type="AHPL_DBModel.ContractClosure_Details" Role="ContractClosure_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ContractClosure">
+        <PropertyRef Name="ContractClosureID" />
+      </Principal>
+      <Dependent Role="ContractClosure_Details">
+        <PropertyRef Name="ContractClosureID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ClosureMappingItem">
+    <Key>
+      <PropertyRef Name="ClosureMappingItemID" />
+    </Key>
+    <Property Type="Int32" Name="ClosureMappingItemID" Nullable="false" />
+    <Property Type="String" Name="ClosureMappingItemName" MaxLength="400" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsValueType" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Contract_RentSchemes">
+    <Key>
+      <PropertyRef Name="Contract_RentSchemeID" />
+    </Key>
+    <Property Type="Int32" Name="Contract_RentSchemeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+    <Property Type="DateTime" Name="FromDate" Nullable="false" annotation:StoreGeneratedPattern="None" Precision="0" />
+    <Property Type="DateTime" Name="ToDate" annotation:StoreGeneratedPattern="None" Nullable="false" Precision="0" />
+    <Property Type="Decimal" Name="RentPerSqFeet" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="SCPerSqFeet" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="BaseRent" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="DateTime" Name="LastModifiedDate" Precision="3" />
+    <NavigationProperty Name="ContractClosure" Relationship="AHPL_DBModel.ContractClosureContract_RentSchemes" FromRole="Contract_RentSchemes" ToRole="ContractClosure" />
+    <Property Type="Decimal" Name="Period" Precision="10" Scale="2" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="Decimal" Name="IncreasedRent" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+    <Property Type="Decimal" Name="IncreasedSC" Nullable="false" Precision="12" Scale="4" DefaultValue="0" />
+  </EntityType>
+  <Association Name="ContractClosureContract_RentSchemes">
+    <End Type="AHPL_DBModel.ContractClosure" Role="ContractClosure" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Contract_RentSchemes" Role="Contract_RentSchemes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ContractClosure">
+        <PropertyRef Name="ContractClosureID" />
+      </Principal>
+      <Dependent Role="Contract_RentSchemes">
+        <PropertyRef Name="ContractClosureID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Shops_UtilityReadings">
+    <Key>
+      <PropertyRef Name="ShopUtilityReadingID" />
+    </Key>
+    <Property Type="Int32" Name="ShopUtilityReadingID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Int32" Name="UtilityID" Nullable="false" />
+    <Property Type="Decimal" Name="LastReading" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="DateTime" Name="LastReadingDate" Precision="3" />
+    <Property Type="Boolean" Name="IsRatioApplied" Nullable="false" />
+    <Property Type="Int32" Name="RatioID" Nullable="false" />
+    <NavigationProperty Name="Shop" Relationship="AHPL_DBModel.FK_Shops_UtilityReadings_Shops" FromRole="Shops_UtilityReadings" ToRole="Shop" />
+    <Property Type="String" Name="MeterName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="UtilityRateID" Nullable="false" />
+    <Property Type="Boolean" Name="IsDeleted" Nullable="false" DefaultValue="False" />
+    <Property Type="Int32" Name="CreatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="UpdatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="UpdatedDate" Precision="3" />
+  </EntityType>
+  <Association Name="FK_Shops_UtilityReadings_Shops">
+    <End Type="AHPL_DBModel.Shop" Role="Shop" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Shops_UtilityReadings" Role="Shops_UtilityReadings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shop">
+        <PropertyRef Name="ShopID" />
+      </Principal>
+      <Dependent Role="Shops_UtilityReadings">
+        <PropertyRef Name="ShopID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Addendum">
+    <Key>
+      <PropertyRef Name="AddendumID" />
+    </Key>
+    <Property Type="Int32" Name="AddendumID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="AddendumName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+    <Property Type="String" Name="Remarks" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Addendum_Details" Relationship="AHPL_DBModel.AddendumAddendum_Details" FromRole="Addendum" ToRole="Addendum_Details" />
+    <Property Type="DateTime" Name="AddendumDate" Precision="0" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Promotion_RentTypes">
+    <Key>
+      <PropertyRef Name="PoRentTypeID" />
+    </Key>
+    <Property Type="Int32" Name="PoRentTypeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RentTypeName" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="SAP_Uploads">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int64" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" />
+    <Property Type="Int32" Name="InvDetID" />
+    <Property Type="String" Name="BussAct" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserName" MaxLength="12" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyCode" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CurrKey" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DocDate" Precision="0" />
+    <Property Type="DateTime" Name="PostingDate" Precision="0" />
+    <Property Type="String" Name="RefDocNo" MaxLength="16" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DocHeaderText" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DocType" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="ExchRate" Precision="10" Scale="2" />
+    <Property Type="DateTime" Name="TransltDate" Precision="0" />
+    <Property Type="String" Name="PostingKey" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerCode_GLAccount" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="AmtInDocCur" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="AmtInLocCur" Precision="10" Scale="2" />
+    <Property Type="String" Name="Assignment" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Text" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BusinessArea" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CostCenter" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InternalOrder" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ProfitCenter" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RefKey1" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RefKey2" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RefKey3" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="DateTime" Name="ModifiedDate" Precision="3" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="Boolean" Name="IsSAPUploaded" Nullable="false" />
+    <Property Type="DateTime" Name="UploadedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="SAP_DocTypes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="DocID" Nullable="false" />
+    <Property Type="Int32" Name="InvoiceTypeID" />
+    <Property Type="String" Name="DOCTYPE" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InvoiceType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="GL_CODE" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InvoicePrefix" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InvoiceTypeCategory" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PROFIT_CENTER" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="COST_CENTER" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="SAP_LineItems">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="SubInvTypeID" Nullable="false" />
+    <Property Type="String" Name="Customer_LineItem" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="GL_LineItem" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SubInvType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="StdOrder" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SAP_TAXGLCODES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="String" Name="SAP_GLCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TaxCode" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Permission_Forms">
+    <Key>
+      <PropertyRef Name="FormID" />
+    </Key>
+    <Property Type="Int32" Name="FormID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FormDescriotion" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ModuleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="InternalFormName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SubModuleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ModuleOrderID" Nullable="false" />
+    <Property Type="Int32" Name="SubModuleOrderID" Nullable="false" />
+    <Property Type="String" Name="MenuName" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Permission_Roles">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Type="Int32" Name="RoleID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="RoleName" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Permission_UserForms">
+    <Key>
+      <PropertyRef Name="UserFormID" />
+    </Key>
+    <Property Type="Int32" Name="UserFormID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="FormID" Nullable="false" />
+    <Property Type="Boolean" Name="C" Nullable="false" />
+    <Property Type="Boolean" Name="R" Nullable="false" />
+    <Property Type="Boolean" Name="U" Nullable="false" />
+    <Property Type="Boolean" Name="D" Nullable="false" />
+    <Property Type="Int32" Name="RoleID" />
+    <Property Type="String" Name="SubModuleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ModuleName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ModuleOrderID" Nullable="false" />
+    <Property Type="Int32" Name="SubModuleOrderID" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Permission_Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Type="Int32" Name="UserID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="RoleID" Nullable="false" />
+    <Property Type="Boolean" Name="Discontinued" Nullable="false" />
+    <Property Type="DateTime" Name="DiscontinuedDate" Precision="3" />
+    <Property Type="String" Name="DNSUserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="UserGroupID" Nullable="false" />
+    <Property Type="Boolean" Name="IsUserHead" Nullable="false" />
+    <Property Type="String" Name="Email1" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email2" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="R3_UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="R3_Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ISR_UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ISR_Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserLocations" Relationship="AHPL_DBModel.Permission_UsersUserLocation" FromRole="Permission_Users" ToRole="UserLocation" />
+  </EntityType>
+  <EntityType Name="Addendum_Details">
+    <Key>
+      <PropertyRef Name="AddendumDetID" />
+    </Key>
+    <Property Type="Int32" Name="AddendumDetID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="AddendumID" Nullable="false" />
+    <Property Type="Int32" Name="Contract_RentSchemeID" Nullable="false" />
+    <Property Type="Decimal" Name="RentperSqFeetO" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="RentperSqFeetN" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="SCperSqFeetO" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="SCperSqFeetN" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <Property Type="DateTime" Name="FromDateO" Precision="0" />
+    <Property Type="DateTime" Name="FromDateN" Precision="0" />
+    <Property Type="DateTime" Name="ToDateO" Precision="0" />
+    <Property Type="DateTime" Name="ToDateN" Precision="0" />
+    <NavigationProperty Name="Addendum" Relationship="AHPL_DBModel.AddendumAddendum_Details" FromRole="Addendum_Details" ToRole="Addendum" />
+    <Property Type="Int32" Name="CreatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="UpdatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="UpdatedDate" Precision="3" />
+  </EntityType>
+  <Association Name="AddendumAddendum_Details">
+    <End Type="AHPL_DBModel.Addendum" Role="Addendum" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Addendum_Details" Role="Addendum_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Addendum">
+        <PropertyRef Name="AddendumID" />
+      </Principal>
+      <Dependent Role="Addendum_Details">
+        <PropertyRef Name="AddendumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ExtendedCustomer_GLCodes">
+    <Key>
+      <PropertyRef Name="ExtendedCustomerGLCodeDetailID" />
+    </Key>
+    <Property Type="Int32" Name="ExtendedCustomerGLCodeDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="String" Name="GL_CODE" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Extended_Customers" Relationship="AHPL_DBModel.Extended_CustomersExtendedCustomer_GLCodes" FromRole="ExtendedCustomer_GLCodes" ToRole="Extended_Customers" />
+  </EntityType>
+  <Association Name="Extended_CustomersExtendedCustomer_GLCodes">
+    <End Type="AHPL_DBModel.Extended_Customers" Role="Extended_Customers" Multiplicity="1" />
+    <End Type="AHPL_DBModel.ExtendedCustomer_GLCodes" Role="ExtendedCustomer_GLCodes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Extended_Customers">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Principal>
+      <Dependent Role="ExtendedCustomer_GLCodes">
+        <PropertyRef Name="ExtendedCustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Permission_UserGroups">
+    <Key>
+      <PropertyRef Name="UserGroupID" />
+    </Key>
+    <Property Type="Int32" Name="UserGroupID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UserGroupName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="UpdatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="UpdatedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="EmailAlertItem">
+    <Key>
+      <PropertyRef Name="EmailAlertItemID" />
+    </Key>
+    <Property Type="Int32" Name="EmailAlertItemID" Nullable="false" />
+    <Property Type="String" Name="EmailArertItemName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="AlertCycle" Nullable="false" />
+    <Property Type="Boolean" Name="IsInstant" Nullable="false" />
+    <Property Type="Int32" Name="StdOrder" Nullable="false" />
+    <Property Type="Boolean" Name="IsEnabled" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Envelope">
+    <Key>
+      <PropertyRef Name="EnvelopeID" />
+    </Key>
+    <Property Type="Int32" Name="EnvelopeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" DefaultValue="0" />
+    <Property Type="Int32" Name="GlobalCustomerID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="Adressee" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" DefaultValue="" />
+    <Property Type="String" Name="PostalAddress" MaxLength="Max" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Int32" Name="DeliveryOptionID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="ShopNo" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="String" Name="ShopName" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Boolean" Name="IsPrint" Nullable="false" DefaultValue="False" />
+    <Property Type="Int32" Name="InvoiceTypeID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="CategoryName" MaxLength="50" FixedLength="false" Unicode="true" DefaultValue="-" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" DefaultValue="0" />
+    <Property Type="String" Name="LevelName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DeliveryOptionName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="LocationCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerCompanyName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyAddress" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="EmailConfiguration">
+    <Key>
+      <PropertyRef Name="EmailConfigID" />
+    </Key>
+    <Property Type="Int32" Name="EmailConfigID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="FromEmail" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ClientHost" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PorNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="StartServiceApp" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserLocation">
+    <Key>
+      <PropertyRef Name="UserLocationID" />
+    </Key>
+    <Property Type="Int32" Name="UserLocationID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="UserID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Boolean" Name="IsHead" Nullable="false" />
+    <NavigationProperty Name="Permission_Users" Relationship="AHPL_DBModel.Permission_UsersUserLocation" FromRole="UserLocation" ToRole="Permission_Users" />
+    <Property Type="Boolean" Name="IsDelete" Nullable="false" />
+  </EntityType>
+  <Association Name="Permission_UsersUserLocation">
+    <End Type="AHPL_DBModel.Permission_Users" Role="Permission_Users" Multiplicity="1" />
+    <End Type="AHPL_DBModel.UserLocation" Role="UserLocation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Permission_Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UserLocation">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="EmailsToBeSent">
+    <Key>
+      <PropertyRef Name="EmailTobeSendID" />
+    </Key>
+    <Property Type="Int64" Name="EmailTobeSendID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Subject" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Body" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Binary" Name="Attachment" MaxLength="Max" FixedLength="false" />
+    <Property Type="Int32" Name="CreatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Boolean" Name="IsEmailSent" Nullable="false" />
+    <Property Type="DateTime" Name="EmailSentDate" Precision="3" />
+    <Property Type="Boolean" Name="IsHourly" Nullable="false" DefaultValue="True" />
+    <Property Type="Boolean" Name="IsMonthly" Nullable="false" />
+    <Property Type="Boolean" Name="Selected" Nullable="false" DefaultValue="True" />
+    <Property Type="Int32" Name="ContractClauseID" Nullable="false" />
+    <Property Type="Int32" Name="EmailAlertItemID" Nullable="false" />
+    <Property Type="DateTime" Name="ScheduledDateToSend" Precision="3" />
+    <Property Type="Int32" Name="AlertSequence" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmailAlertRole">
+    <Key>
+      <PropertyRef Name="EmailAlertRoleID" />
+    </Key>
+    <Property Type="Int32" Name="EmailAlertRoleID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="RoleID" Nullable="false" />
+    <Property Type="Int32" Name="EmailAlertItemID" Nullable="false" />
+    <Property Type="Boolean" Name="IsEnabled" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmailSentItem">
+    <Key>
+      <PropertyRef Name="EmailSentItemID" />
+    </Key>
+    <Property Type="Int64" Name="EmailSentItemID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="EmailToBeSendID" Nullable="false" />
+    <Property Type="String" Name="Email" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Financial_Years">
+    <Key>
+      <PropertyRef Name="FinancialYearID" />
+    </Key>
+    <Property Type="Int32" Name="FinancialYearID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="FromDate" Precision="3" />
+    <Property Type="DateTime" Name="ToDate" Precision="3" />
+    <Property Type="Int32" Name="Financial_Year" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <NavigationProperty Name="FinancialYear_Details" Relationship="AHPL_DBModel.Financial_YearsFinancialYear_Details" FromRole="Financial_Years" ToRole="FinancialYear_Details" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shop_Details">
+    <Key>
+      <PropertyRef Name="ShopDetailID" />
+    </Key>
+    <Property Type="Int32" Name="ShopDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Decimal" Name="SqFeet" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="DateTime" Name="ActiveFrom" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ActiveTo" Precision="3" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Location_Details">
+    <Key>
+      <PropertyRef Name="LocationDetailID" />
+    </Key>
+    <Property Type="Int32" Name="LocationDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="LocationID" />
+    <Property Type="Decimal" Name="SqFeet" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="DateTime" Name="ActiveFrom" Nullable="false" Precision="3" />
+    <Property Type="DateTime" Name="ActiveTo" Precision="3" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FinancialYear_Details">
+    <Key>
+      <PropertyRef Name="FinancialYearDetailID" />
+    </Key>
+    <Property Type="Int32" Name="FinancialYearDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="FinancialYearID" Nullable="false" />
+    <Property Type="Int32" Name="MonthID" Nullable="false" />
+    <Property Type="Int32" Name="CurrentYear" Nullable="false" />
+    <NavigationProperty Name="Financial_Years" Relationship="AHPL_DBModel.Financial_YearsFinancialYear_Details" FromRole="FinancialYear_Details" ToRole="Financial_Years" />
+    <NavigationProperty Name="MISPerformanceDetails" Relationship="AHPL_DBModel.FinancialYear_DetailsMISPerformanceDetail" FromRole="FinancialYear_Details" ToRole="MISPerformanceDetail" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+  </EntityType>
+  <Association Name="Financial_YearsFinancialYear_Details">
+    <End Type="AHPL_DBModel.Financial_Years" Role="Financial_Years" Multiplicity="1" />
+    <End Type="AHPL_DBModel.FinancialYear_Details" Role="FinancialYear_Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Financial_Years">
+        <PropertyRef Name="FinancialYearID" />
+      </Principal>
+      <Dependent Role="FinancialYear_Details">
+        <PropertyRef Name="FinancialYearID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Addendum_Details_Audit">
+    <Key>
+      <PropertyRef Name="AddendumDetID" />
+    </Key>
+    <Property Type="Int64" Name="AddendumDetIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="AddendumDetID" Nullable="false" />
+    <Property Type="Int32" Name="AddendumID" Nullable="false" />
+    <Property Type="Int32" Name="Contract_RentSchemeID" />
+    <Property Type="Decimal" Name="RentperSqFeetO" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="RentperSqFeetN" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="SCperSqFeetO" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="SCperSqFeetN" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="ContractID" />
+    <Property Type="DateTime" Name="FromDateO" Precision="0" />
+    <Property Type="DateTime" Name="FromDateN" Precision="0" />
+    <Property Type="DateTime" Name="ToDateO" Precision="0" />
+    <Property Type="DateTime" Name="ToDateN" Precision="0" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="UpdatedBy" />
+    <Property Type="DateTime" Name="UpdatedDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+    <NavigationProperty Name="Addendums_Audit" Relationship="AHPL_DBModel.Addendums_AuditAddendum_Details_Audit" FromRole="Addendum_Details_Audit" ToRole="Addendums_Audit" />
+  </EntityType>
+  <EntityType Name="Addendums_Audit">
+    <Key>
+      <PropertyRef Name="AddendumID" />
+    </Key>
+    <Property Type="Int64" Name="AddendumIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="AddendumID" Nullable="false" />
+    <Property Type="DateTime" Name="AddendumDate" Precision="0" />
+    <Property Type="String" Name="AddendumName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ContractClosureID" />
+    <Property Type="String" Name="Remarks" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+    <NavigationProperty Name="Addendum_Details_Audit" Relationship="AHPL_DBModel.Addendums_AuditAddendum_Details_Audit" FromRole="Addendums_Audit" ToRole="Addendum_Details_Audit" />
+  </EntityType>
+  <EntityType Name="ContractClosures_Audit">
+    <Key>
+      <PropertyRef Name="ContractClosureIDAudit" />
+      <PropertyRef Name="ContractClosureID" />
+      <PropertyRef Name="ContractClosureName" />
+      <PropertyRef Name="ContractClosureTempID" />
+      <PropertyRef Name="IsProcessed" />
+      <PropertyRef Name="IsReleased" />
+      <PropertyRef Name="IsReleasedToAccounts" />
+      <PropertyRef Name="ContractID" />
+      <PropertyRef Name="IsCancelled" />
+      <PropertyRef Name="CompanyID" />
+      <PropertyRef Name="LocationID" />
+      <PropertyRef Name="LevelID" />
+      <PropertyRef Name="ShopID" />
+      <PropertyRef Name="FloorArea" />
+      <PropertyRef Name="Deposit" />
+      <PropertyRef Name="ContractPeriod" />
+      <PropertyRef Name="ExtendedCustomerID" />
+      <PropertyRef Name="GlobalCustomerID" />
+      <PropertyRef Name="Naration" />
+      <PropertyRef Name="IsPromotion" />
+      <PropertyRef Name="PoRentTypeID" />
+      <PropertyRef Name="IsRenew" />
+      <PropertyRef Name="IsExtention" />
+      <PropertyRef Name="IsNew" />
+      <PropertyRef Name="RefNo" />
+      <PropertyRef Name="IsActive" />
+      <PropertyRef Name="IsTerminated" />
+    </Key>
+    <Property Type="Int64" Name="ContractClosureIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractClosureID" Nullable="false" />
+    <Property Type="String" Name="ContractClosureName" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ContractClosureTempID" Nullable="false" />
+    <Property Type="Boolean" Name="IsProcessed" Nullable="false" />
+    <Property Type="Boolean" Name="IsReleased" Nullable="false" />
+    <Property Type="Boolean" Name="IsReleasedToAccounts" Nullable="false" />
+    <Property Type="Int32" Name="ContractID" Nullable="false" />
+    <Property Type="Boolean" Name="IsCancelled" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" />
+    <Property Type="String" Name="ShopNo" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Decimal" Name="FloorArea" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="Deposit" Nullable="false" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="ContractPeriod" Nullable="false" />
+    <Property Type="DateTime" Name="LastModDate" Precision="3" />
+    <Property Type="String" Name="AgreementNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="AgreementSignDate" Precision="0" />
+    <Property Type="String" Name="ShopName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ExtendedCustomerID" Nullable="false" />
+    <Property Type="Int32" Name="GlobalCustomerID" Nullable="false" />
+    <Property Type="String" Name="CustomerName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Naration" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsPromotion" Nullable="false" />
+    <Property Type="Int32" Name="PoRentTypeID" Nullable="false" />
+    <Property Type="String" Name="CustomerAddress" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Signature1" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Signature2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsRenew" Nullable="false" />
+    <Property Type="Boolean" Name="IsExtention" Nullable="false" />
+    <Property Type="Boolean" Name="IsNew" Nullable="false" />
+    <Property Type="Int32" Name="RefNo" Nullable="false" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="Boolean" Name="IsTerminated" Nullable="false" />
+    <Property Type="DateTime" Name="TerminatedDate" Precision="3" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Global_Customers_Audit">
+    <Key>
+      <PropertyRef Name="CustomerIDAudit" />
+      <PropertyRef Name="CustomerID" />
+      <PropertyRef Name="CustomerName" />
+      <PropertyRef Name="Discontinued" />
+      <PropertyRef Name="IsTaxCustomer" />
+      <PropertyRef Name="IsDeleted" />
+    </Key>
+    <Property Type="Int64" Name="CustomerIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CustomerID" Nullable="false" />
+    <Property Type="String" Name="CustomerName" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CompanyAddress" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="TelNos" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FaxNos" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="EmailAddress" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RegNo" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="MajShareName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="YearOfInc" />
+    <Property Type="String" Name="NameOfPrinciple" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="PaidUpShareCapital" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="AuthShareCaptial" Precision="10" Scale="2" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="UpdatedBy" />
+    <Property Type="DateTime" Name="UpdatedDate" Precision="3" />
+    <Property Type="String" Name="SAPCustomerCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="DefaultTaxRegNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="DefaultTaxID" />
+    <Property Type="String" Name="AlternateEmail" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="KnownAs" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Discontinued" Nullable="false" />
+    <Property Type="DateTime" Name="DiscontinuedDate" Precision="3" />
+    <Property Type="Boolean" Name="IsTaxCustomer" Nullable="false" />
+    <Property Type="Boolean" Name="IsDeleted" Nullable="false" />
+    <Property Type="DateTime" Name="LogDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="MisReportItem">
+    <Key>
+      <PropertyRef Name="ReportItemID" />
+    </Key>
+    <Property Type="Int32" Name="ReportItemID" Nullable="false" />
+    <Property Type="String" Name="ReportItemName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="SortOrder" Nullable="false" />
+    <Property Type="Int32" Name="ExceptionItem" />
+  </EntityType>
+  <EntityType Name="Shops_Audit">
+    <Key>
+      <PropertyRef Name="ShopID" />
+    </Key>
+    <Property Type="Int64" Name="ShopIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="String" Name="ShopName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LevelID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="CustomerID" />
+    <Property Type="String" Name="ShopNo" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="SqFeet" Nullable="false" Precision="10" Scale="4" />
+    <Property Type="Boolean" Name="IsBooth" Nullable="false" />
+    <Property Type="Int32" Name="RentAreaTypeID" Nullable="false" />
+    <Property Type="Int32" Name="ZoneID" Nullable="false" />
+    <Property Type="Boolean" Name="IsDeleted" Nullable="false" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+    <NavigationProperty Name="Shops_UtilityReadings_Audit" Relationship="AHPL_DBModel.Shops_AuditShops_UtilityReadings_Audit" FromRole="Shops_Audit" ToRole="Shops_UtilityReadings_Audit" />
+  </EntityType>
+  <EntityType Name="Shops_UtilityReadings_Audit">
+    <Key>
+      <PropertyRef Name="ShopUtilityReadingID" />
+    </Key>
+    <Property Type="Int64" Name="ShopUtilityReadingIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ShopUtilityReadingID" Nullable="false" />
+    <Property Type="Int32" Name="ShopID" Nullable="false" />
+    <Property Type="Int32" Name="UtilityID" />
+    <Property Type="Int32" Name="UtilityRateID" />
+    <Property Type="Decimal" Name="LastReading" Precision="12" Scale="4" />
+    <Property Type="DateTime" Name="LastReadingDate" Precision="3" />
+    <Property Type="Boolean" Name="IsRatioApplied" />
+    <Property Type="Int32" Name="RatioID" />
+    <Property Type="String" Name="MeterName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsDeleted" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+    <NavigationProperty Name="Shops_Audit" Relationship="AHPL_DBModel.Shops_AuditShops_UtilityReadings_Audit" FromRole="Shops_UtilityReadings_Audit" ToRole="Shops_Audit" />
+  </EntityType>
+  <EntityType Name="Utility_Rates_Audit">
+    <Key>
+      <PropertyRef Name="UtilityRateIDAudit" />
+      <PropertyRef Name="UtilityRateID" />
+      <PropertyRef Name="UtilityID" />
+      <PropertyRef Name="CompanyID" />
+      <PropertyRef Name="LocatoinID" />
+    </Key>
+    <Property Type="Int32" Name="UtilityRateIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="UtilityRateID" Nullable="false" />
+    <Property Type="Int32" Name="UtilityID" Nullable="false" />
+    <Property Type="Decimal" Name="UnitRate" Precision="10" Scale="2" />
+    <Property Type="Boolean" Name="IsTaxApplied" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocatoinID" Nullable="false" />
+    <Property Type="String" Name="UtilityRateProfileName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+  </EntityType>
+  <Association Name="Addendums_AuditAddendum_Details_Audit">
+    <End Type="AHPL_DBModel.Addendums_Audit" Role="Addendums_Audit" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Addendum_Details_Audit" Role="Addendum_Details_Audit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Addendums_Audit">
+        <PropertyRef Name="AddendumID" />
+      </Principal>
+      <Dependent Role="Addendum_Details_Audit">
+        <PropertyRef Name="AddendumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Shops_AuditShops_UtilityReadings_Audit">
+    <End Type="AHPL_DBModel.Shops_Audit" Role="Shops_Audit" Multiplicity="1" />
+    <End Type="AHPL_DBModel.Shops_UtilityReadings_Audit" Role="Shops_UtilityReadings_Audit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shops_Audit">
+        <PropertyRef Name="ShopID" />
+      </Principal>
+      <Dependent Role="Shops_UtilityReadings_Audit">
+        <PropertyRef Name="ShopID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Conract_Closure_Sub_Templates_Audit">
+    <Key>
+      <PropertyRef Name="ContractClosureTempIDAudit" />
+    </Key>
+    <Property Type="Int64" Name="ContractClosureTempIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="ContractClosureTempID" />
+    <Property Type="Int32" Name="CompanyID" />
+    <Property Type="String" Name="TemplateName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PageTitle" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="PageNo" />
+    <Property Type="String" Name="Signature1" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Signature2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="Invoices_Audit">
+    <Key>
+      <PropertyRef Name="InvoiceIDAudit" />
+    </Key>
+    <Property Type="Int64" Name="InvoiceIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="InvoiceID" />
+    <Property Type="String" Name="InvoiceNo" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="InvoiceTypeID" />
+    <Property Type="Int32" Name="SubInvTypeID" />
+    <Property Type="Int32" Name="UtilityID" />
+    <Property Type="String" Name="UtilityName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UtilityMeterName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="SequenceNo" />
+    <Property Type="Int32" Name="ContractID" />
+    <Property Type="Int32" Name="ContractRateID" />
+    <Property Type="Int32" Name="ContractClosureID" />
+    <Property Type="Int32" Name="Contract_RentSchemeID" />
+    <Property Type="DateTime" Name="InvoiceDate" Precision="3" />
+    <Property Type="Int32" Name="ProcessYear" />
+    <Property Type="Int32" Name="ProcessMonth" />
+    <Property Type="Int32" Name="ExtendedCustomerID" />
+    <Property Type="Int32" Name="CustomerID" />
+    <Property Type="String" Name="CustomerName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerAddress" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerAddress2" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="DateFrom" Precision="3" />
+    <Property Type="DateTime" Name="DateTo" Precision="3" />
+    <Property Type="Int32" Name="ShopUtilityReadingID" />
+    <Property Type="Decimal" Name="StartReading" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="EndReading" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="NosUnitsConsumed1" Precision="10" Scale="4" />
+    <Property Type="Boolean" Name="Reset" />
+    <Property Type="Decimal" Name="StartReading2" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="EndReading2" Precision="10" Scale="4" />
+    <Property Type="Decimal" Name="NosUnitsConsumed2" Precision="10" Scale="4" />
+    <Property Type="Int32" Name="UtilityRateID" />
+    <Property Type="Decimal" Name="UtilityUnitRate" Precision="10" Scale="4" />
+    <Property Type="Boolean" Name="IsMaintenance" />
+    <Property Type="Decimal" Name="M_StartReading" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="M_EndReading" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="M_NosUnitsConsumed" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalNosUnitConsumed" Precision="12" Scale="4" />
+    <Property Type="Int32" Name="CompanyID" />
+    <Property Type="String" Name="CompanyCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LocationID" />
+    <Property Type="String" Name="LocationCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="LevelID" />
+    <Property Type="String" Name="LevelName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Naration" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsInvoiced" />
+    <Property Type="String" Name="FooterText1" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ShopID" />
+    <Property Type="String" Name="ShopNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ShopName" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="Ratio" Precision="10" Scale="2" />
+    <Property Type="Decimal" Name="AreaInSqFt" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentPerSqFt" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="SCPerSqFt" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentPerMonth" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="SCPerMonth" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentWIthSCPerSqFt" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="RentWithSCPerMonth" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalAmount" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalTax" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="OtherTax" Precision="12" Scale="4" />
+    <Property Type="String" Name="OtherTaxCodes" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="MandatoryTaxID" />
+    <Property Type="Int32" Name="MandatoryTaxRateID" />
+    <Property Type="Decimal" Name="MandatoryTaxAmount" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalWithMandatoryTax" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalAmtWithTaxExcludedMandatoryTax" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="TotalRentPerMonth" Precision="12" Scale="4" />
+    <Property Type="Boolean" Name="IsModified" />
+    <Property Type="DateTime" Name="ModifiedDate" Precision="3" />
+    <Property Type="Boolean" Name="IsPerDay" />
+    <Property Type="Int32" Name="NosDay" />
+    <Property Type="String" Name="MandatoryTaxCode" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="OtherServiceID" />
+    <Property Type="String" Name="ContractName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RefInvNo" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_CompanyCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="SAP_PstnDateInDoc" Precision="0" />
+    <Property Type="String" Name="SAP_DocHeaderText" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_DocType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_Text" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_RefKey1" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_RefKey2" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_RefKey3" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_Assignment" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_PostingKey" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAP_GLACC" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BatchUpdateLabel" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAPUploadMsg" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="SAPUploadErr" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TaxRegNo" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsTaxCustomer" />
+    <Property Type="Boolean" Name="IsTaxApplicable" />
+    <Property Type="Boolean" Name="IsUtilityTaxApplicable" />
+    <Property Type="Boolean" Name="IsProcessed" />
+    <Property Type="Boolean" Name="IsConfirmed" />
+    <Property Type="Boolean" Name="Is_R3" />
+    <Property Type="Boolean" Name="Is_ISR" />
+    <Property Type="Boolean" Name="Is_SAPUploaded" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" Precision="3" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" Precision="3" />
+    <Property Type="DateTime" Name="LoggedDate" Precision="3" />
+  </EntityType>
+  <EntityType Name="MISPerformanceDetail">
+    <Key>
+      <PropertyRef Name="PerformanceDetailID" />
+    </Key>
+    <Property Type="Int64" Name="PerformanceDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="FinancialYearDetailID" Nullable="false" />
+    <Property Type="Int32" Name="ReportItemID" Nullable="false" />
+    <Property Type="Decimal" Name="ReforecastingValue" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="BudgetValue" Nullable="false" Precision="12" Scale="4" />
+    <Property Type="Decimal" Name="ActualValue" Nullable="false" Precision="12" Scale="4" />
+    <NavigationProperty Name="FinancialYear_Details" Relationship="AHPL_DBModel.FinancialYear_DetailsMISPerformanceDetail" FromRole="MISPerformanceDetail" ToRole="FinancialYear_Details" />
+    <Property Type="Int32" Name="CompanyID" Nullable="false" />
+    <Property Type="Int32" Name="LocationID" Nullable="false" />
+  </EntityType>
+  <Association Name="FinancialYear_DetailsMISPerformanceDetail">
+    <End Type="AHPL_DBModel.FinancialYear_Details" Role="FinancialYear_Details" Multiplicity="1" />
+    <End Type="AHPL_DBModel.MISPerformanceDetail" Role="MISPerformanceDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FinancialYear_Details">
+        <PropertyRef Name="FinancialYearDetailID" />
+      </Principal>
+      <Dependent Role="MISPerformanceDetail">
+        <PropertyRef Name="FinancialYearDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TaxRate">
+    <Key>
+      <PropertyRef Name="TaxRateID" />
+    </Key>
+    <Property Type="Int32" Name="TaxRateID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="Decimal" Name="TaxRate1" Nullable="false" Precision="8" Scale="4" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveFrom" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveTo" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" />
+  </EntityType>
+  <EntityType Name="Taxes_Audit">
+    <Key>
+      <PropertyRef Name="TaxIDAudit" />
+    </Key>
+    <Property Type="Int32" Name="TaxIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="TaxID" />
+    <Property Type="String" Name="TaxName" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TaxCode" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsMandatory" />
+    <Property Type="String" Name="SAP_GLCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" />
+    <Property Type="DateTime" Name="LoggedDate" />
+  </EntityType>
+  <EntityType Name="TaxRates_Audit">
+    <Key>
+      <PropertyRef Name="TaxRateIDAudit" />
+    </Key>
+    <Property Type="Int32" Name="TaxRateIDAudit" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="TaxRateID" Nullable="false" />
+    <Property Type="Int32" Name="TaxID" Nullable="false" />
+    <Property Type="Decimal" Name="TaxRate1" Nullable="false" Precision="8" Scale="4" />
+    <Property Type="Boolean" Name="IsActive" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveFrom" Nullable="false" />
+    <Property Type="DateTime" Name="ActiveTo" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" />
+    <Property Type="DateTime" Name="LoggedDate" />
+  </EntityType>
+  <EntityType Name="Tax">
+    <Key>
+      <PropertyRef Name="TaxID" />
+    </Key>
+    <Property Type="Int32" Name="TaxID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="TaxName" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TaxCode" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="IsMandatory" Nullable="false" />
+    <Property Type="String" Name="SAP_GLCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" />
+    <Property Type="Int32" Name="LastUpdated" />
+    <Property Type="DateTime" Name="LastUpdateDate" />
+  </EntityType>
+  <EntityType Name="Permission_Users_Audit">
+    <Key>
+      <PropertyRef Name="AuditRowID" />
+    </Key>
+    <Property Type="Int32" Name="AuditRowID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="UserID" Nullable="false" />
+    <Property Type="String" Name="UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="RoleID" Nullable="false" />
+    <Property Type="Int32" Name="UserGroupID" Nullable="false" />
+    <Property Type="Boolean" Name="IsUserHead" Nullable="false" />
+    <Property Type="Boolean" Name="Discontinued" Nullable="false" />
+    <Property Type="DateTime" Name="DiscontinuedDate" />
+    <Property Type="String" Name="DNSUserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email1" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email2" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="R3_UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="R3_Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ISR_UserName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ISR_Password" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="UpdatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="UpdatedDate" />
+  </EntityType>
+  <EntityType Name="SCAndRentValue">
+    <Key>
+      <PropertyRef Name="SC_RentID" />
+    </Key>
+    <Property Type="Int32" Name="SC_RentID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CompanyID" />
+    <Property Type="Decimal" Name="SCValue" Precision="18" Scale="4" />
+    <Property Type="Decimal" Name="RentValue" Precision="18" Scale="4" />
+    <Property Type="DateTime" Name="FromDate" />
+    <Property Type="DateTime" Name="ToDate" />
+    <Property Type="Boolean" Name="IsActive" />
+    <Property Type="Int32" Name="CreatedBy" />
+    <Property Type="DateTime" Name="CreatedDate" />
+  </EntityType>
+</Schema>

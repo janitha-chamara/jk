@@ -1,0 +1,625 @@
+D:\Windows Applications\DotNet\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\Windows Applications\DotNet\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\Windows Applications\DotNet\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\Windows Applications\DotNet\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\Windows Applications\DotNet\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\Windows Applications\DotNet\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\bin\Debug\localDB.sdf
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\bin\Debug\DataTier.dll
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\obj\Debug\DataTier.dll
+C:\Users\Yash\Desktop\AHPL-LIVE\DataTier\obj\Debug\DataTier.pdb
+C:\Users\Yash\Desktop\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Yash\Desktop\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\Yash\Desktop\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Yash\Desktop\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Yash\Desktop\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\Yash\Desktop\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\Yassera\Desktop\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Yassera\Desktop\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\Yassera\Desktop\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Yassera\Desktop\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\Yassera\Desktop\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Yassera\Desktop\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\Yassera\Desktop\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.pdb
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\Projects\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\sheran\Desktop\Data\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\ResolveAssemblyReference.cache
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.pdb
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\FCL MMS 9.7.2014\AHPL_JKH\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\AHPL_JKH\PROJECTS\Crescat\MMS source codes\Source Codes with Versions\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+E:\AHPL\DataTier\obj\Debug\ResolveAssemblyReference.cache
+E:\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\FCL\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.Shared.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Extensions.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.CodeParser.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\stdole.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.xml
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\Developments\MMS_Initial_Setup\Source\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\Development\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\Development\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\Development\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.Shared.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Extensions.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.CodeParser.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Development\AHPL\DataTier\bin\Debug\stdole.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.dll
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.xml
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Snap.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+D:\Development\AHPL\DataTier\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+D:\Development\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\Development\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\Development\AHPL\DataTier\obj\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\DataTier\obj\Debug\DataTier.pdb
+C:\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.dll.config
+E:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.dll
+E:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.pdb
+E:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+E:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.dll
+E:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.pdb
+E:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+D:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.dll.config
+D:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.dll
+D:\MMS_JK\AHPL\DataTier\bin\Debug\DataTier.pdb
+D:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+D:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.dll
+D:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.pdb
+D:\MMS_JK\AHPL\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DataTier.dll.config
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DataTier.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DataTier.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.dll.licenses
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Extensions.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.CodeParser.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\stdole.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Docs.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraCharts.v13.1.Wizard.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraReports.v13.1.Extensions.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Snap.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Spreadsheet.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraVerticalGrid.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.XtraNavBar.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.DataAccess.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\DevExpress.Xpo.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraCharts.v13.1.Wizard.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraReports.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Snap.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Snap.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Snap.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Snap.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Spreadsheet.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraVerticalGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.XtraNavBar.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\de\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\es\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ja\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\bin\Debug\ru\DevExpress.Xpo.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.csproj.AssemblyReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\DataTier\obj\Debug\DataTier.csproj.CopyComplete

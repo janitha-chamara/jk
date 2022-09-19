@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\localhost\Users\Administrator\Desktop\Final Setup\|\\localhost\\Users\Administrator\Desktop\Final Setup\|C:\Users\Administrator\Desktop\Final Setup\|C:\Users\Administrator\Desktop\05April2017_FullSetup\|\\10.20.59.87\sqlshopshare\AHPL_PUBLISH\</PublishUrlHistory>
+    <InstallUrlHistory>\\localhost\Users\Administrator\Desktop\Final Setup\|\\localhost\\Users\Administrator\Desktop\Final Setup\|http://localhost/mms/|\\10.20.59.87\sqlshopshare\AHPL_PUBLISH\|\\Wbljklandsql\sqlshopshare\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://localhost/MMS/|http://www.yash.lk/ahpl/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>\\10.20.59.87\sqlshopshare\AHPL_PUBLISH\Prerequisite</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AHPL_Acc_Document_Post_ZBAPI_ACC_DOCUMENT_POST" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ERP-QA.keells.lk:8000/sap/bc/srt/rfc/sap/zbapi_acc_document_post/601/zbapi_acc_document_post/zbapi_acc_document_post</Value>
+    </Setting>
+    <Setting Name="AHPL_ISR_ZBAPI_ACC_DOCUMENT_POST" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://CYNTHIA.KEELLS.LK:8000/sap/bc/srt/rfc/sap/zbapi_acc_document_post/100/zbapi_acc_document_post/zbapi_acc_document_post</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

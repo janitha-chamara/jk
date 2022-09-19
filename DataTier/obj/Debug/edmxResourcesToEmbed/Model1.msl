@@ -1,0 +1,1593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AHPL_DBModelStoreContainer" CdmEntityContainer="AHPL_DBEntities">
+    <EntitySetMapping Name="Attachments">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Attachment)">
+        <MappingFragment StoreEntitySet="Attachments">
+          <ScalarProperty Name="AttachmentID" ColumnName="AttachmentID" />
+          <ScalarProperty Name="AttachmentName" ColumnName="AttachmentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer_Attachments">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Customer_Attachments)">
+        <MappingFragment StoreEntitySet="Customer_Attachments">
+          <ScalarProperty Name="CustAttachmentID" ColumnName="CustAttachmentID" />
+          <ScalarProperty Name="AttachmentID" ColumnName="AttachmentID" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="AttachedDocument" ColumnName="AttachedDocument" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Global_Customers">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Global_Customers)">
+        <MappingFragment StoreEntitySet="Global_Customers">
+          <ScalarProperty Name="IsTaxCustomer" ColumnName="IsTaxCustomer" />
+          <ScalarProperty Name="DiscontinuedDate" ColumnName="DiscontinuedDate" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="AlternateEmail" ColumnName="AlternateEmail" />
+          <ScalarProperty Name="KnownAs" ColumnName="KnownAs" />
+          <ScalarProperty Name="DefaultTaxID" ColumnName="DefaultTaxID" />
+          <ScalarProperty Name="DefaultTaxRegNo" ColumnName="DefaultTaxRegNo" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CompanyAddress" ColumnName="CompanyAddress" />
+          <ScalarProperty Name="TelNos" ColumnName="TelNos" />
+          <ScalarProperty Name="FaxNos" ColumnName="FaxNos" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+          <ScalarProperty Name="MajShareName" ColumnName="MajShareName" />
+          <ScalarProperty Name="YearOfInc" ColumnName="YearOfInc" />
+          <ScalarProperty Name="NameOfPrinciple" ColumnName="NameOfPrinciple" />
+          <ScalarProperty Name="PaidUpShareCapital" ColumnName="PaidUpShareCapital" />
+          <ScalarProperty Name="AuthShareCaptial" ColumnName="AuthShareCaptial" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="SAPCustomerCode" ColumnName="SAPCustomerCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Companies">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Company)">
+        <MappingFragment StoreEntitySet="Companies">
+          <ScalarProperty Name="SAP_URL" ColumnName="SAP_URL" />
+          <ScalarProperty Name="SAP_R3" ColumnName="SAP_R3" />
+          <ScalarProperty Name="SAP_ISR" ColumnName="SAP_ISR" />
+          <ScalarProperty Name="SAP_BusinessArea" ColumnName="SAP_BusinessArea" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Tele2" ColumnName="Tele2" />
+          <ScalarProperty Name="Tele1" ColumnName="Tele1" />
+          <ScalarProperty Name="IsSAPUploaded" ColumnName="IsSAPUploaded" />
+          <ScalarProperty Name="SA_CompanyCode" ColumnName="SA_CompanyCode" />
+          <ScalarProperty Name="InvoiceFooterText2" ColumnName="InvoiceFooterText2" />
+          <ScalarProperty Name="BusinessRegNo" ColumnName="BusinessRegNo" />
+          <ScalarProperty Name="InvoiceFooterText1" ColumnName="InvoiceFooterText1" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="DefaultTaxRegNo" ColumnName="DefaultTaxRegNo" />
+          <ScalarProperty Name="DefaultTaxID" ColumnName="DefaultTaxID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="CompanyCode" ColumnName="CompanyCode" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Floor_Levels">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Floor_Levels)">
+        <MappingFragment StoreEntitySet="Floor_Levels">
+          <ScalarProperty Name="StdOrder" ColumnName="StdOrder" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="LevelCode" ColumnName="LevelCode" />
+          <ScalarProperty Name="LevelName" ColumnName="LevelName" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Shop)">
+        <MappingFragment StoreEntitySet="Shops">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ZoneID" ColumnName="ZoneID" />
+          <ScalarProperty Name="RentAreaTypeID" ColumnName="RentAreaTypeID" />
+          <ScalarProperty Name="IsBooth" ColumnName="IsBooth" />
+          <ScalarProperty Name="SqFeet" ColumnName="SqFeet" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contracts">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Contract)">
+        <MappingFragment StoreEntitySet="Contracts">
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="IsTaxCustomer" ColumnName="IsTaxCustomer" />
+          <ScalarProperty Name="IsTerminated" ColumnName="IsTerminated" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="Deposit" ColumnName="Deposit" />
+          <ScalarProperty Name="AgreementNo" ColumnName="AgreementNo" />
+          <ScalarProperty Name="AgreementSignDate" ColumnName="AgreementSignDate" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsRenew" ColumnName="IsRenew" />
+          <ScalarProperty Name="RenewDate" ColumnName="RenewDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer_Profiles">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.Customer_Profiles)">
+        <MappingFragment StoreEntitySet="Customer_Profiles">
+          <ScalarProperty Name="CustomerProfileID" ColumnName="CustomerProfileID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ElectricitiyProfileID" ColumnName="ElectricitiyProfileID" />
+          <ScalarProperty Name="WaterProfileID" ColumnName="WaterProfileID" />
+          <ScalarProperty Name="RentalRateID" ColumnName="RentalRateID" />
+          <ScalarProperty Name="IsVATActive" ColumnName="IsVATActive" />
+          <ScalarProperty Name="IsTaxActive" ColumnName="IsTaxActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Utility_Rates">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Utility_Rates">
+        <MappingFragment StoreEntitySet="Utility_Rates">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UtilityRateProfileName" ColumnName="UtilityRateProfileName" />
+          <ScalarProperty Name="LocatoinID" ColumnName="LocatoinID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="IsTaxApplied" ColumnName="IsTaxApplied" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="UnitRate" ColumnName="UnitRate" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UtlityRate_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.UtlityRate_Details">
+        <MappingFragment StoreEntitySet="UtlityRate_Details">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="TaxRateID" ColumnName="TaxRateID" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="UtilityRateDetailID" ColumnName="UtilityRateDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryOptions">
+      <EntityTypeMapping TypeName="AHPL_DBModel.DeliveryOption">
+        <MappingFragment StoreEntitySet="DeliveryOptions">
+          <ScalarProperty Name="DeliveryOptionName" ColumnName="DeliveryOptionName" />
+          <ScalarProperty Name="DeliveryOptionID" ColumnName="DeliveryOptionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ServiceCharges">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ServiceCharge">
+        <MappingFragment StoreEntitySet="ServiceCharges">
+          <ScalarProperty Name="ServiceCharge1" ColumnName="ServiceCharge" />
+          <ScalarProperty Name="RentalServiceChargeID" ColumnName="RentalServiceChargeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer_MailingOptions">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Customer_MailingOptions">
+        <MappingFragment StoreEntitySet="Customer_MailingOptions">
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="DeliveryOptionID" ColumnName="DeliveryOptionID" />
+          <ScalarProperty Name="TransactionCategoryID" ColumnName="TransactionCategoryID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="MailingOptionID" ColumnName="MailingOptionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ExtCustomer_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ExtCustomer_Details">
+        <MappingFragment StoreEntitySet="ExtCustomer_Details">
+          <ScalarProperty Name="OBReading" ColumnName="OBReading" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ExdCustomerDetailID" ColumnName="ExdCustomerDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Extended_Customers">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Extended_Customers">
+        <MappingFragment StoreEntitySet="Extended_Customers">
+          <ScalarProperty Name="GL_Code" ColumnName="GL_Code" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsTaxApplicable" ColumnName="IsTaxApplicable" />
+          <ScalarProperty Name="IsGLACCDefualt" ColumnName="IsGLACCDefualt" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="IsDefaultTaxDisplayInPrint" ColumnName="IsDefaultTaxDisplayInPrint" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="SAPAlternateCode" ColumnName="SAPAlternateCode" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contract_Rates">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Contract_Rates">
+        <MappingFragment StoreEntitySet="Contract_Rates">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="RentWIthSCPerSqFt" ColumnName="RentWIthSCPerSqFt" />
+          <ScalarProperty Name="PreviousContractRateID" ColumnName="PreviousContractRateID" />
+          <ScalarProperty Name="IsRenew" ColumnName="IsRenew" />
+          <ScalarProperty Name="ActiveTo" ColumnName="ActiveTo" />
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="RentWithSCPerMonth" ColumnName="RentWithSCPerMonth" />
+          <ScalarProperty Name="SCPerMonth" ColumnName="SCPerMonth" />
+          <ScalarProperty Name="RentPerMonth" ColumnName="RentPerMonth" />
+          <ScalarProperty Name="SCPerSqFt" ColumnName="SCPerSqFt" />
+          <ScalarProperty Name="RentPerSqFt" ColumnName="RentPerSqFt" />
+          <ScalarProperty Name="AreaInSqFt" ColumnName="AreaInSqFt" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="ContractRateID" ColumnName="ContractRateID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contract_Shops">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Contract_Shops">
+        <MappingFragment StoreEntitySet="Contract_Shops">
+          <ScalarProperty Name="AreaInSqFt" ColumnName="AreaInSqFt" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="ContractShopID" ColumnName="ContractShopID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OtherServiceCategories">
+      <EntityTypeMapping TypeName="AHPL_DBModel.OtherServiceCategory">
+        <MappingFragment StoreEntitySet="OtherServiceCategories">
+          <ScalarProperty Name="DocType" ColumnName="DocType" />
+          <ScalarProperty Name="InvoicePrefix" ColumnName="InvoicePrefix" />
+          <ScalarProperty Name="OtherServiceName" ColumnName="OtherServiceName" />
+          <ScalarProperty Name="OtherServiceID" ColumnName="OtherServiceID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Utilities">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Utility">
+        <MappingFragment StoreEntitySet="Utilities">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="DocType" ColumnName="DocType" />
+          <ScalarProperty Name="InvoiceFooterText" ColumnName="InvoiceFooterText" />
+          <ScalarProperty Name="InvoicePrefix" ColumnName="InvoicePrefix" />
+          <ScalarProperty Name="UtilityName" ColumnName="UtilityName" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Invoice_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Invoice_Details">
+        <MappingFragment StoreEntitySet="Invoice_Details">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="TaxRate" ColumnName="TaxRate" />
+          <ScalarProperty Name="TaxCode" ColumnName="TaxCode" />
+          <ScalarProperty Name="IsPrint" ColumnName="IsPrint" />
+          <ScalarProperty Name="ItemName" ColumnName="ItemName" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TaxRateID" ColumnName="TaxRateID" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+          <ScalarProperty Name="InvoiceDetailID" ColumnName="InvoiceDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Invoice_Types">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Invoice_Types">
+        <MappingFragment StoreEntitySet="Invoice_Types">
+          <ScalarProperty Name="DocType" ColumnName="DocType" />
+          <ScalarProperty Name="InvoiceTypeName" ColumnName="InvoiceTypeName" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Invoices">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Invoice">
+        <MappingFragment StoreEntitySet="Invoices">
+          <ScalarProperty Name="ProfomaSequenceNo" ColumnName="ProfomaSequenceNo" />
+          <ScalarProperty Name="ProfomaNo" ColumnName="ProfomaNo" />
+          <ScalarProperty Name="InvoiceState" ColumnName="InvoiceState" />
+          <ScalarProperty Name="IsProforma" ColumnName="IsProforma" />
+          <ScalarProperty Name="SCDiscount" ColumnName="SCDiscount" />
+          <ScalarProperty Name="RentalDiscount" ColumnName="RentalDiscount" />
+          <ScalarProperty Name="IsPeriodClosed" ColumnName="IsPeriodClosed" />
+          <ScalarProperty Name="IsRentVariance" ColumnName="IsRentVariance" />
+          <ScalarProperty Name="IsSCVariance" ColumnName="IsSCVariance" />
+          <ScalarProperty Name="Is_ISR" ColumnName="Is_ISR" />
+          <ScalarProperty Name="Is_R3" ColumnName="Is_R3" />
+          <ScalarProperty Name="OtherTaxCodes" ColumnName="OtherTaxCodes" />
+          <ScalarProperty Name="UtilityMeterName" ColumnName="UtilityMeterName" />
+          <ScalarProperty Name="LevelName" ColumnName="LevelName" />
+          <ScalarProperty Name="LocationCode" ColumnName="LocationCode" />
+          <ScalarProperty Name="CompanyCode" ColumnName="CompanyCode" />
+          <ScalarProperty Name="IsUtilityTaxApplicable" ColumnName="IsUtilityTaxApplicable" />
+          <ScalarProperty Name="FooterText1" ColumnName="FooterText1" />
+          <ScalarProperty Name="TotalNosUnitConsumed" ColumnName="TotalNosUnitConsumed" />
+          <ScalarProperty Name="M_NosUnitsConsumed" ColumnName="M_NosUnitsConsumed" />
+          <ScalarProperty Name="NosUnitsConsumed2" ColumnName="NosUnitsConsumed2" />
+          <ScalarProperty Name="NosUnitsConsumed1" ColumnName="NosUnitsConsumed1" />
+          <ScalarProperty Name="ShopUtilityReadingID" ColumnName="ShopUtilityReadingID" />
+          <ScalarProperty Name="SAPUploadErr" ColumnName="SAPUploadErr" />
+          <ScalarProperty Name="SAPUploadMsg" ColumnName="SAPUploadMsg" />
+          <ScalarProperty Name="UtilityName" ColumnName="UtilityName" />
+          <ScalarProperty Name="M_EndReading" ColumnName="M_EndReading" />
+          <ScalarProperty Name="M_StartReading" ColumnName="M_StartReading" />
+          <ScalarProperty Name="IsMaintenance" ColumnName="IsMaintenance" />
+          <ScalarProperty Name="IsTaxApplicable" ColumnName="IsTaxApplicable" />
+          <ScalarProperty Name="BatchUpdateLabel" ColumnName="BatchUpdateLabel" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="RefInvNo" ColumnName="RefInvNo" />
+          <ScalarProperty Name="SAP_GLACC" ColumnName="SAP_GLACC" />
+          <ScalarProperty Name="SAP_PostingKey" ColumnName="SAP_PostingKey" />
+          <ScalarProperty Name="SAP_Assignment" ColumnName="SAP_Assignment" />
+          <ScalarProperty Name="Is_SAPUploaded" ColumnName="Is_SAPUploaded" />
+          <ScalarProperty Name="SAP_RefKey3" ColumnName="SAP_RefKey3" />
+          <ScalarProperty Name="SAP_RefKey2" ColumnName="SAP_RefKey2" />
+          <ScalarProperty Name="SAP_RefKey1" ColumnName="SAP_RefKey1" />
+          <ScalarProperty Name="SAP_Text" ColumnName="SAP_Text" />
+          <ScalarProperty Name="SAP_DocType" ColumnName="SAP_DocType" />
+          <ScalarProperty Name="SAP_DocHeaderText" ColumnName="SAP_DocHeaderText" />
+          <ScalarProperty Name="SAP_PstnDateInDoc" ColumnName="SAP_PstnDateInDoc" />
+          <ScalarProperty Name="SAP_CompanyCode" ColumnName="SAP_CompanyCode" />
+          <ScalarProperty Name="ContractName" ColumnName="ContractName" />
+          <ScalarProperty Name="CustomerAddress2" ColumnName="CustomerAddress2" />
+          <ScalarProperty Name="CustomerAddress" ColumnName="CustomerAddress" />
+          <ScalarProperty Name="OtherTax" ColumnName="OtherTax" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="OtherServiceID" ColumnName="OtherServiceID" />
+          <ScalarProperty Name="MandatoryTaxCode" ColumnName="MandatoryTaxCode" />
+          <ScalarProperty Name="TotalAmtWithTaxExcludedMandatoryTax" ColumnName="TotalAmtWithTaxExcludedMandatoryTax" />
+          <ScalarProperty Name="TotalWithMandatoryTax" ColumnName="TotalWithMandatoryTax" />
+          <ScalarProperty Name="MandatoryTaxAmount" ColumnName="MandatoryTaxAmount" />
+          <ScalarProperty Name="MandatoryTaxRateID" ColumnName="MandatoryTaxRateID" />
+          <ScalarProperty Name="MandatoryTaxID" ColumnName="MandatoryTaxID" />
+          <ScalarProperty Name="NosDay" ColumnName="NosDay" />
+          <ScalarProperty Name="IsPerDay" ColumnName="IsPerDay" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="IsModified" ColumnName="IsModified" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="TotalRentPerMonth" ColumnName="TotalRentPerMonth" />
+          <ScalarProperty Name="RentWithSCPerMonth" ColumnName="RentWithSCPerMonth" />
+          <ScalarProperty Name="RentWIthSCPerSqFt" ColumnName="RentWIthSCPerSqFt" />
+          <ScalarProperty Name="SCPerMonth" ColumnName="SCPerMonth" />
+          <ScalarProperty Name="RentPerMonth" ColumnName="RentPerMonth" />
+          <ScalarProperty Name="SCPerSqFt" ColumnName="SCPerSqFt" />
+          <ScalarProperty Name="RentPerSqFt" ColumnName="RentPerSqFt" />
+          <ScalarProperty Name="AreaInSqFt" ColumnName="AreaInSqFt" />
+          <ScalarProperty Name="Ratio" ColumnName="Ratio" />
+          <ScalarProperty Name="TaxRegNo" ColumnName="TaxRegNo" />
+          <ScalarProperty Name="IsTaxCustomer" ColumnName="IsTaxCustomer" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="IsInvoiced" ColumnName="IsInvoiced" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="Naration" ColumnName="Naration" />
+          <ScalarProperty Name="SubInvTypeID" ColumnName="SubInvTypeID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="UtilityUnitRate" ColumnName="UtilityUnitRate" />
+          <ScalarProperty Name="EndReading2" ColumnName="EndReading2" />
+          <ScalarProperty Name="StartReading2" ColumnName="StartReading2" />
+          <ScalarProperty Name="Reset" ColumnName="Reset" />
+          <ScalarProperty Name="EndReading" ColumnName="EndReading" />
+          <ScalarProperty Name="StartReading" ColumnName="StartReading" />
+          <ScalarProperty Name="IsConfirmed" ColumnName="IsConfirmed" />
+          <ScalarProperty Name="ProcessMonth" ColumnName="ProcessMonth" />
+          <ScalarProperty Name="ProcessYear" ColumnName="ProcessYear" />
+          <ScalarProperty Name="IsProcessed" ColumnName="IsProcessed" />
+          <ScalarProperty Name="SequenceNo" ColumnName="SequenceNo" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+          <ScalarProperty Name="TotalTax" ColumnName="TotalTax" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+          <ScalarProperty Name="DateTo" ColumnName="DateTo" />
+          <ScalarProperty Name="DateFrom" ColumnName="DateFrom" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="InvoiceDate" ColumnName="InvoiceDate" />
+          <ScalarProperty Name="ContractRateID" ColumnName="ContractRateID" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="InvoiceNo" ColumnName="InvoiceNo" />
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Months">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Month">
+        <MappingFragment StoreEntitySet="Months">
+          <ScalarProperty Name="MonthName" ColumnName="MonthName" />
+          <ScalarProperty Name="MonthCode" ColumnName="MonthCode" />
+          <ScalarProperty Name="MonthID" ColumnName="MonthID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Invoice_Cycles">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Invoice_Cycles">
+        <MappingFragment StoreEntitySet="Invoice_Cycles">
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="ToDay" ColumnName="ToDay" />
+          <ScalarProperty Name="FromDay" ColumnName="FromDay" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+          <ScalarProperty Name="InvCycID" ColumnName="InvCycID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ratios">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Ratio">
+        <MappingFragment StoreEntitySet="Ratios">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="RatioCode" ColumnName="RatioCode" />
+          <ScalarProperty Name="RatioNo" ColumnName="RatioNo" />
+          <ScalarProperty Name="RatioID" ColumnName="RatioID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Company_Taxes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Company_Taxes">
+        <MappingFragment StoreEntitySet="Company_Taxes">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="TaxRegNo" ColumnName="TaxRegNo" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="CompanyTaxRegID" ColumnName="CompanyTaxRegID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customer_Taxes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Customer_Taxes">
+        <MappingFragment StoreEntitySet="Customer_Taxes">
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="TaxRegNo" ColumnName="TaxRegNo" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerTaxRegID" ColumnName="CustomerTaxRegID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sub_Invoice_Types">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Sub_Invoice_Types">
+        <MappingFragment StoreEntitySet="Sub_Invoice_Types">
+          <ScalarProperty Name="GLLineItem" ColumnName="GLLineItem" />
+          <ScalarProperty Name="CustomerLineItem" ColumnName="CustomerLineItem" />
+          <ScalarProperty Name="StdOrder" ColumnName="StdOrder" />
+          <ScalarProperty Name="SubInvTypeName" ColumnName="SubInvTypeName" />
+          <ScalarProperty Name="SubInvTypeID" ColumnName="SubInvTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RentTax_Profiles">
+      <EntityTypeMapping TypeName="AHPL_DBModel.RentTax_Profiles">
+        <MappingFragment StoreEntitySet="RentTax_Profiles">
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="RentProfileName" ColumnName="RentProfileName" />
+          <ScalarProperty Name="RentTaxProfileID" ColumnName="RentTaxProfileID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RentTaxProfile_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.RentTaxProfile_Details">
+        <MappingFragment StoreEntitySet="RentTaxProfile_Details">
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="RentTaxProfileID" ColumnName="RentTaxProfileID" />
+          <ScalarProperty Name="RentTaxProfileDetailID" ColumnName="RentTaxProfileDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Locations">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Location">
+        <MappingFragment StoreEntitySet="Locations">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="TotalFloorArea" ColumnName="TotalFloorArea" />
+          <ScalarProperty Name="SCperSqFt" ColumnName="SCperSqFt" />
+          <ScalarProperty Name="InvoicePrefix" ColumnName="InvoicePrefix" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="LocationCode" ColumnName="LocationCode" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="LocationName" ColumnName="LocationName" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rent_Area_Types">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Rent_Area_Types">
+        <MappingFragment StoreEntitySet="Rent_Area_Types">
+          <ScalarProperty Name="IsAdvertisement" ColumnName="IsAdvertisement" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsSqFeetApply" ColumnName="IsSqFeetApply" />
+          <ScalarProperty Name="RentAreaTypeName" ColumnName="RentAreaTypeName" />
+          <ScalarProperty Name="RentAreaTypeID" ColumnName="RentAreaTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Zones">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Zone">
+        <MappingFragment StoreEntitySet="Zones">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="ZoneName" ColumnName="ZoneName" />
+          <ScalarProperty Name="ZoneID" ColumnName="ZoneID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contract_Closure_Items">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Contract_Closure_Items">
+        <MappingFragment StoreEntitySet="Contract_Closure_Items">
+          <ScalarProperty Name="IsMapped" ColumnName="IsMapped" />
+          <ScalarProperty Name="ClosureMappingItemID" ColumnName="ClosureMappingItemID" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="ContractClosreItemName" ColumnName="ContractClosreItemName" />
+          <ScalarProperty Name="ContractClosureItemID" ColumnName="ContractClosureItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContractClosureTemplate_Details">
+      <EntityTypeMapping TypeName="IsTypeOf(AHPL_DBModel.ContractClosureTemplate_Details)">
+        <MappingFragment StoreEntitySet="ContractClosureTemplate_Details">
+          <ScalarProperty Name="ContractClosureTempDetailID" ColumnName="ContractClosureTempDetailID" />
+          <ScalarProperty Name="ContractClosureTempID" ColumnName="ContractClosureTempID" />
+          <ScalarProperty Name="ContractClosureItemID" ColumnName="ContractClosureItemID" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Conract_Closure_Sub_Templates">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Conract_Closure_Sub_Templates">
+        <MappingFragment StoreEntitySet="Conract_Closure_Sub_Templates">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Signature2" ColumnName="Signature2" />
+          <ScalarProperty Name="Signature1" ColumnName="Signature1" />
+          <ScalarProperty Name="PageNo" ColumnName="PageNo" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="TemplateName" ColumnName="TemplateName" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ContractClosureTempID" ColumnName="ContractClosureTempID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContractClosures">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ContractClosure">
+        <MappingFragment StoreEntitySet="ContractClosures">
+          <ScalarProperty Name="PromotionCnt" ColumnName="PromotionCnt" />
+          <ScalarProperty Name="IsPoAdvertisement" ColumnName="IsPoAdvertisement" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsReleasedToAccounts" ColumnName="IsReleasedToAccounts" />
+          <ScalarProperty Name="Naration" ColumnName="Naration" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="RefNo" ColumnName="RefNo" />
+          <ScalarProperty Name="IsNew" ColumnName="IsNew" />
+          <ScalarProperty Name="IsExtention" ColumnName="IsExtention" />
+          <ScalarProperty Name="IsRenew" ColumnName="IsRenew" />
+          <ScalarProperty Name="Signature2" ColumnName="Signature2" />
+          <ScalarProperty Name="TerminatedDate" ColumnName="TerminatedDate" />
+          <ScalarProperty Name="Signature1" ColumnName="Signature1" />
+          <ScalarProperty Name="CustomerAddress" ColumnName="CustomerAddress" />
+          <ScalarProperty Name="IsTerminated" ColumnName="IsTerminated" />
+          <ScalarProperty Name="IsReleased" ColumnName="IsReleased" />
+          <ScalarProperty Name="PoRentTypeID" ColumnName="PoRentTypeID" />
+          <ScalarProperty Name="IsPromotion" ColumnName="IsPromotion" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="GlobalCustomerID" ColumnName="GlobalCustomerID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="AgreementSignDate" ColumnName="AgreementSignDate" />
+          <ScalarProperty Name="AgreementNo" ColumnName="AgreementNo" />
+          <ScalarProperty Name="ContractPeriod" ColumnName="ContractPeriod" />
+          <ScalarProperty Name="Deposit" ColumnName="Deposit" />
+          <ScalarProperty Name="FloorArea" ColumnName="FloorArea" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="IsCancelled" ColumnName="IsCancelled" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="IsProcessed" ColumnName="IsProcessed" />
+          <ScalarProperty Name="ContractClosureTempID" ColumnName="ContractClosureTempID" />
+          <ScalarProperty Name="ContractClosureName" ColumnName="ContractClosureName" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContractClosure_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ContractClosure_Details">
+        <MappingFragment StoreEntitySet="ContractClosure_Details">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="PrintNumber" ColumnName="PrintNumber" />
+          <ScalarProperty Name="ClosureMappingID" ColumnName="ClosureMappingID" />
+          <ScalarProperty Name="ContentValue" ColumnName="ContentValue" />
+          <ScalarProperty Name="IsSelected" ColumnName="IsSelected" />
+          <ScalarProperty Name="Contents" ColumnName="Contents" />
+          <ScalarProperty Name="ContractClosureItemID" ColumnName="ContractClosureItemID" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="ContractClosureDetailID" ColumnName="ContractClosureDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClosureMappingItems">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ClosureMappingItem">
+        <MappingFragment StoreEntitySet="ClosureMappingItems">
+          <ScalarProperty Name="IsValueType" ColumnName="IsValueType" />
+          <ScalarProperty Name="ClosureMappingItemName" ColumnName="ClosureMappingItemName" />
+          <ScalarProperty Name="ClosureMappingItemID" ColumnName="ClosureMappingItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contract_RentSchemes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Contract_RentSchemes">
+        <MappingFragment StoreEntitySet="Contract_RentSchemes">
+          <ScalarProperty Name="IncreasedSC" ColumnName="IncreasedSC" />
+          <ScalarProperty Name="IncreasedRent" ColumnName="IncreasedRent" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="LastModifiedDate" ColumnName="LastModifiedDate" />
+          <ScalarProperty Name="BaseRent" ColumnName="BaseRent" />
+          <ScalarProperty Name="SCPerSqFeet" ColumnName="SCPerSqFeet" />
+          <ScalarProperty Name="RentPerSqFeet" ColumnName="RentPerSqFeet" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops_UtilityReadings">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Shops_UtilityReadings">
+        <MappingFragment StoreEntitySet="Shops_UtilityReadings">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="MeterName" ColumnName="MeterName" />
+          <ScalarProperty Name="RatioID" ColumnName="RatioID" />
+          <ScalarProperty Name="IsRatioApplied" ColumnName="IsRatioApplied" />
+          <ScalarProperty Name="LastReadingDate" ColumnName="LastReadingDate" />
+          <ScalarProperty Name="LastReading" ColumnName="LastReading" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopUtilityReadingID" ColumnName="ShopUtilityReadingID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addendums">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Addendum">
+        <MappingFragment StoreEntitySet="Addendums">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="AddendumDate" ColumnName="AddendumDate" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="AddendumName" ColumnName="AddendumName" />
+          <ScalarProperty Name="AddendumID" ColumnName="AddendumID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Promotion_RentTypes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Promotion_RentTypes">
+        <MappingFragment StoreEntitySet="Promotion_RentTypes">
+          <ScalarProperty Name="RentTypeName" ColumnName="RentTypeName" />
+          <ScalarProperty Name="PoRentTypeID" ColumnName="PoRentTypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SAP_Uploads">
+      <EntityTypeMapping TypeName="AHPL_DBModel.SAP_Uploads">
+        <MappingFragment StoreEntitySet="SAP_Uploads">
+          <ScalarProperty Name="UploadedDate" ColumnName="UploadedDate" />
+          <ScalarProperty Name="IsSAPUploaded" ColumnName="IsSAPUploaded" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="RefKey3" ColumnName="RefKey3" />
+          <ScalarProperty Name="RefKey2" ColumnName="RefKey2" />
+          <ScalarProperty Name="RefKey1" ColumnName="RefKey1" />
+          <ScalarProperty Name="ProfitCenter" ColumnName="ProfitCenter" />
+          <ScalarProperty Name="InternalOrder" ColumnName="InternalOrder" />
+          <ScalarProperty Name="CostCenter" ColumnName="CostCenter" />
+          <ScalarProperty Name="BusinessArea" ColumnName="BusinessArea" />
+          <ScalarProperty Name="Text" ColumnName="Text" />
+          <ScalarProperty Name="Assignment" ColumnName="Assignment" />
+          <ScalarProperty Name="AmtInLocCur" ColumnName="AmtInLocCur" />
+          <ScalarProperty Name="AmtInDocCur" ColumnName="AmtInDocCur" />
+          <ScalarProperty Name="CustomerCode_GLAccount" ColumnName="CustomerCode_GLAccount" />
+          <ScalarProperty Name="PostingKey" ColumnName="PostingKey" />
+          <ScalarProperty Name="TransltDate" ColumnName="TransltDate" />
+          <ScalarProperty Name="ExchRate" ColumnName="ExchRate" />
+          <ScalarProperty Name="DocType" ColumnName="DocType" />
+          <ScalarProperty Name="DocHeaderText" ColumnName="DocHeaderText" />
+          <ScalarProperty Name="RefDocNo" ColumnName="RefDocNo" />
+          <ScalarProperty Name="PostingDate" ColumnName="PostingDate" />
+          <ScalarProperty Name="DocDate" ColumnName="DocDate" />
+          <ScalarProperty Name="CurrKey" ColumnName="CurrKey" />
+          <ScalarProperty Name="CompanyCode" ColumnName="CompanyCode" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="BussAct" ColumnName="BussAct" />
+          <ScalarProperty Name="InvDetID" ColumnName="InvDetID" />
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SAP_DocTypes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.SAP_DocTypes">
+        <MappingFragment StoreEntitySet="SAP_DocTypes">
+          <ScalarProperty Name="COST_CENTER" ColumnName="COST_CENTER" />
+          <ScalarProperty Name="PROFIT_CENTER" ColumnName="PROFIT_CENTER" />
+          <ScalarProperty Name="InvoiceTypeCategory" ColumnName="InvoiceTypeCategory" />
+          <ScalarProperty Name="InvoicePrefix" ColumnName="InvoicePrefix" />
+          <ScalarProperty Name="GL_CODE" ColumnName="GL_CODE" />
+          <ScalarProperty Name="InvoiceType" ColumnName="InvoiceType" />
+          <ScalarProperty Name="DOCTYPE" ColumnName="DOCTYPE" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+          <ScalarProperty Name="DocID" ColumnName="DocID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SAP_LineItems">
+      <EntityTypeMapping TypeName="AHPL_DBModel.SAP_LineItems">
+        <MappingFragment StoreEntitySet="SAP_LineItems">
+          <ScalarProperty Name="StdOrder" ColumnName="StdOrder" />
+          <ScalarProperty Name="SubInvType" ColumnName="SubInvType" />
+          <ScalarProperty Name="GL_LineItem" ColumnName="GL_LineItem" />
+          <ScalarProperty Name="Customer_LineItem" ColumnName="Customer_LineItem" />
+          <ScalarProperty Name="SubInvTypeID" ColumnName="SubInvTypeID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SAP_TAXGLCODES">
+      <EntityTypeMapping TypeName="AHPL_DBModel.SAP_TAXGLCODES">
+        <MappingFragment StoreEntitySet="SAP_TAXGLCODES">
+          <ScalarProperty Name="TaxCode" ColumnName="TaxCode" />
+          <ScalarProperty Name="SAP_GLCode" ColumnName="SAP_GLCode" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_Forms">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_Forms">
+        <MappingFragment StoreEntitySet="Permission_Forms">
+          <ScalarProperty Name="MenuName" ColumnName="MenuName" />
+          <ScalarProperty Name="SubModuleOrderID" ColumnName="SubModuleOrderID" />
+          <ScalarProperty Name="ModuleOrderID" ColumnName="ModuleOrderID" />
+          <ScalarProperty Name="SubModuleName" ColumnName="SubModuleName" />
+          <ScalarProperty Name="InternalFormName" ColumnName="InternalFormName" />
+          <ScalarProperty Name="ModuleName" ColumnName="ModuleName" />
+          <ScalarProperty Name="FormDescriotion" ColumnName="FormDescriotion" />
+          <ScalarProperty Name="FormID" ColumnName="FormID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_Roles">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_Roles">
+        <MappingFragment StoreEntitySet="Permission_Roles">
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_UserForms">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_UserForms">
+        <MappingFragment StoreEntitySet="Permission_UserForms">
+          <ScalarProperty Name="SubModuleOrderID" ColumnName="SubModuleOrderID" />
+          <ScalarProperty Name="ModuleOrderID" ColumnName="ModuleOrderID" />
+          <ScalarProperty Name="ModuleName" ColumnName="ModuleName" />
+          <ScalarProperty Name="SubModuleName" ColumnName="SubModuleName" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="D" ColumnName="D" />
+          <ScalarProperty Name="U" ColumnName="U" />
+          <ScalarProperty Name="R" ColumnName="R" />
+          <ScalarProperty Name="C" ColumnName="C" />
+          <ScalarProperty Name="FormID" ColumnName="FormID" />
+          <ScalarProperty Name="UserFormID" ColumnName="UserFormID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_Users">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_Users">
+        <MappingFragment StoreEntitySet="Permission_Users">
+          <ScalarProperty Name="default_asignee" ColumnName="default_asignee" />
+          <ScalarProperty Name="signature" ColumnName="signature" />
+          <ScalarProperty Name="ISR_Password" ColumnName="ISR_Password" />
+          <ScalarProperty Name="ISR_UserName" ColumnName="ISR_UserName" />
+          <ScalarProperty Name="R3_Password" ColumnName="R3_Password" />
+          <ScalarProperty Name="R3_UserName" ColumnName="R3_UserName" />
+          <ScalarProperty Name="Email2" ColumnName="Email2" />
+          <ScalarProperty Name="Email1" ColumnName="Email1" />
+          <ScalarProperty Name="IsUserHead" ColumnName="IsUserHead" />
+          <ScalarProperty Name="UserGroupID" ColumnName="UserGroupID" />
+          <ScalarProperty Name="DNSUserName" ColumnName="DNSUserName" />
+          <ScalarProperty Name="DiscontinuedDate" ColumnName="DiscontinuedDate" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addendum_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Addendum_Details">
+        <MappingFragment StoreEntitySet="Addendum_Details">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ToDateN" ColumnName="ToDateN" />
+          <ScalarProperty Name="ToDateO" ColumnName="ToDateO" />
+          <ScalarProperty Name="FromDateN" ColumnName="FromDateN" />
+          <ScalarProperty Name="FromDateO" ColumnName="FromDateO" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="SCperSqFeetN" ColumnName="SCperSqFeetN" />
+          <ScalarProperty Name="SCperSqFeetO" ColumnName="SCperSqFeetO" />
+          <ScalarProperty Name="RentperSqFeetN" ColumnName="RentperSqFeetN" />
+          <ScalarProperty Name="RentperSqFeetO" ColumnName="RentperSqFeetO" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+          <ScalarProperty Name="AddendumID" ColumnName="AddendumID" />
+          <ScalarProperty Name="AddendumDetID" ColumnName="AddendumDetID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ExtendedCustomer_GLCodes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ExtendedCustomer_GLCodes">
+        <MappingFragment StoreEntitySet="ExtendedCustomer_GLCodes">
+          <ScalarProperty Name="GL_CODE" ColumnName="GL_CODE" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ExtendedCustomerGLCodeDetailID" ColumnName="ExtendedCustomerGLCodeDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_UserGroups">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_UserGroups">
+        <MappingFragment StoreEntitySet="Permission_UserGroups">
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UserGroupName" ColumnName="UserGroupName" />
+          <ScalarProperty Name="UserGroupID" ColumnName="UserGroupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailAlertItems">
+      <EntityTypeMapping TypeName="AHPL_DBModel.EmailAlertItem">
+        <MappingFragment StoreEntitySet="EmailAlertItems">
+          <ScalarProperty Name="IsEnabled" ColumnName="IsEnabled" />
+          <ScalarProperty Name="StdOrder" ColumnName="StdOrder" />
+          <ScalarProperty Name="IsInstant" ColumnName="IsInstant" />
+          <ScalarProperty Name="AlertCycle" ColumnName="AlertCycle" />
+          <ScalarProperty Name="EmailArertItemName" ColumnName="EmailArertItemName" />
+          <ScalarProperty Name="EmailAlertItemID" ColumnName="EmailAlertItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Envelopes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Envelope">
+        <MappingFragment StoreEntitySet="Envelopes">
+          <ScalarProperty Name="CompanyAddress" ColumnName="CompanyAddress" />
+          <ScalarProperty Name="CustomerCompanyName" ColumnName="CustomerCompanyName" />
+          <ScalarProperty Name="LocationCode" ColumnName="LocationCode" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="DeliveryOptionName" ColumnName="DeliveryOptionName" />
+          <ScalarProperty Name="LevelName" ColumnName="LevelName" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+          <ScalarProperty Name="IsPrint" ColumnName="IsPrint" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="DeliveryOptionID" ColumnName="DeliveryOptionID" />
+          <ScalarProperty Name="PostalAddress" ColumnName="PostalAddress" />
+          <ScalarProperty Name="Adressee" ColumnName="Adressee" />
+          <ScalarProperty Name="GlobalCustomerID" ColumnName="GlobalCustomerID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="EnvelopeID" ColumnName="EnvelopeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailConfigurations">
+      <EntityTypeMapping TypeName="AHPL_DBModel.EmailConfiguration">
+        <MappingFragment StoreEntitySet="EmailConfiguration">
+          <ScalarProperty Name="SmtpPassword" ColumnName="SmtpPassword" />
+          <ScalarProperty Name="EncKey" ColumnName="EncKey" />
+          <ScalarProperty Name="MailUser" ColumnName="MailUser" />
+          <ScalarProperty Name="StartServiceApp" ColumnName="StartServiceApp" />
+          <ScalarProperty Name="PorNo" ColumnName="PorNo" />
+          <ScalarProperty Name="ClientHost" ColumnName="ClientHost" />
+          <ScalarProperty Name="FromEmail" ColumnName="FromEmail" />
+          <ScalarProperty Name="EmailConfigID" ColumnName="EmailConfigID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserLocations">
+      <EntityTypeMapping TypeName="AHPL_DBModel.UserLocation">
+        <MappingFragment StoreEntitySet="UserLocations">
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+          <ScalarProperty Name="IsHead" ColumnName="IsHead" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserLocationID" ColumnName="UserLocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailsToBeSents">
+      <EntityTypeMapping TypeName="AHPL_DBModel.EmailsToBeSent">
+        <MappingFragment StoreEntitySet="EmailsToBeSent">
+          <ScalarProperty Name="AlertSequence" ColumnName="AlertSequence" />
+          <ScalarProperty Name="ScheduledDateToSend" ColumnName="ScheduledDateToSend" />
+          <ScalarProperty Name="EmailAlertItemID" ColumnName="EmailAlertItemID" />
+          <ScalarProperty Name="ContractClauseID" ColumnName="ContractClauseID" />
+          <ScalarProperty Name="Selected" ColumnName="Selected" />
+          <ScalarProperty Name="IsMonthly" ColumnName="IsMonthly" />
+          <ScalarProperty Name="IsHourly" ColumnName="IsHourly" />
+          <ScalarProperty Name="EmailSentDate" ColumnName="EmailSentDate" />
+          <ScalarProperty Name="IsEmailSent" ColumnName="IsEmailSent" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Attachment" ColumnName="Attachment" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="EmailTobeSendID" ColumnName="EmailTobeSendID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailAlertRoles">
+      <EntityTypeMapping TypeName="AHPL_DBModel.EmailAlertRole">
+        <MappingFragment StoreEntitySet="EmailAlertRoles">
+          <ScalarProperty Name="IsEnabled" ColumnName="IsEnabled" />
+          <ScalarProperty Name="EmailAlertItemID" ColumnName="EmailAlertItemID" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="EmailAlertRoleID" ColumnName="EmailAlertRoleID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailSentItems">
+      <EntityTypeMapping TypeName="AHPL_DBModel.EmailSentItem">
+        <MappingFragment StoreEntitySet="EmailSentItems">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EmailToBeSendID" ColumnName="EmailToBeSendID" />
+          <ScalarProperty Name="EmailSentItemID" ColumnName="EmailSentItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Financial_Years">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Financial_Years">
+        <MappingFragment StoreEntitySet="Financial_Years">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="Financial_Year" ColumnName="Financial_Year" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="FinancialYearID" ColumnName="FinancialYearID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shop_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Shop_Details">
+        <MappingFragment StoreEntitySet="Shop_Details">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ActiveTo" ColumnName="ActiveTo" />
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="SqFeet" ColumnName="SqFeet" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopDetailID" ColumnName="ShopDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Location_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Location_Details">
+        <MappingFragment StoreEntitySet="Location_Details">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ActiveTo" ColumnName="ActiveTo" />
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="SqFeet" ColumnName="SqFeet" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="LocationDetailID" ColumnName="LocationDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FinancialYear_Details">
+      <EntityTypeMapping TypeName="AHPL_DBModel.FinancialYear_Details">
+        <MappingFragment StoreEntitySet="FinancialYear_Details">
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="CurrentYear" ColumnName="CurrentYear" />
+          <ScalarProperty Name="MonthID" ColumnName="MonthID" />
+          <ScalarProperty Name="FinancialYearID" ColumnName="FinancialYearID" />
+          <ScalarProperty Name="FinancialYearDetailID" ColumnName="FinancialYearDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addendum_Details_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Addendum_Details_Audit">
+        <MappingFragment StoreEntitySet="Addendum_Details_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ToDateN" ColumnName="ToDateN" />
+          <ScalarProperty Name="ToDateO" ColumnName="ToDateO" />
+          <ScalarProperty Name="FromDateN" ColumnName="FromDateN" />
+          <ScalarProperty Name="FromDateO" ColumnName="FromDateO" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="SCperSqFeetN" ColumnName="SCperSqFeetN" />
+          <ScalarProperty Name="SCperSqFeetO" ColumnName="SCperSqFeetO" />
+          <ScalarProperty Name="RentperSqFeetN" ColumnName="RentperSqFeetN" />
+          <ScalarProperty Name="RentperSqFeetO" ColumnName="RentperSqFeetO" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+          <ScalarProperty Name="AddendumID" ColumnName="AddendumID" />
+          <ScalarProperty Name="AddendumDetID" ColumnName="AddendumDetID" />
+          <ScalarProperty Name="AddendumDetIDAudit" ColumnName="AddendumDetIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addendums_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Addendums_Audit">
+        <MappingFragment StoreEntitySet="Addendums_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Remarks" ColumnName="Remarks" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="AddendumName" ColumnName="AddendumName" />
+          <ScalarProperty Name="AddendumDate" ColumnName="AddendumDate" />
+          <ScalarProperty Name="AddendumID" ColumnName="AddendumID" />
+          <ScalarProperty Name="AddendumIDAudit" ColumnName="AddendumIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContractClosures_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.ContractClosures_Audit">
+        <MappingFragment StoreEntitySet="ContractClosures_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="TerminatedDate" ColumnName="TerminatedDate" />
+          <ScalarProperty Name="IsTerminated" ColumnName="IsTerminated" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="RefNo" ColumnName="RefNo" />
+          <ScalarProperty Name="IsNew" ColumnName="IsNew" />
+          <ScalarProperty Name="IsExtention" ColumnName="IsExtention" />
+          <ScalarProperty Name="IsRenew" ColumnName="IsRenew" />
+          <ScalarProperty Name="Signature2" ColumnName="Signature2" />
+          <ScalarProperty Name="Signature1" ColumnName="Signature1" />
+          <ScalarProperty Name="CustomerAddress" ColumnName="CustomerAddress" />
+          <ScalarProperty Name="PoRentTypeID" ColumnName="PoRentTypeID" />
+          <ScalarProperty Name="IsPromotion" ColumnName="IsPromotion" />
+          <ScalarProperty Name="Naration" ColumnName="Naration" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="GlobalCustomerID" ColumnName="GlobalCustomerID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="AgreementSignDate" ColumnName="AgreementSignDate" />
+          <ScalarProperty Name="AgreementNo" ColumnName="AgreementNo" />
+          <ScalarProperty Name="LastModDate" ColumnName="LastModDate" />
+          <ScalarProperty Name="ContractPeriod" ColumnName="ContractPeriod" />
+          <ScalarProperty Name="Deposit" ColumnName="Deposit" />
+          <ScalarProperty Name="FloorArea" ColumnName="FloorArea" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="IsCancelled" ColumnName="IsCancelled" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="IsReleasedToAccounts" ColumnName="IsReleasedToAccounts" />
+          <ScalarProperty Name="IsReleased" ColumnName="IsReleased" />
+          <ScalarProperty Name="IsProcessed" ColumnName="IsProcessed" />
+          <ScalarProperty Name="ContractClosureTempID" ColumnName="ContractClosureTempID" />
+          <ScalarProperty Name="ContractClosureName" ColumnName="ContractClosureName" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="ContractClosureIDAudit" ColumnName="ContractClosureIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Global_Customers_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Global_Customers_Audit">
+        <MappingFragment StoreEntitySet="Global_Customers_Audit">
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="IsTaxCustomer" ColumnName="IsTaxCustomer" />
+          <ScalarProperty Name="DiscontinuedDate" ColumnName="DiscontinuedDate" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="KnownAs" ColumnName="KnownAs" />
+          <ScalarProperty Name="AlternateEmail" ColumnName="AlternateEmail" />
+          <ScalarProperty Name="DefaultTaxID" ColumnName="DefaultTaxID" />
+          <ScalarProperty Name="DefaultTaxRegNo" ColumnName="DefaultTaxRegNo" />
+          <ScalarProperty Name="SAPCustomerCode" ColumnName="SAPCustomerCode" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="AuthShareCaptial" ColumnName="AuthShareCaptial" />
+          <ScalarProperty Name="PaidUpShareCapital" ColumnName="PaidUpShareCapital" />
+          <ScalarProperty Name="NameOfPrinciple" ColumnName="NameOfPrinciple" />
+          <ScalarProperty Name="YearOfInc" ColumnName="YearOfInc" />
+          <ScalarProperty Name="MajShareName" ColumnName="MajShareName" />
+          <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="FaxNos" ColumnName="FaxNos" />
+          <ScalarProperty Name="TelNos" ColumnName="TelNos" />
+          <ScalarProperty Name="CompanyAddress" ColumnName="CompanyAddress" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerIDAudit" ColumnName="CustomerIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MisReportItems">
+      <EntityTypeMapping TypeName="AHPL_DBModel.MisReportItem">
+        <MappingFragment StoreEntitySet="MisReportItems">
+          <ScalarProperty Name="ExceptionItem" ColumnName="ExceptionItem" />
+          <ScalarProperty Name="SortOrder" ColumnName="SortOrder" />
+          <ScalarProperty Name="ReportItemName" ColumnName="ReportItemName" />
+          <ScalarProperty Name="ReportItemID" ColumnName="ReportItemID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Shops_Audit">
+        <MappingFragment StoreEntitySet="Shops_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="ZoneID" ColumnName="ZoneID" />
+          <ScalarProperty Name="RentAreaTypeID" ColumnName="RentAreaTypeID" />
+          <ScalarProperty Name="IsBooth" ColumnName="IsBooth" />
+          <ScalarProperty Name="SqFeet" ColumnName="SqFeet" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopIDAudit" ColumnName="ShopIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shops_UtilityReadings_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Shops_UtilityReadings_Audit">
+        <MappingFragment StoreEntitySet="Shops_UtilityReadings_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="MeterName" ColumnName="MeterName" />
+          <ScalarProperty Name="RatioID" ColumnName="RatioID" />
+          <ScalarProperty Name="IsRatioApplied" ColumnName="IsRatioApplied" />
+          <ScalarProperty Name="LastReadingDate" ColumnName="LastReadingDate" />
+          <ScalarProperty Name="LastReading" ColumnName="LastReading" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="ShopUtilityReadingID" ColumnName="ShopUtilityReadingID" />
+          <ScalarProperty Name="ShopUtilityReadingIDAudit" ColumnName="ShopUtilityReadingIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Utility_Rates_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Utility_Rates_Audit">
+        <MappingFragment StoreEntitySet="Utility_Rates_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UtilityRateProfileName" ColumnName="UtilityRateProfileName" />
+          <ScalarProperty Name="LocatoinID" ColumnName="LocatoinID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="IsTaxApplied" ColumnName="IsTaxApplied" />
+          <ScalarProperty Name="UnitRate" ColumnName="UnitRate" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="UtilityRateIDAudit" ColumnName="UtilityRateIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Conract_Closure_Sub_Templates_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Conract_Closure_Sub_Templates_Audit">
+        <MappingFragment StoreEntitySet="Conract_Closure_Sub_Templates_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Signature2" ColumnName="Signature2" />
+          <ScalarProperty Name="Signature1" ColumnName="Signature1" />
+          <ScalarProperty Name="PageNo" ColumnName="PageNo" />
+          <ScalarProperty Name="PageTitle" ColumnName="PageTitle" />
+          <ScalarProperty Name="TemplateName" ColumnName="TemplateName" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ContractClosureTempID" ColumnName="ContractClosureTempID" />
+          <ScalarProperty Name="ContractClosureTempIDAudit" ColumnName="ContractClosureTempIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Invoices_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Invoices_Audit">
+        <MappingFragment StoreEntitySet="Invoices_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Is_SAPUploaded" ColumnName="Is_SAPUploaded" />
+          <ScalarProperty Name="Is_ISR" ColumnName="Is_ISR" />
+          <ScalarProperty Name="Is_R3" ColumnName="Is_R3" />
+          <ScalarProperty Name="IsConfirmed" ColumnName="IsConfirmed" />
+          <ScalarProperty Name="IsProcessed" ColumnName="IsProcessed" />
+          <ScalarProperty Name="IsUtilityTaxApplicable" ColumnName="IsUtilityTaxApplicable" />
+          <ScalarProperty Name="IsTaxApplicable" ColumnName="IsTaxApplicable" />
+          <ScalarProperty Name="IsTaxCustomer" ColumnName="IsTaxCustomer" />
+          <ScalarProperty Name="TaxRegNo" ColumnName="TaxRegNo" />
+          <ScalarProperty Name="SAPUploadErr" ColumnName="SAPUploadErr" />
+          <ScalarProperty Name="SAPUploadMsg" ColumnName="SAPUploadMsg" />
+          <ScalarProperty Name="BatchUpdateLabel" ColumnName="BatchUpdateLabel" />
+          <ScalarProperty Name="SAP_GLACC" ColumnName="SAP_GLACC" />
+          <ScalarProperty Name="SAP_PostingKey" ColumnName="SAP_PostingKey" />
+          <ScalarProperty Name="SAP_Assignment" ColumnName="SAP_Assignment" />
+          <ScalarProperty Name="SAP_RefKey3" ColumnName="SAP_RefKey3" />
+          <ScalarProperty Name="SAP_RefKey2" ColumnName="SAP_RefKey2" />
+          <ScalarProperty Name="SAP_RefKey1" ColumnName="SAP_RefKey1" />
+          <ScalarProperty Name="SAP_Text" ColumnName="SAP_Text" />
+          <ScalarProperty Name="SAP_DocType" ColumnName="SAP_DocType" />
+          <ScalarProperty Name="SAP_DocHeaderText" ColumnName="SAP_DocHeaderText" />
+          <ScalarProperty Name="SAP_PstnDateInDoc" ColumnName="SAP_PstnDateInDoc" />
+          <ScalarProperty Name="SAP_CompanyCode" ColumnName="SAP_CompanyCode" />
+          <ScalarProperty Name="RefInvNo" ColumnName="RefInvNo" />
+          <ScalarProperty Name="ContractName" ColumnName="ContractName" />
+          <ScalarProperty Name="OtherServiceID" ColumnName="OtherServiceID" />
+          <ScalarProperty Name="MandatoryTaxCode" ColumnName="MandatoryTaxCode" />
+          <ScalarProperty Name="NosDay" ColumnName="NosDay" />
+          <ScalarProperty Name="IsPerDay" ColumnName="IsPerDay" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="IsModified" ColumnName="IsModified" />
+          <ScalarProperty Name="TotalRentPerMonth" ColumnName="TotalRentPerMonth" />
+          <ScalarProperty Name="TotalAmtWithTaxExcludedMandatoryTax" ColumnName="TotalAmtWithTaxExcludedMandatoryTax" />
+          <ScalarProperty Name="TotalWithMandatoryTax" ColumnName="TotalWithMandatoryTax" />
+          <ScalarProperty Name="MandatoryTaxAmount" ColumnName="MandatoryTaxAmount" />
+          <ScalarProperty Name="MandatoryTaxRateID" ColumnName="MandatoryTaxRateID" />
+          <ScalarProperty Name="MandatoryTaxID" ColumnName="MandatoryTaxID" />
+          <ScalarProperty Name="OtherTaxCodes" ColumnName="OtherTaxCodes" />
+          <ScalarProperty Name="OtherTax" ColumnName="OtherTax" />
+          <ScalarProperty Name="TotalTax" ColumnName="TotalTax" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+          <ScalarProperty Name="RentWithSCPerMonth" ColumnName="RentWithSCPerMonth" />
+          <ScalarProperty Name="RentWIthSCPerSqFt" ColumnName="RentWIthSCPerSqFt" />
+          <ScalarProperty Name="SCPerMonth" ColumnName="SCPerMonth" />
+          <ScalarProperty Name="RentPerMonth" ColumnName="RentPerMonth" />
+          <ScalarProperty Name="SCPerSqFt" ColumnName="SCPerSqFt" />
+          <ScalarProperty Name="RentPerSqFt" ColumnName="RentPerSqFt" />
+          <ScalarProperty Name="AreaInSqFt" ColumnName="AreaInSqFt" />
+          <ScalarProperty Name="Ratio" ColumnName="Ratio" />
+          <ScalarProperty Name="ShopName" ColumnName="ShopName" />
+          <ScalarProperty Name="ShopNo" ColumnName="ShopNo" />
+          <ScalarProperty Name="ShopID" ColumnName="ShopID" />
+          <ScalarProperty Name="FooterText1" ColumnName="FooterText1" />
+          <ScalarProperty Name="IsInvoiced" ColumnName="IsInvoiced" />
+          <ScalarProperty Name="Naration" ColumnName="Naration" />
+          <ScalarProperty Name="LevelName" ColumnName="LevelName" />
+          <ScalarProperty Name="LevelID" ColumnName="LevelID" />
+          <ScalarProperty Name="LocationCode" ColumnName="LocationCode" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyCode" ColumnName="CompanyCode" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="TotalNosUnitConsumed" ColumnName="TotalNosUnitConsumed" />
+          <ScalarProperty Name="M_NosUnitsConsumed" ColumnName="M_NosUnitsConsumed" />
+          <ScalarProperty Name="M_EndReading" ColumnName="M_EndReading" />
+          <ScalarProperty Name="M_StartReading" ColumnName="M_StartReading" />
+          <ScalarProperty Name="IsMaintenance" ColumnName="IsMaintenance" />
+          <ScalarProperty Name="UtilityUnitRate" ColumnName="UtilityUnitRate" />
+          <ScalarProperty Name="UtilityRateID" ColumnName="UtilityRateID" />
+          <ScalarProperty Name="NosUnitsConsumed2" ColumnName="NosUnitsConsumed2" />
+          <ScalarProperty Name="EndReading2" ColumnName="EndReading2" />
+          <ScalarProperty Name="StartReading2" ColumnName="StartReading2" />
+          <ScalarProperty Name="Reset" ColumnName="Reset" />
+          <ScalarProperty Name="NosUnitsConsumed1" ColumnName="NosUnitsConsumed1" />
+          <ScalarProperty Name="EndReading" ColumnName="EndReading" />
+          <ScalarProperty Name="StartReading" ColumnName="StartReading" />
+          <ScalarProperty Name="ShopUtilityReadingID" ColumnName="ShopUtilityReadingID" />
+          <ScalarProperty Name="DateTo" ColumnName="DateTo" />
+          <ScalarProperty Name="DateFrom" ColumnName="DateFrom" />
+          <ScalarProperty Name="CustomerAddress2" ColumnName="CustomerAddress2" />
+          <ScalarProperty Name="CustomerAddress" ColumnName="CustomerAddress" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="ExtendedCustomerID" ColumnName="ExtendedCustomerID" />
+          <ScalarProperty Name="ProcessMonth" ColumnName="ProcessMonth" />
+          <ScalarProperty Name="ProcessYear" ColumnName="ProcessYear" />
+          <ScalarProperty Name="InvoiceDate" ColumnName="InvoiceDate" />
+          <ScalarProperty Name="Contract_RentSchemeID" ColumnName="Contract_RentSchemeID" />
+          <ScalarProperty Name="ContractClosureID" ColumnName="ContractClosureID" />
+          <ScalarProperty Name="ContractRateID" ColumnName="ContractRateID" />
+          <ScalarProperty Name="ContractID" ColumnName="ContractID" />
+          <ScalarProperty Name="SequenceNo" ColumnName="SequenceNo" />
+          <ScalarProperty Name="UtilityMeterName" ColumnName="UtilityMeterName" />
+          <ScalarProperty Name="UtilityName" ColumnName="UtilityName" />
+          <ScalarProperty Name="UtilityID" ColumnName="UtilityID" />
+          <ScalarProperty Name="SubInvTypeID" ColumnName="SubInvTypeID" />
+          <ScalarProperty Name="InvoiceTypeID" ColumnName="InvoiceTypeID" />
+          <ScalarProperty Name="InvoiceNo" ColumnName="InvoiceNo" />
+          <ScalarProperty Name="InvoiceID" ColumnName="InvoiceID" />
+          <ScalarProperty Name="InvoiceIDAudit" ColumnName="InvoiceIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MISPerformanceDetails">
+      <EntityTypeMapping TypeName="AHPL_DBModel.MISPerformanceDetail">
+        <MappingFragment StoreEntitySet="MISPerformanceDetail">
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="ActualValue" ColumnName="ActualValue" />
+          <ScalarProperty Name="BudgetValue" ColumnName="BudgetValue" />
+          <ScalarProperty Name="ReforecastingValue" ColumnName="ReforecastingValue" />
+          <ScalarProperty Name="ReportItemID" ColumnName="ReportItemID" />
+          <ScalarProperty Name="FinancialYearDetailID" ColumnName="FinancialYearDetailID" />
+          <ScalarProperty Name="PerformanceDetailID" ColumnName="PerformanceDetailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaxRates">
+      <EntityTypeMapping TypeName="AHPL_DBModel.TaxRate">
+        <MappingFragment StoreEntitySet="TaxRates">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ActiveTo" ColumnName="ActiveTo" />
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="TaxRate1" ColumnName="TaxRate1" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="TaxRateID" ColumnName="TaxRateID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Taxes_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Taxes_Audit">
+        <MappingFragment StoreEntitySet="Taxes_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="SAP_GLCode" ColumnName="SAP_GLCode" />
+          <ScalarProperty Name="IsMandatory" ColumnName="IsMandatory" />
+          <ScalarProperty Name="TaxCode" ColumnName="TaxCode" />
+          <ScalarProperty Name="TaxName" ColumnName="TaxName" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="TaxIDAudit" ColumnName="TaxIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TaxRates_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.TaxRates_Audit">
+        <MappingFragment StoreEntitySet="TaxRates_Audit">
+          <ScalarProperty Name="LoggedDate" ColumnName="LoggedDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ActiveTo" ColumnName="ActiveTo" />
+          <ScalarProperty Name="ActiveFrom" ColumnName="ActiveFrom" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="TaxRate1" ColumnName="TaxRate1" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="TaxRateID" ColumnName="TaxRateID" />
+          <ScalarProperty Name="TaxRateIDAudit" ColumnName="TaxRateIDAudit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Taxes">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Tax">
+        <MappingFragment StoreEntitySet="Taxes">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="LastUpdated" ColumnName="LastUpdated" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="SAP_GLCode" ColumnName="SAP_GLCode" />
+          <ScalarProperty Name="IsMandatory" ColumnName="IsMandatory" />
+          <ScalarProperty Name="TaxCode" ColumnName="TaxCode" />
+          <ScalarProperty Name="TaxName" ColumnName="TaxName" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permission_Users_Audit">
+      <EntityTypeMapping TypeName="AHPL_DBModel.Permission_Users_Audit">
+        <MappingFragment StoreEntitySet="Permission_Users_Audit">
+          <ScalarProperty Name="default_asignee" ColumnName="default_asignee" />
+          <ScalarProperty Name="signature" ColumnName="signature" />
+          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="ISR_Password" ColumnName="ISR_Password" />
+          <ScalarProperty Name="ISR_UserName" ColumnName="ISR_UserName" />
+          <ScalarProperty Name="R3_Password" ColumnName="R3_Password" />
+          <ScalarProperty Name="R3_UserName" ColumnName="R3_UserName" />
+          <ScalarProperty Name="Email2" ColumnName="Email2" />
+          <ScalarProperty Name="Email1" ColumnName="Email1" />
+          <ScalarProperty Name="DNSUserName" ColumnName="DNSUserName" />
+          <ScalarProperty Name="DiscontinuedDate" ColumnName="DiscontinuedDate" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="IsUserHead" ColumnName="IsUserHead" />
+          <ScalarProperty Name="UserGroupID" ColumnName="UserGroupID" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="AuditRowID" ColumnName="AuditRowID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SCAndRentValues">
+      <EntityTypeMapping TypeName="AHPL_DBModel.SCAndRentValue">
+        <MappingFragment StoreEntitySet="SCAndRentValues">
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="RentValue" ColumnName="RentValue" />
+          <ScalarProperty Name="SCValue" ColumnName="SCValue" />
+          <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+          <ScalarProperty Name="SC_RentID" ColumnName="SC_RentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view_user_signature">
+      <EntityTypeMapping TypeName="AHPL_DBModel.view_user_signature">
+        <MappingFragment StoreEntitySet="view_user_signature">
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="signature" ColumnName="signature" />
+          <ScalarProperty Name="UserGroupID" ColumnName="UserGroupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view_aplicable_tax_utility">
+      <EntityTypeMapping TypeName="AHPL_DBModel.view_aplicable_tax_utility">
+        <MappingFragment StoreEntitySet="view_aplicable_tax_utility">
+          <ScalarProperty Name="IsMandatory" ColumnName="IsMandatory" />
+          <ScalarProperty Name="TaxID" ColumnName="TaxID" />
+          <ScalarProperty Name="ShopUtilityReadingID" ColumnName="ShopUtilityReadingID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view_userRoleEmail">
+      <EntityTypeMapping TypeName="AHPL_DBModel.view_userRoleEmail">
+        <MappingFragment StoreEntitySet="view_userRoleEmail">
+          <ScalarProperty Name="UserGroupName" ColumnName="UserGroupName" />
+          <ScalarProperty Name="UserGroupID" ColumnName="UserGroupID" />
+          <ScalarProperty Name="Discontinued" ColumnName="Discontinued" />
+          <ScalarProperty Name="Email1" ColumnName="Email1" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_smtp">
+      <EntityTypeMapping TypeName="AHPL_DBModel.tbl_smtp">
+        <MappingFragment StoreEntitySet="tbl_smtp">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="port" ColumnName="port" />
+          <ScalarProperty Name="host" ColumnName="host" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

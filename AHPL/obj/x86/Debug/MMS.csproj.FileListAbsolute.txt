@@ -1,0 +1,2186 @@
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\MMS.exe.config
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\MMS.application
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\MMS.exe
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ParentForm.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.application
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.exe
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\MMS.exe.config
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\MMS.application
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\MMS.exe
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ParentForm.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.application
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.exe
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+C:\AHPL\AHPL\bin\Debug\MMS.exe.config
+C:\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+C:\AHPL\AHPL\obj\x86\Debug\MMS.exe
+C:\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+C:\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+C:\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+C:\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+C:\AHPL\AHPL\bin\Debug\MMS.application
+C:\AHPL\AHPL\bin\Debug\MMS.exe
+C:\AHPL\AHPL\bin\Debug\MMS.pdb
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+C:\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\AHPL\AHPL\bin\Debug\DataTier.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+C:\AHPL\AHPL\bin\Debug\ParentForm.dll
+C:\AHPL\AHPL\bin\Debug\DataTier.pdb
+C:\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+C:\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+C:\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+C:\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+C:\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+C:\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+C:\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+C:\AHPL\AHPL\obj\x86\Debug\MMS.application
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.config
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.application
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\AsyncCtpLibrary.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ParentForm.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\AsyncCtpLibrary.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.application
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\System.Net.Http.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.config
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.application
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\AsyncCtpLibrary.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ParentForm.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\System.Net.Http.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\AsyncCtpLibrary.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.application
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.config
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.application
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ParentForm.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\System.Net.Http.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DataTier.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.application
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\New_laptop\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\bin\Debug\MMS.exe.config
+E:\New_laptop\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+E:\New_laptop\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.exe
+E:\New_laptop\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+E:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe.config
+E:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+E:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.application
+E:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe
+E:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.pdb
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DataTier.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ParentForm.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DataTier.pdb
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.application
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe
+E:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+D:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe.config
+D:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+D:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+D:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+D:\MMS_JK\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+D:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+D:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.application
+D:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.exe
+D:\MMS_JK\AHPL\AHPL\bin\Debug\MMS.pdb
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DataTier.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ParentForm.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\System.Net.Http.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DataTier.pdb
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\System.Net.Http.xml
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.application
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.exe
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.Print.frmsendEmails.resources
+D:\MMS_JK\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xSmtpSettings.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\MMS.exe.config
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.csproj.ResolveComReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.exe
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.csprojResolveAssemblyReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailConfig.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Alert.xEmailSentItems.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xAddendumNote_Audit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractRenewalAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTemplatesAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xContractTerminateAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xCustomers_Audit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xRentInvoice_Audit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xSecurityUsersAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xShop_Audit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xTaxAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AuditTrail.xUtilityCreditAudit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xSCPerSq.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xLocation_Details.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MasterData.xShop_Details.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContractPromotionExpiry_Ageing.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUnutilized.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xAdSpaceUtilized.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xCustomerRentChargeHistory.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xExceptionItem.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xFinancial_Years.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xInvoiceSummery.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisRentalIncome.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xMisUtilityReadings.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOccupancyAndUnoccupancy.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncome.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xOtherServiceIncomeCW.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xPerformanceDetails.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xRentalIncreasedCustomers.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xSalesAndPerformanceDet.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xServiceChargeMIS.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopOccupied.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xShopUnOccupancy.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumption.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.MIS.xUtilityConsumptionCustomerWise.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.PeriodClose.xPeriodClose.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.AllInvoicesForShop.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllProformas.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.frmsendEmails.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllCreditNotes.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllInvoicesForShopname.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xAllPromotionInvoices.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xInvoiceBulk_Draft.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xMailAddresses.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xOtherServiceInv_Draft.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Print.xUtilityInv_Draft.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.rptMain.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Process.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xInvoice_Draft.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.SplashScreen1.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContractClauses.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xPendingContractConfirmation.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xReleaseToAccounts.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.ContractBasket.xSpellChecker.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.OtherServices.xProformaInvoice.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xCreditNoteGrid.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Discount_Process.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.xRentVariation.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertProfiles.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xEmailAlertItems.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Transaction.Rent.x_Rent_Adj_Grid.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xLogin.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xAddendumNoteR.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xSmtpSettings.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.UserPermission.xUserGroups.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xImportContracts.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xOtherService_Confirm_Invoice.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xPoContract_Confirm.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xPrintOSInv.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xPromotional_Contract.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRentAreaTypes.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Adj_Credit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContractExpiry_Ageing.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesItems.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContractClausesTemplates.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContracts1.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Baskets.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Confirm.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xContract_Terminate.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServices.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xPrintRentInv.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xPrintUtilites.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRatio.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRenew_Contracts.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Confirm_Invoice.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Process.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRent_Invoice_Edit.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRoles.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xSAP_Setup.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xRolePermissions.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUsers.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUtilities.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityInvoice_Confirm.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xOtherServiceCategories.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xOtherSettings.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUtilityRates.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.Properties.Resources.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.WaitForm1.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xCompanies.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xCustomers.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xExtended_Customers.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xFloor_Levels.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xHomeScreen.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xLocations.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xShops.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xTaxes.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xTaxRates.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xUtitlityInvoice_Batch.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xZones.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.xReleaseContract.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.csproj.GenerateResource.Cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.exe.licenses
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\Dictionaries\american.xlg
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\Dictionaries\english.aff
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\MMS.exe.manifest
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\MMS.application
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\MMS.exe
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\MMS.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DataTier.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.Extensions.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ParentForm.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DataTier.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Office.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Docs.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.SpellChecker.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.Utils.v13.1.UI.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraPivotGrid.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraRichEdit.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraSpellChecker.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\DevExpress.XtraWizard.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.Utils.v13.1.UI.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraPivotGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraRichEdit.v13.1.Extensions.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraSpellChecker.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\de\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\es\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ja\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\bin\Debug\ru\DevExpress.XtraWizard.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.TrustInfo.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.exe.manifest
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.application
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.csproj.AssemblyReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\AHPL\obj\x86\Debug\MMS.csproj.CoreCompileInputs.cache

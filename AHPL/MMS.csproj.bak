@@ -1,0 +1,2069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42AC1892-D63D-4CAC-9F8D-89F465DA06D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MMS</RootNamespace>
+    <AssemblyName>MMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\10.20.59.87\sqlshopshare\AHPL_PUBLISH\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>1</UpdateInterval>
+    <UpdateIntervalUnits>Hours</UpdateIntervalUnits>
+    <UpdatePeriodically>true</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Mall Management System</ProductName>
+    <PublisherName>JKCS</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>index.html</WebPage>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>\\10.20.59.87\sqlshopshare\AHPL_PUBLISH\Prerequisite</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>components.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E01E640454BFD426C146A543EB7EA4C77E78F30F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AHPL_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Command.4, Version=4.0.20102.19458, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Docs.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.SpellChecker.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DevExpress\DXperience 13.1\Bin\Framework\DevExpress.XtraCharts.v13.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DevExpress\DXperience 13.1\Bin\Framework\DevExpress.XtraCharts.v13.1.Wizard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v13.1.Extensions, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraSpellChecker.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraWizard.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ParentForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>.\ParentForm.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alert\xEmailConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alert\xEmailConfig.Designer.cs">
+      <DependentUpon>xEmailConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alert\xEmailSentItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alert\xEmailSentItems.Designer.cs">
+      <DependentUpon>xEmailSentItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xAddendumNote_Audit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xAddendumNote_Audit.Designer.cs">
+      <DependentUpon>xAddendumNote_Audit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xContractRenewalAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xContractRenewalAudit.Designer.cs">
+      <DependentUpon>xContractRenewalAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xContractTemplatesAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xContractTemplatesAudit.Designer.cs">
+      <DependentUpon>xContractTemplatesAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xContractTerminateAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xContractTerminateAudit.Designer.cs">
+      <DependentUpon>xContractTerminateAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xCustomers_Audit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xCustomers_Audit.Designer.cs">
+      <DependentUpon>xCustomers_Audit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xRentInvoice_Audit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xRentInvoice_Audit.Designer.cs">
+      <DependentUpon>xRentInvoice_Audit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xShop_Audit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xShop_Audit.Designer.cs">
+      <DependentUpon>xShop_Audit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xTaxAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xTaxAudit.Designer.cs">
+      <DependentUpon>xTaxAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuditTrail\xUtilityCreditAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail\xUtilityCreditAudit.Designer.cs">
+      <DependentUpon>xUtilityCreditAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomClasses\cActiveRentScheme.cs" />
+    <Compile Include="CustomClasses\cCommon_Functions.cs" />
+    <Compile Include="CustomClasses\cPermission.cs" />
+    <Compile Include="CustomClasses\cProcessContract2.cs" />
+    <Compile Include="CustomClasses\cRentSchemeFromTo.cs" />
+    <Compile Include="CustomClasses\cSAP_Upload.cs" />
+    <Compile Include="CustomClasses\cTaxCalculations.cs" />
+    <Compile Include="CustomClasses\cContractClosures.cs" />
+    <Compile Include="CustomClasses\cContractRate.cs" />
+    <Compile Include="CustomClasses\cContracts.cs" />
+    <Compile Include="CustomClasses\cContract_Baskets.cs" />
+    <Compile Include="CustomClasses\cCustomersContract.cs" />
+    <Compile Include="CustomClasses\cEnable_Controls.cs" />
+    <Compile Include="CustomClasses\cGen_Rent_Invoice.cs" />
+    <Compile Include="CustomClasses\cProcessContracts.cs" />
+    <Compile Include="CustomClasses\cUtitlityInvoiceBatch.cs" />
+    <Compile Include="CustomClasses\NumberToWordCurrency.cs" />
+    <Compile Include="CustomClasses\NumberToWordSqFeet.cs" />
+    <Compile Include="CustomClasses\ReserveShop.cs" />
+    <Compile Include="CustomClasses\GenerateInvoiceNo.cs" />
+    <Compile Include="MasterData\xLocation_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xLocation_Details.Designer.cs">
+      <DependentUpon>xLocation_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xShop_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xShop_Details.Designer.cs">
+      <DependentUpon>xShop_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xAdSpaceUnutilized.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xAdSpaceUnutilized.Designer.cs">
+      <DependentUpon>xAdSpaceUnutilized.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xAdSpaceUtilized.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xAdSpaceUtilized.Designer.cs">
+      <DependentUpon>xAdSpaceUtilized.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xCustomerRentChargeHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xCustomerRentChargeHistory.Designer.cs">
+      <DependentUpon>xCustomerRentChargeHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xExceptionItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xExceptionItem.Designer.cs">
+      <DependentUpon>xExceptionItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xFinancial_Years.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xFinancial_Years.Designer.cs">
+      <DependentUpon>xFinancial_Years.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xMisRentalIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xMisRentalIncome.Designer.cs">
+      <DependentUpon>xMisRentalIncome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xMisUtilityReadings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xMisUtilityReadings.Designer.cs">
+      <DependentUpon>xMisUtilityReadings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xOccupancyAndUnoccupancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xOccupancyAndUnoccupancy.Designer.cs">
+      <DependentUpon>xOccupancyAndUnoccupancy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xOtherServiceIncome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xOtherServiceIncome.Designer.cs">
+      <DependentUpon>xOtherServiceIncome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xOtherServiceIncomeCW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xOtherServiceIncomeCW.Designer.cs">
+      <DependentUpon>xOtherServiceIncomeCW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xPerformanceDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xPerformanceDetails.Designer.cs">
+      <DependentUpon>xPerformanceDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xRentalIncreasedCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xRentalIncreasedCustomers.Designer.cs">
+      <DependentUpon>xRentalIncreasedCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xSalesAndPerformanceDet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xSalesAndPerformanceDet.Designer.cs">
+      <DependentUpon>xSalesAndPerformanceDet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xServiceChargeMIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xServiceChargeMIS.Designer.cs">
+      <DependentUpon>xServiceChargeMIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xShopOccupied.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xShopOccupied.Designer.cs">
+      <DependentUpon>xShopOccupied.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xShopUnOccupancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xShopUnOccupancy.Designer.cs">
+      <DependentUpon>xShopUnOccupancy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xUtilityConsumption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xUtilityConsumption.Designer.cs">
+      <DependentUpon>xUtilityConsumption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xUtilityConsumptionCustomerWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xUtilityConsumptionCustomerWise.Designer.cs">
+      <DependentUpon>xUtilityConsumptionCustomerWise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PeriodClose\xPeriodClose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PeriodClose\xPeriodClose.Designer.cs">
+      <DependentUpon>xPeriodClose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\xMailAddresses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\xMailAddresses.Designer.cs">
+      <DependentUpon>xMailAddresses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\xOtherServiceInv_Draft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\xOtherServiceInv_Draft.Designer.cs">
+      <DependentUpon>xOtherServiceInv_Draft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\xUtilityInv_Draft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\xUtilityInv_Draft.Designer.cs">
+      <DependentUpon>xUtilityInv_Draft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\cReportClass.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reports\rptInvoice.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptMain.designer.cs">
+      <DependentUpon>rptMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAP\xSAP_Process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAP\xSAP_Process.designer.cs">
+      <DependentUpon>xSAP_Process.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.cs">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClauses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClauses.designer.cs">
+      <DependentUpon>xContractClauses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xPendingContractConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xPendingContractConfirmation.Designer.cs">
+      <DependentUpon>xPendingContractConfirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xReleaseToAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xReleaseToAccounts.Designer.cs">
+      <DependentUpon>xReleaseToAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xSpellChecker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xSpellChecker.Designer.cs">
+      <DependentUpon>xSpellChecker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRentVariation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRentVariation.Designer.cs">
+      <DependentUpon>xRentVariation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alert\xEmailAlertProfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alert\xEmailAlertProfiles.Designer.cs">
+      <DependentUpon>xEmailAlertProfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alert\xEmailAlertItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alert\xEmailAlertItems.Designer.cs">
+      <DependentUpon>xEmailAlertItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermission\xLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPermission\xLogin.Designer.cs">
+      <DependentUpon>xLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermission\xUserGroups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPermission\xUserGroups.Designer.cs">
+      <DependentUpon>xUserGroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\R3\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xAddendumNoteR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xAddendumNoteR.Designer.cs">
+      <DependentUpon>xAddendumNoteR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ISR\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xImportContracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xImportContracts.Designer.cs">
+      <DependentUpon>xImportContracts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\xInvoice_Draft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\xInvoice_Draft.Designer.cs">
+      <DependentUpon>xInvoice_Draft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherService_Confirm_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherService_Confirm_Invoice.Designer.cs">
+      <DependentUpon>xOtherService_Confirm_Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPoContract_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPoContract_Confirm.Designer.cs">
+      <DependentUpon>xPoContract_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPrintOSInv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPrintOSInv.Designer.cs">
+      <DependentUpon>xPrintOSInv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPromotional_Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xPromotional_Contract.Designer.cs">
+      <DependentUpon>xPromotional_Contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xRentAreaTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xRentAreaTypes.Designer.cs">
+      <DependentUpon>xRentAreaTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Adj_Credit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Adj_Credit.Designer.cs">
+      <DependentUpon>xRent_Adj_Credit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS\xContractExpiry_Ageing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIS\xContractExpiry_Ageing.Designer.cs">
+      <DependentUpon>xContractExpiry_Ageing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClausesItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClausesItems.Designer.cs">
+      <DependentUpon>xContractClausesItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClausesTemplates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContractClausesTemplates.Designer.cs">
+      <DependentUpon>xContractClausesTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContracts1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContracts1.Designer.cs">
+      <DependentUpon>xContracts1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContract_Baskets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xContract_Baskets.Designer.cs">
+      <DependentUpon>xContract_Baskets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContract_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContract_Confirm.Designer.cs">
+      <DependentUpon>xContract_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContract_Terminate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xContract_Terminate.Designer.cs">
+      <DependentUpon>xContract_Terminate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherServiceInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherServiceInvoice.Designer.cs">
+      <DependentUpon>xOtherServiceInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xPrintRentInv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xPrintRentInv.Designer.cs">
+      <DependentUpon>xPrintRentInv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xPrintUtilites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xPrintUtilites.Designer.cs">
+      <DependentUpon>xPrintUtilites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xRatio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xRatio.Designer.cs">
+      <DependentUpon>xRatio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xRenew_Contracts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ProcessContracts\xRenew_Contracts.Designer.cs">
+      <DependentUpon>xRenew_Contracts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Confirm_Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Confirm_Invoice.Designer.cs">
+      <DependentUpon>xRent_Confirm_Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Invoice_Process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Invoice_Process.Designer.cs">
+      <DependentUpon>xRent_Invoice_Process.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Invoice_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Rent\xRent_Invoice_Edit.Designer.cs">
+      <DependentUpon>xRent_Invoice_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermission\xRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPermission\xRoles.Designer.cs">
+      <DependentUpon>xRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAP\xSAP_Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAP\xSAP_Setup.Designer.cs">
+      <DependentUpon>xSAP_Setup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermission\xUserPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPermission\xUserPermissions.Designer.cs">
+      <DependentUpon>xUserPermissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPermission\xUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPermission\xUsers.Designer.cs">
+      <DependentUpon>xUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xUtilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xUtilities.Designer.cs">
+      <DependentUpon>xUtilities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtilityInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtilityInvoice.Designer.cs">
+      <DependentUpon>xUtilityInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtilityInvoice_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtilityInvoice_Confirm.Designer.cs">
+      <DependentUpon>xUtilityInvoice_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherServiceCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OtherServices\xOtherServiceCategories.Designer.cs">
+      <DependentUpon>xOtherServiceCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xOtherSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xOtherSettings.Designer.cs">
+      <DependentUpon>xOtherSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xUtilityRates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xUtilityRates.Designer.cs">
+      <DependentUpon>xUtilityRates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WaitForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm1.Designer.cs">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xCompanies.Designer.cs">
+      <DependentUpon>xCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xCustomers.Designer.cs">
+      <DependentUpon>xCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xExtended_Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xExtended_Customers.Designer.cs">
+      <DependentUpon>xExtended_Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xFloor_Levels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xFloor_Levels.Designer.cs">
+      <DependentUpon>xFloor_Levels.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xHomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xHomeScreen.Designer.cs">
+      <DependentUpon>xHomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xLocations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xLocations.Designer.cs">
+      <DependentUpon>xLocations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xShops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xShops.Designer.cs">
+      <DependentUpon>xShops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xTaxes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xTaxes.Designer.cs">
+      <DependentUpon>xTaxes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xTaxRates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xTaxRates.Designer.cs">
+      <DependentUpon>xTaxRates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtitlityInvoice_Batch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\UtilityInvoice\xUtitlityInvoice_Batch.Designer.cs">
+      <DependentUpon>xUtitlityInvoice_Batch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\xZones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\xZones.Designer.cs">
+      <DependentUpon>xZones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xReleaseContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ContractBasket\xReleaseContract.Designer.cs">
+      <DependentUpon>xReleaseContract.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alert\xEmailConfig.resx">
+      <DependentUpon>xEmailConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alert\xEmailSentItems.resx">
+      <DependentUpon>xEmailSentItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xAddendumNote_Audit.resx">
+      <DependentUpon>xAddendumNote_Audit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xContractRenewalAudit.resx">
+      <DependentUpon>xContractRenewalAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xContractTemplatesAudit.resx">
+      <DependentUpon>xContractTemplatesAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xContractTerminateAudit.resx">
+      <DependentUpon>xContractTerminateAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xCustomers_Audit.resx">
+      <DependentUpon>xCustomers_Audit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xRentInvoice_Audit.resx">
+      <DependentUpon>xRentInvoice_Audit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xShop_Audit.resx">
+      <DependentUpon>xShop_Audit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xTaxAudit.resx">
+      <DependentUpon>xTaxAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail\xUtilityCreditAudit.resx">
+      <DependentUpon>xUtilityCreditAudit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xLocation_Details.resx">
+      <DependentUpon>xLocation_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xShop_Details.resx">
+      <DependentUpon>xShop_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xAdSpaceUnutilized.resx">
+      <DependentUpon>xAdSpaceUnutilized.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xAdSpaceUtilized.resx">
+      <DependentUpon>xAdSpaceUtilized.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xCustomerRentChargeHistory.resx">
+      <DependentUpon>xCustomerRentChargeHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xExceptionItem.resx">
+      <DependentUpon>xExceptionItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xFinancial_Years.resx">
+      <DependentUpon>xFinancial_Years.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xMisRentalIncome.resx">
+      <DependentUpon>xMisRentalIncome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xMisUtilityReadings.resx">
+      <DependentUpon>xMisUtilityReadings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xOccupancyAndUnoccupancy.resx">
+      <DependentUpon>xOccupancyAndUnoccupancy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xOtherServiceIncome.resx">
+      <DependentUpon>xOtherServiceIncome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xOtherServiceIncomeCW.resx">
+      <DependentUpon>xOtherServiceIncomeCW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xPerformanceDetails.resx">
+      <DependentUpon>xPerformanceDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xRentalIncreasedCustomers.resx">
+      <DependentUpon>xRentalIncreasedCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xSalesAndPerformanceDet.resx">
+      <DependentUpon>xSalesAndPerformanceDet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xServiceChargeMIS.resx">
+      <DependentUpon>xServiceChargeMIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xShopOccupied.resx">
+      <DependentUpon>xShopOccupied.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xShopUnOccupancy.resx">
+      <DependentUpon>xShopUnOccupancy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xUtilityConsumption.resx">
+      <DependentUpon>xUtilityConsumption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xUtilityConsumptionCustomerWise.resx">
+      <DependentUpon>xUtilityConsumptionCustomerWise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PeriodClose\xPeriodClose.resx">
+      <DependentUpon>xPeriodClose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\xMailAddresses.resx">
+      <DependentUpon>xMailAddresses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\xOtherServiceInv_Draft.resx">
+      <DependentUpon>xOtherServiceInv_Draft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\xUtilityInv_Draft.resx">
+      <DependentUpon>xUtilityInv_Draft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Reports\rptInvoice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptInvoice.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptMain.resx">
+      <DependentUpon>rptMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAP\xSAP_Process.resx">
+      <DependentUpon>xSAP_Process.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\xInvoice_Draft.resx">
+      <DependentUpon>xInvoice_Draft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xContractClauses.resx">
+      <DependentUpon>xContractClauses.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xPendingContractConfirmation.resx">
+      <DependentUpon>xPendingContractConfirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xReleaseToAccounts.resx">
+      <DependentUpon>xReleaseToAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xSpellChecker.resx">
+      <DependentUpon>xSpellChecker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xRentVariation.resx">
+      <DependentUpon>xRentVariation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alert\xEmailAlertProfiles.resx">
+      <DependentUpon>xEmailAlertProfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alert\xEmailAlertItems.resx">
+      <DependentUpon>xEmailAlertItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPermission\xLogin.resx">
+      <DependentUpon>xLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xAddendumNoteR.resx">
+      <DependentUpon>xAddendumNoteR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPermission\xUserGroups.resx">
+      <DependentUpon>xUserGroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xImportContracts.resx">
+      <DependentUpon>xImportContracts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xOtherService_Confirm_Invoice.resx">
+      <DependentUpon>xOtherService_Confirm_Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xPoContract_Confirm.resx">
+      <DependentUpon>xPoContract_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xPrintOSInv.resx">
+      <DependentUpon>xPrintOSInv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xPromotional_Contract.resx">
+      <DependentUpon>xPromotional_Contract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xRentAreaTypes.resx">
+      <DependentUpon>xRentAreaTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xRent_Adj_Credit.resx">
+      <DependentUpon>xRent_Adj_Credit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIS\xContractExpiry_Ageing.resx">
+      <DependentUpon>xContractExpiry_Ageing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xContractClausesItems.resx">
+      <DependentUpon>xContractClausesItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xContractClausesTemplates.resx">
+      <DependentUpon>xContractClausesTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ProcessContracts\xContracts1.resx">
+      <DependentUpon>xContracts1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xContract_Baskets.resx">
+      <DependentUpon>xContract_Baskets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ProcessContracts\xContract_Confirm.resx">
+      <DependentUpon>xContract_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ProcessContracts\xContract_Terminate.resx">
+      <DependentUpon>xContract_Terminate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xOtherServiceInvoice.resx">
+      <DependentUpon>xOtherServiceInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xPrintRentInv.resx">
+      <DependentUpon>xPrintRentInv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\UtilityInvoice\xPrintUtilites.resx">
+      <DependentUpon>xPrintUtilites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xRatio.resx">
+      <DependentUpon>xRatio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ProcessContracts\xRenew_Contracts.resx">
+      <DependentUpon>xRenew_Contracts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xRent_Confirm_Invoice.resx">
+      <DependentUpon>xRent_Confirm_Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xRent_Invoice_Process.resx">
+      <DependentUpon>xRent_Invoice_Process.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Rent\xRent_Invoice_Edit.resx">
+      <DependentUpon>xRent_Invoice_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPermission\xRoles.resx">
+      <DependentUpon>xRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAP\xSAP_Setup.resx">
+      <DependentUpon>xSAP_Setup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPermission\xUserPermissions.resx">
+      <DependentUpon>xUserPermissions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPermission\xUsers.resx">
+      <DependentUpon>xUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xUtilities.resx">
+      <DependentUpon>xUtilities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\UtilityInvoice\xUtilityInvoice.resx">
+      <DependentUpon>xUtilityInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\UtilityInvoice\xUtilityInvoice_Confirm.resx">
+      <DependentUpon>xUtilityInvoice_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OtherServices\xOtherServiceCategories.resx">
+      <DependentUpon>xOtherServiceCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xOtherSettings.resx">
+      <DependentUpon>xOtherSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xUtilityRates.resx">
+      <DependentUpon>xUtilityRates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="WaitForm1.resx">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xCompanies.resx">
+      <DependentUpon>xCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xCustomers.resx">
+      <DependentUpon>xCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xExtended_Customers.resx">
+      <DependentUpon>xExtended_Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xFloor_Levels.resx">
+      <DependentUpon>xFloor_Levels.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xHomeScreen.resx">
+      <DependentUpon>xHomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xLocations.resx">
+      <DependentUpon>xLocations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xShops.resx">
+      <DependentUpon>xShops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xTaxes.resx">
+      <DependentUpon>xTaxes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xTaxRates.resx">
+      <DependentUpon>xTaxRates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\UtilityInvoice\xUtitlityInvoice_Batch.resx">
+      <DependentUpon>xUtitlityInvoice_Batch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\xZones.resx">
+      <DependentUpon>xZones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ContractBasket\xReleaseContract.resx">
+      <DependentUpon>xReleaseContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <EmbeddedResource Include="Dictionaries\american.xlg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dictionaries\CustomEnglish.dic">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dictionaries\english.aff">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Help\Mall Management System.chm" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\DataSources\AHPL.CustomClasses.cUtilityInvoiceBatch.datasource" />
+    <None Include="Properties\DataSources\cContractClosures.datasource" />
+    <None Include="Properties\DataSources\cContractRate.datasource" />
+    <None Include="Properties\DataSources\cContracts.datasource" />
+    <None Include="Properties\DataSources\cContract_Baskets.datasource" />
+    <None Include="Properties\DataSources\cCustomersContract.datasource" />
+    <None Include="Properties\DataSources\cGen_Rent_Invoice.datasource" />
+    <None Include="Properties\DataSources\cProcessContract2.datasource" />
+    <None Include="Properties\DataSources\cProcessContracts.datasource" />
+    <None Include="Properties\DataSources\cRentSchemeFromTo.datasource" />
+    <None Include="Properties\DataSources\cSAP_Upload.datasource" />
+    <None Include="Properties\DataSources\DataTier.Addendum.datasource" />
+    <None Include="Properties\DataSources\DataTier.Addendums_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Addendum_Details_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Attachment.datasource" />
+    <None Include="Properties\DataSources\DataTier.cContract_Ageing.datasource" />
+    <None Include="Properties\DataSources\DataTier.ClosureMappingItem.datasource" />
+    <None Include="Properties\DataSources\DataTier.cOccupancyDetails.datasource" />
+    <None Include="Properties\DataSources\DataTier.Company.datasource" />
+    <None Include="Properties\DataSources\DataTier.Conract_Closure_Sub_Templates.datasource" />
+    <None Include="Properties\DataSources\DataTier.Conract_Closure_Sub_Templates_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Contract.datasource" />
+    <None Include="Properties\DataSources\DataTier.ContractClosure.datasource" />
+    <None Include="Properties\DataSources\DataTier.ContractClosures_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.ContractClosureTemplate_Details.datasource" />
+    <None Include="Properties\DataSources\DataTier.Contract_Closure_Items.datasource" />
+    <None Include="Properties\DataSources\DataTier.Contract_Rates.datasource" />
+    <None Include="Properties\DataSources\DataTier.Contract_RentSchemes.datasource" />
+    <None Include="Properties\DataSources\DataTier.Contract_Shops.datasource" />
+    <None Include="Properties\DataSources\DataTier.Customer_Attachments.datasource" />
+    <None Include="Properties\DataSources\DataTier.Customer_MailingOptions.datasource" />
+    <None Include="Properties\DataSources\DataTier.Customer_Profiles.datasource" />
+    <None Include="Properties\DataSources\DataTier.DeliveryOption.datasource" />
+    <None Include="Properties\DataSources\DataTier.EmailAlertItem.datasource" />
+    <None Include="Properties\DataSources\DataTier.EmailAlertRole.datasource" />
+    <None Include="Properties\DataSources\DataTier.Envelope.datasource" />
+    <None Include="Properties\DataSources\DataTier.ExtCustomer_Details.datasource" />
+    <None Include="Properties\DataSources\DataTier.Extended_Customers.datasource" />
+    <None Include="Properties\DataSources\DataTier.FinancialYear_Details.datasource" />
+    <None Include="Properties\DataSources\DataTier.Financial_Years.datasource" />
+    <None Include="Properties\DataSources\DataTier.Floor_Levels.datasource" />
+    <None Include="Properties\DataSources\DataTier.Global_Customers.datasource" />
+    <None Include="Properties\DataSources\DataTier.Global_Customers_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Invoice.datasource" />
+    <None Include="Properties\DataSources\DataTier.Invoices_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Invoice_Cycles.datasource" />
+    <None Include="Properties\DataSources\DataTier.Invoice_Details.datasource" />
+    <None Include="Properties\DataSources\DataTier.Invoice_Types.datasource" />
+    <None Include="Properties\DataSources\DataTier.Location.datasource" />
+    <None Include="Properties\DataSources\DataTier.MISPerformanceDetail.datasource" />
+    <None Include="Properties\DataSources\DataTier.Month.datasource" />
+    <None Include="Properties\DataSources\DataTier.OtherServiceCategory.datasource" />
+    <None Include="Properties\DataSources\DataTier.Permission_Forms.datasource" />
+    <None Include="Properties\DataSources\DataTier.Permission_Roles.datasource" />
+    <None Include="Properties\DataSources\DataTier.Permission_UserForms.datasource" />
+    <None Include="Properties\DataSources\DataTier.Permission_UserGroups.datasource" />
+    <None Include="Properties\DataSources\DataTier.Permission_Users.datasource" />
+    <None Include="Properties\DataSources\DataTier.Promotion_RentTypes.datasource" />
+    <None Include="Properties\DataSources\DataTier.Ratio.datasource" />
+    <None Include="Properties\DataSources\DataTier.RentTax_Profiles.datasource" />
+    <None Include="Properties\DataSources\DataTier.Rent_Area_Types.datasource" />
+    <None Include="Properties\DataSources\DataTier.ReportClasses.PerformanceDetails.datasource" />
+    <None Include="Properties\DataSources\DataTier.ReportClasses.PerformanceDetail_OSIncome.datasource" />
+    <None Include="Properties\DataSources\DataTier.ReportClasses.ShopOccupancy.datasource" />
+    <None Include="Properties\DataSources\DataTier.ServiceCharge.datasource" />
+    <None Include="Properties\DataSources\DataTier.Shop.datasource" />
+    <None Include="Properties\DataSources\DataTier.Shops_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Shops_UtilityReadings.datasource" />
+    <None Include="Properties\DataSources\DataTier.Shops_UtilityReadings_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.Sub_Invoice_Types.datasource" />
+    <None Include="Properties\DataSources\DataTier.Tax.datasource" />
+    <None Include="Properties\DataSources\DataTier.Taxes_Audit.datasource" />
+    <None Include="Properties\DataSources\DataTier.TaxRate.datasource" />
+    <None Include="Properties\DataSources\DataTier.Utility.datasource" />
+    <None Include="Properties\DataSources\DataTier.Utility_Rates.datasource" />
+    <None Include="Properties\DataSources\DataTier.UtlityRate_Details.datasource" />
+    <None Include="Properties\DataSources\DataTier.Zone.datasource" />
+    <None Include="Properties\DataSources\localDBEntities.datasource" />
+    <None Include="Properties\DataSources\localDBEntities1.datasource" />
+    <None Include="Properties\DataSources\MMS.Transaction.ContractBasket.cPendingContConfirmation.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\ISR\Bapiacap091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacar091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiaccait1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiaccr091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacextc1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacgl091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiackec91.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiackev91.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacpc091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacre091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiactx091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiacwt091.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiparex1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ISR\Bapiret21.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\R3\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\R3\ZbapiAccDocumentPostResponse.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\R3\ZBAPI_ACC_DOCUMENT_POST.wsdl" />
+    <None Include="Web References\ISR\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ISR\ZBAPI_ACC_DOCUMENT_POST.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\companies.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\branch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\branch_element.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layout_horizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electiricy rates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water_rates.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misc_57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\misc_58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman2 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakpoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rent.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_into.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tax.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tax_rate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_square_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breakpoint_selection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="components.ico" />
+    <Content Include="component_green.ico" />
+    <None Include="Resources\view.png" />
+    <None Include="Resources\JohnkeellsLand.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\server_from_client.png" />
+    <None Include="Resources\server_to_client.png" />
+    <None Include="Resources\server_out.png" />
+    <None Include="Resources\chart.png" />
+    <None Include="Resources\earth.png" />
+    <None Include="Resources\printer4.png" />
+    <None Include="Resources\box.png" />
+    <None Include="Resources\document_edit1.png" />
+    <None Include="Resources\document_edit.png" />
+    <None Include="Resources\help - Copy.png" />
+    <None Include="Resources\bkg.png" />
+    <None Include="Resources\shopping mall system.png" />
+    <None Include="Resources\view_next.png" />
+    <None Include="Resources\calendar.png" />
+    <EmbeddedResource Include="Dictionaries\EnglishAlphabet.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\printer3.png" />
+    <None Include="Resources\briefcase_document.png" />
+    <None Include="Resources\check21.png" />
+    <None Include="Resources\auction_hammer.png" />
+    <None Include="Resources\data1.png" />
+    <None Include="Resources\server_network.png" />
+    <None Include="Resources\server_add.png" />
+    <None Include="Resources\server_earth.png" />
+    <None Include="Resources\server_client1.png" />
+    <None Include="Resources\logo_1.png" />
+    <None Include="Resources\JKCS logo1.png" />
+    <None Include="Resources\JKCS logo.png" />
+    <None Include="Resources\JKCS-Logo.jpg" />
+    <None Include="Resources\jkcs_logo_small.png" />
+    <None Include="Resources\JKCSLOGO.png" />
+    <None Include="Resources\jkcs_logo_small.JPG" />
+    <None Include="Resources\table_sql_check.png" />
+    <None Include="Resources\document_text1.png" />
+    <None Include="Resources\delete22.png" />
+    <None Include="Resources\delete21.png" />
+    <None Include="Resources\gears.png" />
+    <None Include="Resources\at.png" />
+    <None Include="Resources\dot-chart.png" />
+    <None Include="Resources\mail2.png" />
+    <None Include="Resources\printer21.png" />
+    <None Include="Resources\document_view.png" />
+    <None Include="Resources\user1_message.png" />
+    <None Include="Resources\disk_blue2.png" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\user1_monitor.png" />
+    <None Include="Resources\check2.png" />
+    <None Include="Resources\key1.ico" />
+    <None Include="Resources\key1 - Copy.png" />
+    <None Include="Resources\Login0011.png" />
+    <None Include="Resources\Login001.png" />
+    <None Include="Resources\login.gif" />
+    <None Include="Resources\lock_preferences.png" />
+    <None Include="Resources\users_family.png" />
+    <None Include="Resources\users_into1.png" />
+    <None Include="Resources\Upload.png" />
+    <None Include="Resources\gear.png" />
+    <None Include="Resources\disk_blue1.png" />
+    <None Include="Resources\list %281%29.png" />
+    <None Include="Resources\delete2.png" />
+    <None Include="Resources\document_text.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\box_next1.png" />
+    <None Include="Resources\refresh1.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\contract.png" />
+    <None Include="Resources\window_preferences.png" />
+    <None Include="Resources\window_gear1.png" />
+    <None Include="Resources\window_gear.png" />
+    <None Include="Resources\document_into.png" />
+    <None Include="Resources\document_out.png" />
+    <None Include="Resources\box_next.png" />
+    <None Include="Resources\undo.png" />
+    <None Include="Resources\note_edit.png" />
+    <None Include="Resources\application_enterprise_stop.png" />
+    <None Include="Resources\elements2.png" />
+    <None Include="Resources\bookmark_preferences.png" />
+    <None Include="Resources\briefcase2_document.png" />
+    <None Include="Resources\note_delete.png" />
+    <None Include="Resources\contract_terminate_64.jpg" />
+    <None Include="Resources\folder_into1.png" />
+    <None Include="Resources\list1.png" />
+    <None Include="Resources\document_ok.png" />
+    <None Include="Resources\preferences1.png" />
+    <None Include="Resources\printer2.png" />
+    <None Include="Resources\printer1.png" />
+    <None Include="Resources\preferences.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\data.png" />
+    <None Include="Resources\server_client.png" />
+    <None Include="Resources\document_pulse.png" />
+    <None Include="Resources\folder_into.png" />
+    <None Include="Resources\disk_blue.png" />
+    <None Include="Resources\note_new.png" />
+    <None Include="Resources\row_preferences.png" />
+    <None Include="Resources\elements1.png" />
+    <None Include="Resources\recycle.png" />
+    <None Include="Resources\invoice.png" />
+    <None Include="Resources\icecube.png" />
+    <None Include="Resources\index_down.png" />
+    <None Include="Resources\index_up.png" />
+    <None Include="Resources\application.png" />
+    <None Include="Resources\window.png" />
+    <None Include="Resources\text_align_left.png" />
+    <None Include="Resources\document_error.png" />
+    <None Include="Resources\document_check.png" />
+    <None Include="Resources\note_pinned.png" />
+    <None Include="Resources\contract2_pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="AHPL.exe.config">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="C1.Win.C1Command.4">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="components.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="component_green.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Data.AdoDotNetInterop">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DataTier">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.BonusSkins.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Charts.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Data.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.DataAccess.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Docs.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Office.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Pdf.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.PivotGrid.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Printing.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.RichEdit.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Snap.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Sparkline.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.SpellChecker.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Spreadsheet.v13.1.Core">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Utils.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Utils.v13.1.UI">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Xpo.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraBars.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraEditors.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraGrid.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraLayout.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraNavBar.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraPivotGrid.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraPrinting.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraRichEdit.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraRichEdit.v13.1.Extensions">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraSpellChecker.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraTreeList.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraVerticalGrid.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraWizard.v13.1">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="FlashControlV71">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ShockwaveFlashObjects">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataTier\DataTier.csproj">
+      <Project>{39317A07-A07C-4FCE-B6B3-33EFAF43FE99}</Project>
+      <Name>DataTier</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="C:\Users\Yash\Desktop\AHPL\SAP ISR\ZBAPI_ACC_DOCUMENT_POST.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ISR\</RelPath>
+      <UpdateFromURL>C:\Users\Yash\Desktop\AHPL\SAP ISR\ZBAPI_ACC_DOCUMENT_POST.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>AHPL_ISR_ZBAPI_ACC_DOCUMENT_POST</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="C:\Users\Yash\Desktop\AHPL\ZBAPI_ACC_DOCUMENT_POST.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\R3\</RelPath>
+      <UpdateFromURL>C:\Users\Yash\Desktop\AHPL\ZBAPI_ACC_DOCUMENT_POST.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>AHPL_Acc_Document_Post_ZBAPI_ACC_DOCUMENT_POST</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DB\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

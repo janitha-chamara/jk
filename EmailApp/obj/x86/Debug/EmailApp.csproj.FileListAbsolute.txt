@@ -1,0 +1,865 @@
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+D:\Development\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+D:\Development\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+D:\Development\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+D:\Development\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+D:\Development\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+D:\Development\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+D:\Development\AHPL\EmailApp\bin\Debug\EmailApp.application
+D:\Development\AHPL\EmailApp\bin\Debug\EmailApp.exe
+D:\Development\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+D:\Development\AHPL\EmailApp\bin\Debug\DataTier.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\Development\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+D:\Development\AHPL\EmailApp\bin\Debug\MMS.exe
+D:\Development\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Data.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Security.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Xml.dll
+D:\Development\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ParentForm.dll
+D:\Development\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+D:\Development\AHPL\EmailApp\bin\Debug\MMS.pdb
+D:\Development\AHPL\EmailApp\bin\Debug\DataTier.pdb
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+D:\Development\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\EmailApp.application
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\MMS.exe
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Security.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ParentForm.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\EmailApp.application
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DataTier.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\MMS.exe
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Security.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ParentForm.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\MMS.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+C:\Users\Administrator\Desktop\JKCS\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+C:\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+C:\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+C:\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+C:\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+C:\AHPL\EmailApp\bin\Debug\EmailApp.application
+C:\AHPL\EmailApp\bin\Debug\EmailApp.exe
+C:\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+C:\AHPL\EmailApp\bin\Debug\DataTier.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+C:\AHPL\EmailApp\bin\Debug\MMS.exe
+C:\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+C:\AHPL\EmailApp\bin\Debug\System.Data.dll
+C:\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+C:\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+C:\AHPL\EmailApp\bin\Debug\System.dll
+C:\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+C:\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+C:\AHPL\EmailApp\bin\Debug\System.Security.dll
+C:\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+C:\AHPL\EmailApp\bin\Debug\System.Xml.dll
+C:\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+C:\AHPL\EmailApp\bin\Debug\ParentForm.dll
+C:\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+C:\AHPL\EmailApp\bin\Debug\MMS.pdb
+C:\AHPL\EmailApp\bin\Debug\DataTier.pdb
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+C:\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.application
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Security.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.exe
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ParentForm.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\AsyncCtpLibrary.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Net.Http.dll
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.pdb
+E:\MMS_JK\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\AsyncCtpLibrary.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.application
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.exe
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Security.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ParentForm.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\AsyncCtpLibrary.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Net.Http.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.pdb
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\AsyncCtpLibrary.xml
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+E:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.application
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.exe
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.exe
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Security.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ParentForm.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\MMS.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DataTier.pdb
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+D:\MMS_JK\Azure_test\ISR-test\ISR-test\AHPL _3_7_2020\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.application
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DataTier.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\MMS.exe
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Security.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Xml.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ParentForm.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\MMS.pdb
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DataTier.pdb
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+E:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.application
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.exe
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DataTier.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\MMS.exe
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Security.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Xml.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ParentForm.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\C1.Win.C1Command.4.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\AsyncCtpLibrary.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Net.Http.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\MMS.pdb
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DataTier.pdb
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\System.Net.Http.xml
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+D:\MMS_JK\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\Dictionaries\american.xlg
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\Dictionaries\CustomEnglish.dic
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\Dictionaries\english.aff
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\Dictionaries\EnglishAlphabet.txt
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\EmailApp.exe.config
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\EmailApp.exe.manifest
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\EmailApp.application
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\EmailApp.exe
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\EmailApp.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DataTier.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.BonusSkins.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Data.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Data.Entity.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Deployment.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Drawing.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Security.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Windows.Forms.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Xml.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\System.Xml.Linq.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DataTier.pdb
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Data.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.Utils.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraBars.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.csprojResolveAssemblyReference.cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.Properties.Resources.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.WaitForm1.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.xEmailApp.resources
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.csproj.GenerateResource.Cache
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.licenses
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe.manifest
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.application
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.exe
+C:\Users\jsoft\Insharp\AHPL _latest_code\AHPL\EmailApp\obj\x86\Debug\EmailApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Release\DataTier.dll.config
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Release\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\bin\Release\DataTier.pdb
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Release\DataTier.dll.licenses
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Release\DataTier.dll
+C:\Users\Administrator\Desktop\AHPL_Source\AHPL\DataTier\obj\Release\DataTier.pdb
